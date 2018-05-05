@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Candidate Truck Stops for Electrification in Zone C7</title>
+
+<script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAiSSupeSw4QpDRZUYpf09nhTT7RuaZGDV2KV5JOcQ8FkhyHNjnhTEeXY-3lKNeDoSlhOteehLifHEaQ" type="text/javascript"></script><script src="http://www.google-analytics.com/urchin.js"
+type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-417427-7";
+urchinTracker();
+</script>
+<style type="text/css">
+<!--
+.googlemap { width: 720px; height: 480px; margin: 3px auto; border: 1px solid #CDCDCD; }
+h3,h4,p { margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; }
+.googlemap { width: 900px; height: 480px; margin: 10px; border: 1px solid #CDCDCD; }
+.googlemap#map h3,.googlemap#map h4,.googlemap h5,.googlemap#map p { margin:0; padding:0; }
+.googlemap h5 { padding-top: 0.5em; }
+
+-->
+</style>
+<link href="../css/corridors.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="showMap()" onunload="GUnload()">
+
+<div id="mapinfo" class="clearfix"><h1>National Deployment Strategy for Truck Stop Electrification</h1>
+<h5>project by the <a href="http://tti.tamu.edu">Texas Transportation Institute</a> with funding provided by the <a href="http://www.epa.gov">United States Environmental Protection Agency</a></h5>
+<h2>Candidate Truck Stops for Electrification in Zone C7</h2>
+
+<p><a href="" onclick="window.close()">Close window/return to interactive map</a> <br /><br />
+Using the map controls:<br />
+<strong>To Zoom:</strong> Use the vertical slider control, or click the &#8216;+&#8217; and &#8216;-&#8217; buttons.<br />
+<strong>To Move:</strong> Drag the map itself, or use your keyboard's arrow keys.<br /><br />
+
+</p>
+<table border="0">
+  <caption>
+    Map Key
+  </caption>
+  <tr>
+    <td><img src="../images/mm_20_yellow.png" alt="small yellow pointer icon" width="12" height="20" /></td>
+    <td>These are candidate truck stops for electrification. You may click these to see each truck stop's name and street address.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/default_red_marker.png" alt="large red marker" width="20" height="34" /></td>
+    <td>These show the beginning and ending points of the zone.</td>
+  </tr>
+</table>
+
+<!-- end #mapinfo --></div>
+
+<div class="googlemap" id="map">    <!-- the id is used by the showMap() function to replace the div's contents w/the map -->
+          <noscript>
+          <p><strong>NOTE</strong>: if you do not see the embedded Google map here, your computer is set to disable Javascript. To view the Google map, consult your browser software's Help file to enable Javascript functionality. <!--Or, you may click the link below to go to the Google Maps page, which has a viewable map option for users with Javascript disabled. --></p>
+          </noscript>
+    </div>
+	
+	
+	<p class="disclaimer">Truck stops close to one another may be represented by a single marker, or by multiple markers in close proximity. For locations of interest, reposition and zoom the map for more detail and click each marker present.<br /><br />
+
+The research team took every effort possible to make the information presented here as current and accurate as possible. However, there may be cases where more current and accurate information is available. Please let the site administrator know of such occurrences at <a href="mailto:zietsman@tamu.edu">zietsman@tamu.edu</a>. </p>
+	
+	<div id="footer">
+<a href="http://tti.tamu.edu"><img src="../images/ttilogo_small.gif" alt="Texas Transportation Institute" width="100" height="23" border="0" /></a>
+<a href="http://tti.tamu.edu">Texas Transportation Institute</a><br /><br />
+
+Site development by:<br />
+<a href="http://tti.tamu.edu/groups/program.htm?p_org_code=KDV">Texas Transportation Institute Communications Group</a><br />
+<a href="mailto:k-miller@ttimail.tamu.edu">email</a><br />
+979 845 7576
+<!-- end footer --></div>
+	
+	<script type="text/javascript">
+    //<![CDATA[
+    function showMap() {
+        if (GBrowserIsCompatible()) {
+			var nTerminus1Lat =  26.33;
+ var nTerminus1Lng = -80.54;
+ var nTerminus2Lat = 25.81;
+ var nTerminus2Lng = -80.26;
+
+var fullMapLat = (nTerminus1Lat + nTerminus2Lat) / 2;
+			var fullMapLng = (nTerminus1Lng + nTerminus2Lng) / 2;
+
+		            var map = new GMap2(document.getElementById("map"));
+           	map.addControl(new GLargeMapControl());
+        	map.addControl(new GScaleControl());
+       		map.addControl(new GMapTypeControl());
+			map.setCenter(new GLatLng(fullMapLat, fullMapLng), 9);
+            //map.setCenter(new GLatLng(41.06, -75.92), 10);
+
+						var keyboard = new GKeyboardHandler(map);
+
+						var yellowicon = new GIcon();
+			yellowicon.image = "http://labs.google.com/ridefinder/images/mm_20_yellow.png";
+			yellowicon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			yellowicon.iconSize = new GSize(12, 20);
+			yellowicon.shadowSize = new GSize(22, 20);
+			yellowicon.iconAnchor = new GPoint(6, 20);
+			yellowicon.infoWindowAnchor = new GPoint(5, 1);
+			yellowicon.infoShadowAnchor = new GPoint(10, 23);
+			
+			var term1 = new GMarker(new GLatLng(nTerminus1Lat, nTerminus1Lng));
+			map.addOverlay(term1); 
+
+
+			var term2 = new GMarker(new GLatLng(nTerminus2Lat, nTerminus2Lng));
+			map.addOverlay(term2); 
+			// -------------------------------------------------------------------------------------------------------------------
+
+var cTSE0 = new GMarker(new GLatLng(26.0500, -80.4300), yellowicon);
+ map.addOverlay(cTSE0);
+ GEvent.addListener(cTSE0, "click", function() {
+     cTSE0.openInfoWindowHtml("<h4>Seminole Truck Stop</h4><h5>Address</h5><p>4690 US Hwy 27, Weston, FL 33332</p><h5>Directions</h5><p>US 27 (5 mi S of FL 84)</p>");
+ });
+			
+			// -----------------------------------------------------------------------------------------------------------------------------------
+			
+
+ /*        	var term1 = new GMarker(new GLatLng(nTerminus1Lat, nTerminus1Lng));
+			map.addOverlay(term1); 
+
+
+			var term2 = new GMarker(new GLatLng(nTerminus2Lat, nTerminus2Lng));
+			map.addOverlay(term2); */
+			
+          }
+        }
+    //]]>
+</script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+h1, h2, h5 { 
+	font-size: 1em;
+	color: #E5E5E5;
+	float: none;
+	width: 95%;
+	text-align: center;
+}
+h5 { font-size: 0.85em; margin-bottom: 5px; }
+h2 {
+	font-size: 1.7em;
+}
+h1, h2, h5, p { 
+	font-weight: normal; 
+	margin: 10px auto;
+}
+p { 
+	font-size: 0.85em;
+	text-align:center;
+	color: #CCC;
+}
+#sizingmap {
+	margin: 0 5px 5px 5px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+}
+#fixedsizemap {
+	margin: 10px auto;
+	padding: 0px;
+	height: 600px;
+	width: 950px;
+	/*margin-left: 10px;*/
+}
+object, script, noscript {
+	padding: 0;
+	/*margin: 0;*/
+}
+
+div#sizingmap>object, div#sizingmap>script, div#sizingmap>noscript/*, div#fixedsizemap object, div#fixedsizemap script, div#fixedsizemap noscript*/ {
+	/*margin-left: 0 !important;*/
+	margin: 5px 0 0 0;
+	padding: 0 5px 5px 5px;
+}
+a {
+	color: #FFF;
+}

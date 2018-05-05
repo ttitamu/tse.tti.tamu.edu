@@ -1,0 +1,160 @@
+html {
+    min-height: 100%;
+    margin-bottom: 1px;
+}
+body {
+	background: #003; /*#EEE;*/
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 100.01%;
+	padding-bottom: 10px;
+}
+h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input,address,span,div,img,ul,ol,li { 
+	margin:0; 
+	padding:0 
+}
+
+a img, :link img, :visited img { 
+	border:0 
+}
+
+h1, h2, h4, ul, p {  
+	margin: 5px 22px 10px 22px;
+	
+}
+p, ul {
+	font-size: 0.9em;
+}
+ul {
+	margin-left: 35px;
+}
+div>ul {
+	margin-left: 30px;
+}
+h1 {
+	font-size: 1.5em;
+	text-align: center;
+	font-weight: normal;
+	margin-bottom: 5px;
+	/*margin-top: 30px;*/
+	/*float: left;
+	width: 400px;*/
+}
+h5 {
+	text-align: center;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+#enclose>h1 {
+	/*width: 420px;*/
+	/*margin-top: 40px;
+	margin-left: 50px;*/
+}
+h2, h3 {
+	font-size: 1em;
+	margin-bottom: 0;
+	color:#222;
+}
+
+	
+
+#enclose {
+	margin: 10px auto;
+	background: #FFF;
+	border: 1px solid #DDD;
+	width: 700px;
+	padding-bottom: 10px;
+}
+
+#container {
+	width: 650px;
+	margin: 10px auto 0 auto;
+	clear: both;
+}
+
+#logos {
+	width: 150px;
+	/*margin: 10px 20px 10px 10px;*/
+	margin: 5px auto;
+	/*float: right;*/
+	/*text-align: center;*/
+}
+#enclose>#logos {
+	/*margin-right: 40px;*/
+}
+#logos img {
+	margin: 7px 0 0 0;
+}
+
+.subcontainer, #team, #thanks, .howto, #welcome, .new {
+	background: #F3F3F3;
+	/*display: inline;*/
+	margin: 0;
+	width: 310px;
+	border: 1px solid #CCC;
+	padding-top:5px;
+
+}
+
+.subcontainer h2, #team h2, #thanks h2, .howto h3, .new h2 {
+	margin: 5px 10px;
+	
+}
+.subcontainer p, #team p, #thanks p, .howto p, #welcome p, .new p {
+	margin: 0 10px 10px 10px;
+}
+
+#report {
+	float:left;
+	display: inline;
+	margin-bottom: 24px;
+	width: 240px;
+}
+#tabular {
+	clear: left;
+	display: inline;
+	float: left;
+	width: 650px;
+	margin-bottom: 24px;
+}
+
+#maplink {
+	float: right;
+	margin-bottom: 24px;
+	width: 380px;
+}
+#maplink img {
+	margin: 10px 10px 10px 7px;
+	float: right;
+}
+#maplink h2 {
+	color: #640000;
+	font-size: 1.3em;
+}
+
+#team, #thanks, .howto, #welcome, .new {  /* see above with .subcontainer also */
+	clear: both;
+	width: 650px;
+	margin: 0 auto 24px auto;
+}
+
+#container #welcome, #container .new {
+	margin-bottom: 24px;
+}
+#container #welcome p, #container .new p {
+	margin-top: 10px;
+}
+
+.clear {
+	clear: both;
+}
+.disclaimer, .instruction  {
+	font-size: .8em;
+}
+.sponsor {
+	font-size: .7em;
+}
+.hilite {
+	color: #A00;
+	font-size: 1.2em;
+	font-weight: bold;
+}

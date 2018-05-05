@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<corridor name="A" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-80/87</highway>
+			<length>25.00</length>
+			<from city="New York" state="NY"/>
+			<to city="Fairfield" state="NJ"/>
+			<begin long="-73.92" lat="40.80"/>
+			<end long="-74.28" lat="40.89"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-80</highway>
+			<length>43.66</length>
+			<from city="Blakeslee" state="PA"/>
+			<to city="Lime Ridge" state="PA"/>
+			<begin long="-75.57" lat="41.08"/>
+			<end long="-76.34" lat="41.04"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-80</highway>
+			<length>32.72</length>
+			<from city="West Middlesex" state="PA"/>
+			<to city="Newton Falls" state="OH"/>
+			<begin long="-80.42" lat="41.18"/>
+			<end long="-80.95" lat="41.21"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-80</highway>
+			<length>39.14</length>
+			<from city="Genoa" state="OH"/>
+			<to city="Wauseon" state="OH"/>
+			<begin long="-83.41" lat="41.51"/>
+			<end long="-84.14" lat="41.59"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-80</highway>
+			<length>20.41</length>
+			<from city="Crocker" state="IN"/>
+			<to city="Hammond" state="IN"/>
+			<begin long="-87.12" lat="41.57"/>
+			<end long="-87.50" lat="41.57"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-94</highway>
+			<length>40.95</length>
+			<from city="Wilson" state="WI"/>
+			<to city="Oakdale" state="MN"/>
+			<begin long="-92.14" lat="44.93"/>
+			<end long="-92.95" lat="44.95"/>
+		</zone>
+
+		<zone num="7" priority="2">
+			<highway>I-80</highway>
+			<length>62.62</length>
+			<from city="Tylersville" state="PA"/>
+			<to city="Plymptonville" state="PA"/>
+			<begin long="-77.51" lat="41.03"/>
+			<end long="-78.53" lat="41.10"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-80</highway>
+			<length>15.51</length>
+			<from city="Elyria" state="OH"/>
+			<to city="South Amherst" state="OH"/>
+			<begin long="-82.07" lat="41.38"/>
+			<end long="-82.34" lat="41.34"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-80</highway>
+			<length>20.68</length>
+			<from city="Middlebury" state="IN"/>
+			<to city="Granger" state="IN"/>
+			<begin long="-85.66" lat="41.75"/>
+			<end long="-86.05" lat="41.73"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-90</highway>
+			<length>22.88</length>
+			<from city="Gilberts" state="IL"/>
+			<to city="Belvidere" state="IL"/>
+			<begin long="-88.40" lat="42.11"/>
+			<end long="-88.81" lat="42.23"/>
+		</zone>
+
+		<zone num="11" priority="2">
+			<highway>I-90/94</highway>
+			<length>16.68</length>
+			<from city="Maple Bluff" state="WI"/>
+			<to city="Lodi" state="WI"/>
+			<begin long="-89.29" lat="43.13"/>
+			<end long="-89.46" lat="43.34"/>
+		</zone>
+
+		<zone num="12" priority="2">
+			<highway>I-90/94</highway>
+			<length>20.67</length>
+			<from city="New Lisbon" state="WI"/>
+			<to city="Tomah" state="WI"/>
+			<begin long="-90.15" lat="43.88"/>
+			<end long="-90.51" lat="44.02"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="B" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-90/84</highway>
+			<length>38.29</length>
+			<from city="Woodville" state="MA"/>
+			<to city="Stafford Springs" state="CT"/>
+			<begin long="-71.59" lat="42.24"/>
+			<end long="-72.18" lat="41.98"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-95/87</highway>
+			<length>41.40</length>
+			<from city="Larchmont" state="NY"/>
+			<to city="Elizabeth" state="NJ"/>
+			<begin long="-73.75" lat="40.94"/>
+			<end long="-74.19" lat="40.66"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-295/S-700</highway>
+			<length>40.93</length>
+			<from city="Moorestown" state="NJ"/>
+			<to city="Deepwater" state="NJ"/>
+			<begin long="-74.91" lat="39.97"/>
+			<end long="-75.51" lat="39.69"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-95/97</highway>
+			<length>39.97</length>
+			<from city="Rosedale" state="MD"/>
+			<to city="Upper Marlboro" state="MD"/>
+			<begin long="-76.53" lat="39.32"/>
+			<end long="-76.74" lat="38.82"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-95</highway>
+			<length>19.33</length>
+			<from city="Ruther Glen" state="VA"/>
+			<to city="Glen Allen" state="VA"/>
+			<begin long="-77.47" lat="37.94"/>
+			<end long="-77.45" lat="37.67"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-40/85</highway>
+			<length>41.89</length>
+			<from city="Efland" state="NC"/>
+			<to city="Sedgefield" state="NC"/>
+			<begin long="-79.17" lat="36.07"/>
+			<end long="-79.88" lat="35.99"/>
+		</zone>
+
+		<zone num="7" priority="1">
+			<highway>I-85</highway>
+			<length>39.29</length>
+			<from city="Southern Shops" state="SC"/>
+			<to city="West Pelzer" state="SC"/>
+			<begin long="-82.01" lat="34.97"/>
+			<end long="-82.54" lat="34.67"/>
+		</zone>
+
+		<zone num="8" priority="1">
+			<highway>I-20</highway>
+			<length>44.39</length>
+			<from city="Fairfield" state="AL"/>
+			<to city="Cottondale" state="AL"/>
+			<begin long="-86.89" lat="33.50"/>
+			<end long="-87.47" lat="33.17"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-85</highway>
+			<length>15.64</length>
+			<from city="Wise" state="NC"/>
+			<to city="Henderson" state="NC"/>
+			<begin long="-78.18" lat="36.54"/>
+			<end long="-78.36" lat="36.37"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-20/75</highway>
+			<length>40.12</length>
+			<from city="La Vista" state="GA"/>
+			<to city="Villa Rica" state="GA"/>
+			<begin long="-84.36" lat="33.82"/>
+			<end long="-84.95" lat="33.72"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="C" orientation="northsouth">
+	
+		<zone num="1" priority="1">
+			<highway>I-80/94</highway>
+			<length>20.41</length>
+			<from city="Crocker" state="IN"/>
+			<to city="Hammond" state="IN"/>
+			<begin lat="41.57" long="-87.12"/>
+			<end lat="41.57" long="-87.50"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-65</highway>
+			<length>24.66</length>
+			<from city="Lebanon Junction" state="KY"/>
+			<to city="Upton" state="KY"/>
+			<begin lat="37.81" long="-85.74"/>
+			<end lat="37.50" long="-85.88"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-65/24</highway>
+			<length>19.26</length>
+			<from city="Goodlettsville" state="TN"/>
+			<to city="La Vergne" state="TN"/>
+			<begin lat="36.27" long="-86.74"/>
+			<end lat="36.04" long="-86.66"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-75</highway>
+			<length>42.76</length>
+			<from city="Calhoun" state="GA"/>
+			<to city="Kennesaw" state="GA"/>
+			<begin lat="34.47" long="-84.92"/>
+			<end lat="34.01" long="-84.57"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-75</highway>
+			<length>41.36</length>
+			<from city="Locust Grove" state="GA"/>
+			<to city="Payne" state="GA"/>
+			<begin lat="33.31" long="-84.12"/>
+			<end lat="32.84" long="-83.74"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-75</highway>
+			<length>25.48</length>
+			<from city="Arredondo" state="FL"/>
+			<to city="Ocala" state="FL"/>
+			<begin lat="29.60" long="-82.37"/>
+			<end lat="29.27" long="-82.19"/>
+		</zone>
+
+		<zone num="7" priority="1">
+			<highway>U-27</highway>
+			<length>42.87</length>
+			<from city="Okeelanta" state="FL"/>
+			<to city="Brownsville" state="FL"/>
+			<begin lat="26.33" long="-80.54"/>
+			<end lat="25.81" long="-80.26"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-65</highway>
+			<length>28.82</length>
+			<from city="Indianapolis" state="IN"/>
+			<to city="Edinburgh" state="IN"/>
+			<begin lat="39.74" long="-86.14"/>
+			<end lat="39.37" long="-85.94"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-75</highway>
+			<length>38.54</length>
+			<from city="Adel" state="GA"/>
+			<to city="Lake Park" state="GA"/>
+			<begin lat="31.12" long="-83.43"/>
+			<end lat="30.63" long="-83.17"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>U-27</highway>
+			<length>20.01</length>
+			<from city="Davenport" state="FL"/>
+			<to city="Lake of the Hills" state="FL"/>
+			<begin lat="28.24" long="-81.65"/>
+			<end lat="27.96" long="-81.62"/>
+		</zone>
+	</corridor>
+
+	<corridor name="D" orientation="northsouth">
+
+		<zone num="1" priority="1">
+			<highway>I-90/84</highway>
+			<length>38.29</length>
+			<from city="Woodville" state="MA"/>
+			<to city="Stafford Springs" state="CT"/>
+			<begin long="-71.59" lat="42.24"/>
+			<end long="-72.18" lat="41.98"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-95/87</highway>
+			<length>41.40</length>
+			<from city="Larchmont" state="NY"/>
+			<to city="Elizabeth" state="NJ"/>
+			<begin long="-73.75" lat="40.94"/>
+			<end long="-74.19" lat="40.66"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-295/S-700</highway>
+			<length>40.93</length>
+			<from city="Moorestown" state="NJ"/>
+			<to city="Deepwater" state="NJ"/>
+			<begin long="-74.91" lat="39.97"/>
+			<end long="-75.51" lat="39.69"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-95/97</highway>
+			<length>39.97</length>
+			<from city="Rosedale" state="MD"/>
+			<to city="Upper Marlboro" state="MD"/>
+			<begin long="-76.53" lat="39.32"/>
+			<end long="-76.74" lat="38.82"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-95</highway>
+			<length>19.33</length>
+			<from city="Ruther Glen" state="VA"/>
+			<to city="Glen Allen" state="VA"/>
+			<begin long="-77.47" lat="37.94"/>
+			<end long="-77.45" lat="37.67"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-95</highway>
+			<length>18.22</length>
+			<from city="Quinby" state="SC"/>
+			<to city="Timmonsville" state="SC"/>
+			<begin long="-79.63" lat="34.30"/>
+			<end long="-79.88" lat="34.15"/>
+		</zone>
+
+		<zone num="7" priority="1">
+			<highway>I-95</highway>
+			<length>22.68</length>
+			<from city="Kingsland" state="GA"/>
+			<to city="Jacksonville" state="FL"/>
+			<begin long="-81.66" lat="30.80"/>
+			<end long="-81.64" lat="30.48"/>
+		</zone>
+
+		<zone num="8" priority="1">
+			<highway>U-27</highway>
+			<length>26.16</length>
+			<from city="Miami" state="FL"/>
+			<to city="Weston" state="FL"/>
+			<begin long="-80.21" lat="25.81"/>
+			<end long="-80.43" lat="26.06"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-85</highway>
+			<length>19.01</length>
+			<from city="Wise" state="NC"/>
+			<to city="Henderson" state="NC"/>
+			<begin long="-78.18" lat="36.54"/>
+			<end long="-78.38" lat="36.33"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-95</highway>
+			<length>19.78</length>
+			<from city="Benson" state="NC"/>
+			<to city="Eastover" state="NC"/>
+			<begin long="-78.55" lat="35.36"/>
+			<end long="-78.75" lat="35.13"/>
+		</zone>
+
+		<zone num="11" priority="2">
+			<highway>I-95</highway>
+			<length>40.35</length>
+			<from city="Ridgeland" state="SC"/>
+			<to city="Richmond Hill" state="GA"/>
+			<begin long="-81.00" lat="32.44"/>
+			<end long="-81.33" lat="31.96"/>
+		</zone>
+
+		<zone num="12" priority="2">
+			<highway>I-95</highway>
+			<length>20.41</length>
+			<from city="Scottsmoor" state="FL"/>
+			<to city="Bellwood" state="FL"/>
+			<begin long="-80.90" lat="28.79"/>
+			<end long="-80.84" lat="28.51"/>
+		</zone>
+
+		<zone num="13" priority="2">
+			<highway>I-95</highway>
+			<length>22.81</length>
+			<from city="Vero Beach" state="FL"/>
+			<to city="White City" state="FL"/>
+			<begin long="-80.52" lat="27.64"/>
+			<end long="-80.41" lat="27.36"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="E" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-10</highway>
+			<length>18.74</length>
+			<from city="Jacksonville" state="FL"/>
+			<to city="Baldwin" state="FL"/>
+			<begin long="-81.68" lat="30.32"/>
+			<end long="-81.99" lat="30.29"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-10</highway>
+			<length>21.55</length>
+			<from city="Tallahassee" state="FL"/>
+			<to city="Quincy" state="FL"/>
+			<begin long="-84.25" lat="30.50"/>
+			<end long="-84.59" lat="30.54"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-10</highway>
+			<length>22.61</length>
+			<from city="Mobile" state="AL"/>
+			<to city="Grand Bay" state="AL"/>
+			<begin long="-88.08" lat="30.64"/>
+			<end long="-88.40" lat="30.47"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-10</highway>
+			<length>17.36</length>
+			<from city="Prairieville" state="LA"/>
+			<to city="Port Allen" state="LA"/>
+			<begin long="-91.01" lat="30.33"/>
+			<end long="-91.25" lat="30.45"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-10</highway>
+			<length>43.69</length>
+			<from city="Winnie" state="TX"/>
+			<to city="Channelview" state="TX"/>
+			<begin long="-94.41" lat="29.83"/>
+			<end long="-95.12" lat="29.78"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-10</highway>
+			<length>41.22</length>
+			<from city="Seguin" state="TX"/>
+			<to city="San Antonio" state="TX"/>
+			<begin long="-97.89" lat="29.61"/>
+			<end long="-98.51" lat="29.40"/>
+		</zone>
+
+		<zone num="7" priority="2">
+			<highway>I-10</highway>
+			<length>17.09</length>
+			<from city="De Funiak Springs" state="FL"/>
+			<to city="Mossy Head" state="FL"/>
+			<begin long="-86.13" lat="30.69"/>
+			<end long="-86.39" lat="30.73"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-10</highway>
+			<length>41.03</length>
+			<from city="Haaswood" state="LA"/>
+			<to city="New Orleans" state="LA"/>
+			<begin long="-89.64" lat="30.30"/>
+			<end long="-90.11" lat="29.96"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-10</highway>
+			<length>19.92</length>
+			<from city="Breaux Bridge" state="LA"/>
+			<to city="Rayne" state="LA"/>
+			<begin long="-91.95" lat="30.28"/>
+			<end long="-92.27" lat="30.25"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-10</highway>
+			<length>24.9</length>
+			<from city="Katy" state="TX"/>
+			<to city="Sealy" state="TX"/>
+			<begin long="-95.74" lat="29.78"/>
+			<end long="-96.15" lat="29.77"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="F" orientation="northsouth">
+	
+		<zone num="1" priority="1">
+			<highway>I-78</highway>
+			<length>19.48</length>
+			<from city="New York" state="NY"/>
+			<to city="Springfield" state="NJ"/>
+			<begin long="-74.01" lat="40.73"/>
+			<end long="-74.33" lat="40.71"/>
+		</zone>
+		
+		<zone num="2" priority="1">
+			<highway>I-70</highway>
+			<length>80.19</length>
+			<from city="Indian Lake" state="PA"/>
+			<to city="Bentleyville" state="PA"/>
+			<begin long="-78.76" lat="39.98"/>
+			<end long="-80.01" lat="40.13"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-70</highway>
+			<length>38.87</length>
+			<from city="Columbus" state="OH"/>
+			<to city="Springfield" state="OH"/>
+			<begin long="-83.04" lat="39.95"/>
+			<end long="-83.72" lat="39.90"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-70</highway>
+			<length>18.02</length>
+			<from city="Center Point" state="IN"/>
+			<to city="Terre Haute" state="IN"/>
+			<begin long="-87.01" lat="39.48"/>
+			<end long="-87.34" lat="39.43"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-55/70/270</highway>
+			<length>83.41</length>
+			<from city="Marine" state="IL"/>
+			<to city="Foristell" state="MO"/>
+			<begin long="-89.80" lat="38.76"/>
+			<end long="-90.96" lat="38.82"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-70</highway>
+			<length>47.65</length>
+			<from city="Aullville" state="MO"/>
+			<to city="Kansas City" state="MO"/>
+			<begin long="-93.74" lat="39.00"/>
+			<end long="-94.59" lat="39.10"/>
+		</zone>
+		
+		<zone num="7" priority="2">
+			<highway>I-81/78</highway>
+			<length>61.71</length>
+			<from city="Jonestown" state="PA"/>
+			<to city="Carlisle" state="PA"/>
+			<begin long="-76.58" lat="40.41"/>
+			<end long="-77.13" lat="40.23"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-70</highway>
+			<length>18.54</length>
+			<from city="Morristown" state="OH"/>
+			<to city="Old Wash." state="OH"/>
+			<begin long="-81.11" lat="40.06"/>
+			<end long="-81.45" lat="40.03"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-70</highway>
+			<length>44.33</length>
+			<from city="New Paris" state="OH"/>
+			<to city="Wilkinson" state="IN"/>
+			<begin long="-84.79" lat="39.83"/>
+			<end long="-85.60" lat="39.83"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-57/70</highway>
+			<length>23.86</length>
+			<from city="Montrose" state="IL"/>
+			<to city="Altamont" state="IL"/>
+			<begin long="-88.37" lat="39.17"/>
+			<end long="-88.75" lat="39.04"/>
+		</zone>
+
+		<zone num="11" priority="2">
+			<highway>I-70</highway>
+			<length>22.50</length>
+			<from city="Columbia" state="MO"/>
+			<to city="Boonville" state="MO"/>
+			<begin long="-92.34" lat="38.97"/>
+			<end long="-92.74" lat="38.94"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="G" orientation="northsouth">
+	
+		<zone num="1" priority="1">
+			<highway>I-75</highway>
+			<length>39.93</length>
+			<from city="Detroit" state="MI"/>
+			<to city="Monroe" state="MI"/>
+			<begin lat="42.37" long="-83.06"/>
+			<end lat="41.90" long="-83.37"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-75/71</highway>
+			<length>43.32</length>
+			<from city="Cincinnati" state="OH"/>
+			<to city="Dry Ridge" state="KY"/>
+			<begin lat="39.20" long="-84.47"/>
+			<end lat="38.69" long="-84.60"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-75/475</highway>
+			<length>42.99</length>
+			<from city="Clinton" state="TN"/>
+			<to city="Loudon" state="TN"/>
+			<begin lat="36.12" long="-84.03"/>
+			<end lat="35.74" long="-84.39"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-75</highway>
+			<length>42.76</length>
+			<from city="Calhoun" state="GA"/>
+			<to city="Kennesaw" state="GA"/>
+			<begin lat="34.47" long="-84.92"/>
+			<end lat="34.01" long="-84.57"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-75/475</highway>
+			<length>41.36</length>
+			<from city="Locust Grove" state="GA"/>
+			<to city="Payne" state="GA"/>
+			<begin lat="33.31" long="-84.12"/>
+			<end lat="32.84" long="-83.74"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-75</highway>
+			<length>25.48</length>
+			<from city="Arredondo" state="FL"/>
+			<to city="Ocala" state="FL"/>
+			<begin lat="29.60" long="-82.37"/>
+			<end lat="29.27" long="-82.19"/>
+		</zone>
+
+		<zone num="7" priority="1">
+			<highway>U-27</highway>
+			<length>42.87</length>
+			<from city="Coral Springs" state="FL"/>
+			<to city="Miami" state="FL"/>
+			<begin lat="26.33" long="-80.54"/>
+			<end lat="25.81" long="-80.26"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-75</highway>
+			<length>45.48</length>
+			<from city="Findlay" state="OH"/>
+			<to city="Wapakoneta" state="OH"/>
+			<begin long="-83.67" lat="41.06"/>
+			<end long="-84.16" lat="40.59"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-75</highway>
+			<length>39.08</length>
+			<from city="Athens" state="KY"/>
+			<to city="Mount Vernon" state="KY"/>
+			<begin long="-84.34" lat="37.88"/>
+			<end long="-84.31" lat="37.34"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-75</highway>
+			<length>38.54</length>
+			<from city="Adel" state="GA"/>
+			<to city="Lake Park" state="GA"/>
+			<begin long="-83.43" lat="31.12"/>
+			<end long="-83.17" lat="30.63"/>
+		</zone>
+
+		<zone num="11" priority="2">
+			<highway>U-27</highway>
+			<length>20.01</length>
+			<from city="Davenport" state="FL"/>
+			<to city="Lake of the Hills" state="FL"/>
+			<begin long="-81.65" lat="28.24"/>
+			<end long="-81.62" lat="27.96"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="H" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-40</highway>
+			<length>36.6</length>
+			<from city="Efland" state="NC"/>
+			<to city="Greensboro" state="NC"/>
+			<begin long="-79.17" lat="36.07"/>
+			<end long="-79.80" lat="36.03"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-40/75</highway>
+			<length>23.62</length>
+			<from city="Knoxville" state="TN"/>
+			<to city="Lenoir City" state="TN"/>
+			<begin long="-83.94" lat="35.96"/>
+			<end long="-84.33" lat="35.88"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-40</highway>
+			<length>20.11</length>
+			<from city="Mount Juliet" state="TN"/>
+			<to city="Nashville" state="TN"/>
+			<begin long="-86.60" lat="36.17"/>
+			<end long="-86.90" lat="36.13"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-40/240</highway>
+			<length>40.22</length>
+			<from city="Bartlett" state="TN"/>
+			<to city="Jennette" state="AR"/>
+			<begin long="-89.80" lat="35.19"/>
+			<end long="-90.41" lat="35.15"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-40/30</highway>
+			<length>41.87</length>
+			<from city="Lonoke" state="AR"/>
+			<to city="Benton" state="AR"/>
+			<begin long="-91.91" lat="34.80"/>
+			<end long="-92.54" lat="34.60"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-35E/30</highway>
+			<length>62.53</length>
+			<from city="Royse City" state="TX"/>
+			<to city="Waxahachie" state="TX"/>
+			<begin long="-96.30" lat="32.98"/>
+			<end long="-96.87" lat="32.38"/>
+		</zone>
+
+		<zone num="7" priority="1">
+			<highway>I-35/10</highway>
+			<length>43.05</length>
+			<from city="Hunter" state="TX"/>
+			<to city="San Antonio" state="TX"/>
+			<begin long="-98.01" lat="29.81"/>
+			<end long="-98.42" lat="29.42"/>
+		</zone>
+
+		<zone num="8" priority="1">
+			<highway>I-35</highway>
+			<length>18.57</length>
+			<from city="Encinal" state="TX"/>
+			<to city="Laredo" state="TX"/>
+			<begin long="-99.44" lat="27.76"/>
+			<end long="-99.50" lat="27.51"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-40</highway>
+			<length>16.69</length>
+			<from city="Biltmore Forest" state="NC"/>
+			<to city="Canton" state="NC"/>
+			<begin long="-82.49" lat="35.57"/>
+			<end long="-82.77" lat="35.54"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-30</highway>
+			<length>16.58</length>
+			<from city="Mandeville" state="AR"/>
+			<to city="Nash" state="TX"/>
+			<begin long="-93.87" lat="33.55"/>
+			<end long="-94.12" lat="33.45"/>
+		</zone>
+
+		<zone num="11" priority="2">
+			<highway>I-35</highway>
+			<length>37.36</length>
+			<from city="Waco" state="TX"/>
+			<to city="Temple" state="TX"/>
+			<begin long="-97.12" lat="31.56"/>
+			<end long="-97.39" lat="31.09"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="I" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-5</highway>
+			<length>20.6</length>
+			<from city="Tukwila" state="WA"/>
+			<to city="Tacoma" state="WA"/>
+			<begin long="-122.27" lat="47.43"/>
+			<end long="-122.46" lat="47.22"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-5</highway>
+			<length>20.26</length>
+			<from city="Ridgefield" state="WA"/>
+			<to city="Portland" state="OR"/>
+			<begin long="-122.69" lat="45.82"/>
+			<end long="-122.67" lat="45.54"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-5</highway>
+			<length>19.66</length>
+			<from city="Gold Hill" state="OR"/>
+			<to city="Talent" state="OR"/>
+			<begin long="-123.03" lat="42.42"/>
+			<end long="-122.77" lat="42.24"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-5/S-70</highway>
+			<length>20.53</length>
+			<from city="Nicolaus" state="CA"/>
+			<to city="Sacramento" state="CA"/>
+			<begin long="-121.54" lat="38.80"/>
+			<end long="-121.52" lat="38.51"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-5</highway>
+			<length>39.46</length>
+			<from city="Newman" state="CA"/>
+			<to city="Firebaugh" state="CA"/>
+			<begin long="-121.09" lat="37.25"/>
+			<end long="-120.72" lat="36.77"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-5</highway>
+			<length>24.06</length>
+			<from city="Devils Den" state="CA"/>
+			<to city="Buttonwillow" state="CA"/>
+			<begin long="-119.78" lat="35.79"/>
+			<end long="-119.54" lat="35.50"/>
+		</zone>
+
+		<zone num="7" priority="1">
+			<highway>I-710/I-405</highway>
+			<length>20.39</length>
+			<from city="Compton" state="CA"/>
+			<to city="Fountain Valley" state="CA"/>
+			<begin long="-118.19" lat="33.88"/>
+			<end long="-117.97" lat="33.72"/>
+		</zone>
+
+		<zone num="8" priority="1">
+			<highway>I-5</highway>
+			<length>17.21</length>
+			<from city="San Diego" state="CA"/>
+			<to city="Imperial Beach" state="CA"/>
+			<begin long="-117.17" lat="32.73"/>
+			<end long="-117.03" lat="32.54"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-5</highway>
+			<length>19.53</length>
+			<from city="Halsey" state="OR"/>
+			<to city="Eugene" state="OR"/>
+			<begin long="-123.06" lat="44.39"/>
+			<end long="-123.04" lat="44.11"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-5</highway>
+			<length>19.68</length>
+			<from city="Shasta Lake" state="CA"/>
+			<to city="Anderson" state="CA"/>
+			<begin long="-122.31" lat="40.77"/>
+			<end long="-122.33" lat="40.50"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="J" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-55/80</highway>
+			<length>40.56</length>
+			<from city="Bolingbrook" state="IL"/>
+			<to city="Morris" state="IL"/>
+			<begin long="-88.03" lat="41.71"/>
+			<end long="-88.55" lat="41.38"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-80</highway>
+			<length>37.34</length>
+			<from city="Geneseo" state="IL"/>
+			<to city="Davenport" state="IA"/>
+			<begin long="-90.15" lat="41.43"/>
+			<end long="-90.69" lat="41.60"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-80/29</highway>
+			<length>18.90</length>
+			<from city="Underwood" state="IA"/>
+			<to city="Omaha" state="NE"/>
+			<begin long="-95.68" lat="41.38"/>
+			<end long="-95.94" lat="41.23"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-80</highway>
+			<length>40.66</length>
+			<from city="Maxwell" state="NE"/>
+			<to city="Sutherland" state="NE"/>
+			<begin long="-100.52" lat="41.05"/>
+			<end long="-101.27" lat="41.12"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-80</highway>
+			<length>25.08</length>
+			<from city="Cheyenne" state="WY"/>
+			<to city="Buford" state="WY"/>
+			<begin long="-104.81" lat="41.12"/>
+			<end long="-105.28" lat="41.12"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-80</highway>
+			<length>43.53</length>
+			<from city="Point of Rocks" state="WY"/>
+			<to city="Green River" state="WY"/>
+			<begin long="-108.80" lat="41.68"/>
+			<end long="-109.54" lat="41.56"/>
+		</zone>
+
+		<zone num="7" priority="1">
+			<highway>I-80</highway>
+			<length>21.82</length>
+			<from city="Park City" state="UT"/>
+			<to city="Salt Lake City" state="UT"/>
+			<begin long="-111.54" lat="40.73"/>
+			<end long="-111.90" lat="40.72"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-35/80</highway>
+			<length>23.35</length>
+			<from city="Altoona" state="IA"/>
+			<to city="Waukee" state="IA"/>
+			<begin long="-93.46" lat="41.66"/>
+			<end long="-93.83" lat="41.58"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-80</highway>
+			<length>21.08</length>
+			<from city="York" state="NE"/>
+			<to city="Aurora" state="NE"/>
+			<begin long="-97.59" lat="40.82"/>
+			<end long="-97.99" lat="40.82"/>
+		</zone>
+
+		<zone num="10" priority="2">
+			<highway>I-80</highway>
+			<length>35.55</length>
+			<from city="Walcott" state="WY"/>
+			<to city="Riner" state="WY"/>
+			<begin long="-106.84" lat="41.74"/>
+			<end long="-107.50" lat="41.76"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="K" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-10</highway>
+			<length>28.88</length>
+			<from city="Fabens" state="TX"/>
+			<to city="El Paso" state="TX"/>
+			<begin long="-106.14" lat="31.53"/>
+			<end long="-106.48" lat="31.77"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-10</highway>
+			<length>47.01</length>
+			<from city="Lisbon" state="NM"/>
+			<to city="San Simon" state="AZ"/>
+			<begin long="-108.54" lat="32.27"/>
+			<end long="-109.26" lat="32.27"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-10</highway>
+			<length>18.66</length>
+			<from city="Phoenix" state="AZ"/>
+			<to city="Tolleson" state="AZ"/>
+			<begin long="-112.00" lat="33.41"/>
+			<end long="-112.28" lat="33.46"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-10</highway>
+			<length>22.69</length>
+			<from city="Mecca" state="CA"/>
+			<to city="Indio" state="CA"/>
+			<begin long="-115.81" lat="33.66"/>
+			<end long="-116.19" lat="33.72"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-10</highway>
+			<length>17.76</length>
+			<from city="Guasti" state="CA"/>
+			<to city="Covina" state="CA"/>
+			<begin long="-117.58" lat="34.07"/>
+			<end long="-117.87" lat="34.07"/>
+		</zone>
+
+		<zone num="6" priority="2">
+			<highway>I-10</highway>
+			<length>24.72</length>
+			<from city="Vail" state="AZ"/>
+			<to city="Tucson" state="AZ"/>
+			<begin long="-110.68" lat="32.00"/>
+			<end long="-110.98" lat="32.24"/>
+		</zone>
+
+		<zone num="7" priority="2">
+			<highway>I-10</highway>
+			<length>33.79</length>
+			<from city="Hope " state="AZ"/>
+			<to city="Quartzsite" state="AZ"/>
+			<begin long="-113.67" lat="33.62"/>
+			<end long="-114.24" lat="33.66"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="L" orientation="northsouth">
+
+		<zone num="1" priority="1">
+			<highway>I-80</highway>
+			<length>20.41</length>
+			<from city="Crocker" state="IN"/>
+			<to city="Hammond" state="IN"/>
+			<begin lat="41.57" long="-87.12"/>
+			<end lat="41.57" long="-87.50"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-65</highway>
+			<length>24.66</length>
+			<from city="Lebanon Junction" state="KY"/>
+			<to city="Upton" state="KY"/>
+			<begin lat="37.81" long="-85.74"/>
+			<end lat="37.50" long="-85.88"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-65/40</highway>
+			<length>18.29</length>
+			<from city="Goodlettsville" state="TN"/>
+			<to city="Brentwood" state="TN"/>
+			<begin lat="36.27" long="-86.74"/>
+			<end lat="36.03" long="-86.78"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-65</highway>
+			<length>20.67</length>
+			<from city="Kimberly" state="AL"/>
+			<to city="Birmingham" state="AL"/>
+			<begin lat="33.78" long="-86.83"/>
+			<end lat="33.51" long="-86.82"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-65/10</highway>
+			<length>39.77</length>
+			<from city="Creola" state="AL"/>
+			<to city="Grand Bay" state="AL"/>
+			<begin lat="30.88" long="-88.04"/>
+			<end lat="30.47" long="-88.40"/>
+		</zone>
+
+		<zone num="6" priority="2">
+			<highway>I-65</highway>
+			<length>28.82</length>
+			<from city="Indianapolis" state="IN"/>
+			<to city="Edinburgh" state="IN"/>
+			<begin lat="39.74" long="-86.14"/>
+			<end lat="39.37" long="-85.94"/>
+		</zone>
+
+		<zone num="7" priority="2">
+			<highway>I-65</highway>
+			<length>35.91</length>
+			<from city="Prattville" state="AL"/>
+			<to city="Letohatchee" state="AL"/>
+			<begin lat="32.55" long="-86.46"/>
+			<end lat="32.11" long="-86.47"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="M" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-40/85</highway>
+			<length>41.63</length>
+			<from city="Efland" state="NC"/>
+			<to city="Sedgefield" state="NC"/>
+			<begin long="-79.17" lat="36.07"/>
+			<end long="-79.88" lat="35.99"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-85</highway>
+			<length>39.10</length>
+			<from city="Southern Shops" state="SC"/>
+			<to city="West Pelzer" state="SC"/>
+			<begin long="-82.01" lat="34.97"/>
+			<end long="-82.54" lat="34.67"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-20</highway>
+			<length>44.39</length>
+			<from city="Fairfield" state="AL"/>
+			<to city="Cottondale" state="AL"/>
+			<begin long="-86.89" lat="33.50"/>
+			<end long="-87.47" lat="33.17"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-20</highway>
+			<length>20.46</length>
+			<from city="Brandon" state="MS"/>
+			<to city="Clinton" state="MS"/>
+			<begin long="-90.00" lat="32.28"/>
+			<end long="-90.32" lat="32.32"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-20</highway>
+			<length>36.91</length>
+			<from city="Haughton" state="LA"/>
+			<to city="Waskom" state="TX"/>
+			<begin long="-93.51" lat="32.55"/>
+			<end long="-94.09" lat="32.48"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-20</highway>
+			<length>34.03</length>
+			<from city="Terrell" state="TX"/>
+			<to city="DeSoto" state="TX"/>
+			<begin long="-96.27" lat="32.70"/>
+			<end long="-96.82" lat="32.64"/>
+		</zone>
+
+		<zone num="7" priority="2">
+			<highway>I-20/75</highway>
+			<length>39.61</length>
+			<from city="Atlanta" state="GA"/>
+			<to city="Villa Rica" state="GA"/>
+			<begin long="-84.36" lat="33.82"/>
+			<end long="-84.94" lat="33.72"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-20</highway>
+			<length>59.59</length>
+			<from city="Epes" state="AL"/>
+			<to city="Chunky" state="MS"/>
+			<begin long="-88.10" lat="32.74"/>
+			<end long="-88.91" lat="32.34"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-20</highway>
+			<length>20.89</length>
+			<from city="Sicard" state="LA"/>
+			<to city="Calhoun" state="LA"/>
+			<begin long="-91.99" lat="32.49"/>
+			<end long="-92.34" lat="32.52"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="N" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-81</highway>
+			<length>18.29</length>
+			<from city="Progress" state="PA"/>
+			<to city="Carlisle" state="PA"/>
+			<begin long="-76.84" lat="40.31"/>
+			<end long="-77.13" lat="40.23"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-81</highway>
+			<length>41.35</length>
+			<from city="Buchanan" state="VA"/>
+			<to city="Christiansburg" state="VA"/>
+			<begin long="-79.75" lat="37.50"/>
+			<end long="-80.32" lat="37.16"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-40/75</highway>
+			<length>23.62</length>
+			<from city="Knoxville" state="TN"/>
+			<to city="Lenoir City" state="TN"/>
+			<begin long="-83.94" lat="35.96"/>
+			<end long="-84.33" lat="35.88"/>
+		</zone>
+
+		<zone num="4" priority="2">
+			<highway>I-81</highway>
+			<length>37.71</length>
+			<from city="Middletown" state="VA"/>
+			<to city="New Market" state="VA"/>
+			<begin long="-78.28" lat="39.02"/>
+			<end long="-78.69" lat="38.64"/>
+		</zone>
+
+		<zone num="5" priority="2">
+			<highway>I-81</highway>
+			<length>20.08</length>
+			<from city="Adwolf" state="VA"/>
+			<to city="Abingdon" state="VA"/>
+			<begin long="-81.61" lat="36.81"/>
+			<end long="-81.94" lat="36.71"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="O" orientation="eastwest">
+
+		<zone num="1" priority="1">
+			<highway>I-95/97</highway>
+			<length>39.97</length>
+			<from city="Rosedale" state="MD"/>
+			<to city="Upper Marlboro" state="MD"/>
+			<begin long="-76.53" lat="39.32"/>
+			<end long="-76.74" lat="38.82"/>
+		</zone>
+
+		<zone num="2" priority="1">
+			<highway>I-95</highway>
+			<length>19.33</length>
+			<from city="Ruther Glen" state="VA"/>
+			<to city="Glen Allen" state="VA"/>
+			<begin long="-77.47" lat="37.94"/>
+			<end long="-77.45" lat="37.67"/>
+		</zone>
+
+		<zone num="3" priority="1">
+			<highway>I-40/85</highway>
+			<length>41.89</length>
+			<from city="Efland" state="NC"/>
+			<to city="Sedgefield" state="NC"/>
+			<begin long="-79.17" lat="36.07"/>
+			<end long="-79.88" lat="35.99"/>
+		</zone>
+
+		<zone num="4" priority="1">
+			<highway>I-85</highway>
+			<length>39.10</length>
+			<from city="Saxon" state="SC"/>
+			<to city="Piedmont" state="SC"/>
+			<begin long="-82.01" lat="34.97"/>
+			<end long="-82.54" lat="34.67"/>
+		</zone>
+
+		<zone num="5" priority="1">
+			<highway>I-85/75</highway>
+			<length>45.52</length>
+			<from city="La Vista" state="GA"/>
+			<to city="East Newnan" state="GA"/>
+			<begin long="-84.36" lat="33.82"/>
+			<end long="-84.77" lat="33.33"/>
+		</zone>
+
+		<zone num="6" priority="1">
+			<highway>I-65/10</highway>
+			<length>39.77</length>
+			<from city="Creola" state="AL"/>
+			<to city="Grand Bay" state="AL"/>
+			<begin long="-88.04" lat="30.88"/>
+			<end long="-88.40" lat="30.47"/>
+		</zone>
+
+		<zone num="7" priority="2">
+			<highway>I-85</highway>
+			<length>15.64</length>
+			<from city="Wise" state="NC"/>
+			<to city="Handerson" state="NC"/>
+			<begin long="-78.18" lat="36.54"/>
+			<end long="-78.36" lat="36.37"/>
+		</zone>
+
+		<zone num="8" priority="2">
+			<highway>I-65/85</highway>
+			<length>38.10</length>
+			<from city="Shorter" state="AL"/>
+			<to city="Letohatchee" state="AL"/>
+			<begin long="-86.01" lat="32.38"/>
+			<end long="-86.47" lat="32.11"/>
+		</zone>
+
+		<zone num="9" priority="2">
+			<highway>I-10</highway>
+			<length>39.24</length>
+			<from city="Pearlington" state="LA"/>
+			<to city="New Orleans" state="LA"/>
+			<begin long="-89.64" lat="30.30"/>
+			<end long="-90.08" lat="29.95"/>
+		</zone>
+		
+	</corridor>
+
+</list>

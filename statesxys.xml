@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<states>
+
+	<state name="Alabama" x="-172" y="-111" scale="377" />
+	<state name="Arizona" x="271" y="-62" scale="316" />
+	<state name="Arkansas" x="-71" y="-77" scale="489" />
+	<state name="California" x="374" y="48" scale="183" />
+	<state name="Colorado" x="152" y="25" scale="414" />
+	<state name="Connecticut" x="-379" y="111" scale="940" />
+	<state name="Delaware" x="-351" y="48" scale="940" />
+	<state name="Florida" x="-245" y="-199" scale="347" />
+	<state name="Georgia" x="-240" y="-106" scale="410" />
+	<state name="Illinois" x="-119" y="39" scale="355" />
+	<state name="Indiana" x="-167" y="38" scale="451" />
+	<state name="Iowa" x="-52" y="77" scale="548" />
+	<state name="Kansas" x="31" y="2" scale="483" />
+	<state name="Kentucky" x="-185" y="-7" scale="492" />
+	<state name="Louisiana" x="-90" y="-155" scale="492" />
+	<state name="Maryland" x="-321" y="35" scale="723" />
+	<state name="Massachusetts" x="-394" y="121" scale="905" />
+	<state name="Michigan" x="-170" y="141" scale="334" />
+	<state name="Minnesota" x="-44" y="178" scale="334" />
+	<state name="Mississippi" x="-123" y="-118" scale="392" />
+	<state name="Missouri" x="-66" y="2" scale="418" />
+	<state name="Nebraska" x="51" y="70" scale="418" />
+	<state name="Nevada" x="345" y="56" scale="250" />
+	<state name="New Jersey" x="-361" y="65" scale="965" />
+	<state name="New Mexico" x="178" y="-70" scale="340" />
+	<state name="New York" x="-330" y="139" scale="440" />
+	<state name="North Carolina" x="-289" y="-35" scale="416" />
+	<state name="Ohio" x="-226" y="51" scale="587" />
+	<state name="Oregon" x="375" y="176" scale="371" />
+	<state name="Pennsylvania" x="-312" y="79" scale="541" />
+	<state name="Rhode Island" x="-402" y="120" scale="1000" />
+	<state name="South Carolina" x="-278" y="-83" scale="604" />
+	<state name="Tennessee" x="-183" y="-51" scale="448" />
+	<state name="Texas" x="68" y="-136" scale="183" />
+	<state name="Utah" x="257" y="50" scale="360" />
+	<state name="Virginia" x="-303" y="10" scale="405" />
+	<state name="Washington" x="351" y="243" scale="502" />
+	<state name="West Virginia" x="-270" y="29" scale="559" />
+	<state name="Wisconsin" x="-98" y="140" scale="433" />
+	<state name="Wyoming" x="176" y="114" scale="425"  />
+
+</states>

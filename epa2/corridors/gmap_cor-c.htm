@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Existing Electrified Truckstops in Corridor C: Chicago to Miami</title>
+
+<script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAiSSupeSw4QpDRZUYpf09nhTT7RuaZGDV2KV5JOcQ8FkhyHNjnhTEeXY-3lKNeDoSlhOteehLifHEaQ" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.googlemap { width: 900px; height: 480px; }
+.googlemap#map h3,.googlemap#map h4,.googlemap h5,.googlemap#map p { margin:0; padding:0; }
+-->
+</style>
+<link href="../css/corridors.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="showMap()" onunload="GUnload()">
+<div id="mapinfo" class="clearfix">
+<h1>National Deployment Strategy for Truck Stop Electrification</h1>
+<h5>project by the <a href="http://tti.tamu.edu">Texas Transportation Institute</a> with funding provided by the <a href="http://www.epa.gov">United States Environmental Protection Agency</a></h5>
+<h2>Existing Electrified Truck Stops in Corridor C: Chicago to Miami</h2>
+
+<p><!--<a href="" onclick="window.close()">Close window/return to interactive map</a> <br /><br /> -->
+Using the map controls:<br />
+<strong>To Zoom:</strong> Use the vertical slider control, or click the &#8216;+&#8217; and &#8216;-&#8217; buttons.<br />
+<strong>To Move:</strong> Drag the map itself, or use your keyboard's arrow keys.<br /><br />
+<!--See <a href="#" target="#disclaimer">disclaimer</a>. -->
+</p>
+
+<table border="0">
+  <caption>
+    Map Key
+  </caption>
+  <tr>
+    <td><img src="../images/mm_20_green.png" alt="small green pointer icon" width="12" height="20" /></td>
+    <td>These are existing electrified truck stops. You may click these to see each truck stop's name and street address.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/default_red_marker.png" alt="large red marker" width="20" height="34" /></td>
+    <td>These represent the beginning and ending points of the corridor.</td>
+  </tr>
+</table>
+
+
+<!-- end #mapinfo --></div>
+
+<div class="googlemap" id="map">    <!-- the id is used by the showMap() function to replace the div's contents w/the map -->
+          
+		  <noscript>
+          <p><strong>NOTE</strong>: if you do not see the embedded Google map here, your computer is set to disable Javascript. To view the Google map, consult your browser software's Help file to enable Javascript functionality.</p>
+          </noscript>
+</div>
+<!--<a name="disclaimer" id="disclaimer"></a> --><p class="disclaimer">Truck stops close to one another may be represented by a single marker, or by multiple markers in close proximity. For locations of interest, reposition and zoom the map for more detail and click each marker present.<br /><br />
+
+The research team took every effort possible to make the information presented here as current and accurate as possible. However, there may be cases where more current and accurate information is available. Please let the site administrator know of such occurrences at <a href="mailto:zietsman@tamu.edu">zietsman@tamu.edu</a>. </p>
+
+<div id="footer">
+<a href="http://tti.tamu.edu"><img src="../images/ttilogo_small.gif" alt="Texas Transportation Institute" width="100" height="23" border="0" /></a>
+<a href="http://tti.tamu.edu">Texas Transportation Institute</a><br /><br />
+
+Site development by:<br />
+<a href="http://tti.tamu.edu/groups/program.htm?p_org_code=KDV">Texas Transportation Institute Communications Group</a><br />
+<a href="mailto:k-miller@ttimail.tamu.edu">email</a><br />
+979 845 7576
+<!-- end footer --></div>
+	
+	<script type="text/javascript">
+    //<![CDATA[
+    function showMap() {
+        if (GBrowserIsCompatible()) {
+			var nTerminus1Lat =  42.011582;
+			var nTerminus1Lng = -87.671413;
+			var nTerminus2Lat =  25.762871;
+			var nTerminus2Lng = -80.20006;
+			
+			var fullMapLat = (nTerminus1Lat + nTerminus2Lat) / 2;
+			var fullMapLng = (nTerminus1Lng + nTerminus2Lng) / 2;
+		
+            var map = new GMap2(document.getElementById("map"));
+           	map.addControl(new GLargeMapControl());
+        	map.addControl(new GScaleControl());
+       		map.addControl(new GMapTypeControl());
+            //map.setCenter(new GLatLng(fullMapLat, fullMapLng), 5);
+			map.setCenter(new GLatLng(35.424868,-82.441406), 5);
+			
+			var keyboard = new GKeyboardHandler(map);  // initiates keyboard controls
+			
+			// Create small red marker icon
+			var redicon = new GIcon();
+			redicon.image = "http://labs.google.com/ridefinder/images/mm_20_red.png";
+			redicon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			redicon.iconSize = new GSize(12, 20);
+			redicon.shadowSize = new GSize(22, 20);
+			redicon.iconAnchor = new GPoint(6, 20);
+			redicon.infoWindowAnchor = new GPoint(5, 1);
+			redicon.infoShadowAnchor = new GPoint(10, 23);
+			
+			
+			// Create small green marker icon
+			var greenicon = new GIcon();
+			greenicon.image = "http://labs.google.com/ridefinder/images/mm_20_green.png";
+			greenicon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			greenicon.iconSize = new GSize(12, 20);
+			greenicon.shadowSize = new GSize(22, 20);
+			greenicon.iconAnchor = new GPoint(6, 20);
+			greenicon.infoWindowAnchor = new GPoint(5, 1);
+			greenicon.infoShadowAnchor = new GPoint(10, 23);
+			
+			
+			// Create small yellow marker icon
+			var yellowicon = new GIcon();
+			yellowicon.image = "http://labs.google.com/ridefinder/images/mm_20_yellow.png";
+			yellowicon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			yellowicon.iconSize = new GSize(12, 20);
+			yellowicon.shadowSize = new GSize(22, 20);
+			yellowicon.iconAnchor = new GPoint(6, 20);
+			yellowicon.infoWindowAnchor = new GPoint(5, 1);
+			yellowicon.infoShadowAnchor = new GPoint(10, 23);
+			
+			var term1 = new GMarker(new GLatLng(nTerminus1Lat, nTerminus1Lng));
+			map.addOverlay(term1); 
+			/*GEvent.addListener(term1, "click", function() {
+				term1.openInfoWindowHtml("<h4>Corridor B Terminus</h4><p><strong>Lat:</strong> " + nTerminus1Lat +"</p><p><strong>Long:</strong> " + nTerminus1Lng +"</p>");
+			});*/
+			
+			
+			var term2 = new GMarker(new GLatLng(nTerminus2Lat, nTerminus2Lng));
+			map.addOverlay(term2); 
+			/*GEvent.addListener(term2, "click", function() {
+				term2.openInfoWindowHtml("<h4>Corridor B Terminus</h4><p><strong>Lat:</strong> " + nTerminus2Lat +"</p><p><strong>Long:</strong> " + nTerminus2Lng +"</p>");
+			});*/
+			
+			
+			// --------------------------------------------------------------------------------------------------------
+			
+			
+
+               var eTSE1 = new GMarker(new GLatLng(28.84, -82.03), greenicon);
+               map.addOverlay(eTSE1);
+               GEvent.addListener(eTSE1, "click", function() {
+                    eTSE1.openInfoWindowHtml("<h4>TA #053 - Wildwood</h4><p>556 E State Road 44</p><p>Wildwood, FL</p><h5>Directions</h5><p>I-75, Exit 66</p>");
+                    });
+
+               var eTSE2 = new GMarker(new GLatLng(29.40, -82.24), greenicon);
+               map.addOverlay(eTSE2);
+               GEvent.addListener(eTSE2, "click", function() {
+                    eTSE2.openInfoWindowHtml("<h4>Petro #23 - Ocala</h4><p>7401 W Hwy 318</p><p>Reddick, FL</p><h5>Directions</h5><p>I-75, Exit 368</p>");
+                    });
+
+               var eTSE3 = new GMarker(new GLatLng(33.78, -84.49), greenicon);
+               map.addOverlay(eTSE3);
+               GEvent.addListener(eTSE3, "click", function() {
+                    eTSE3.openInfoWindowHtml("<h4>Petro #22 - Atlanta, GA</h4><p>3181 Bankhead Hwy NW</p><p>Atlanta, GA</p><h5>Directions</h5><p>I-285 Exit 12 (US 78-278 E)</p>");
+                    });
+
+               var eTSE4 = new GMarker(new GLatLng(33.28, -83.97), greenicon);
+               map.addOverlay(eTSE4);
+               GEvent.addListener(eTSE4, "click", function() {
+                    eTSE4.openInfoWindowHtml("<h4>TA #100 - Jackson</h4><p>122 Truck Stop Way</p><p>Jackson, GA</p><h5>Directions</h5><p>I-75, Exit 201 (GA 36 E)</p>");
+                    });
+
+               var eTSE5 = new GMarker(new GLatLng(34.18, -84.83), greenicon);
+               map.addOverlay(eTSE5);
+               GEvent.addListener(eTSE5, "click", function() {
+                    eTSE5.openInfoWindowHtml("<h4>TA #146 - Cartersville, GA</h4><p>981 Cassville-White Dr</p><p>Cartersville, GA</p><h5>Directions</h5><p>I-75 Exit 196</p>");
+                    });
+
+               var eTSE6 = new GMarker(new GLatLng(41.42, -87.75), greenicon);
+               map.addOverlay(eTSE6);
+               GEvent.addListener(eTSE6, "click", function() {
+                    eTSE6.openInfoWindowHtml("<h4>Petro #65 - Monee</h4><p>5915 Monee Rd</p><p>Monee, IL</p><h5>Directions</h5><p>I-57, Exit 335 (US 57 E)</p>");
+                    });
+
+               var eTSE7 = new GMarker(new GLatLng(41.53, -87.42), greenicon);
+               map.addOverlay(eTSE7);
+               GEvent.addListener(eTSE7, "click", function() {
+                    eTSE7.openInfoWindowHtml("<h4>TA #010 - Gary</h4><p>2510 Burr St</p><p>Gary, IN</p><h5>Directions</h5><p>I-80, Exit 6</p>");
+                    });
+
+               var eTSE8 = new GMarker(new GLatLng(38.95, -85.88), greenicon);
+               map.addOverlay(eTSE8);
+               GEvent.addListener(eTSE8, "click", function() {
+                    eTSE8.openInfoWindowHtml("<h4>TA #065 - Seymour</h4><p>2636 E Tipton St</p><p>Seymour, IN</p><h5>Directions</h5><p>I-65, Exit 50A</p>");
+                    });
+
+               var eTSE9 = new GMarker(new GLatLng(41.60, -87.05), greenicon);
+               map.addOverlay(eTSE9);
+               GEvent.addListener(eTSE9, "click", function() {
+                    eTSE9.openInfoWindowHtml("<h4>TA #220 - Porter</h4><p>1600 W US 20</p><p>Porter, IN</p><h5>Directions</h5><p>I-94, Exit 22B</p>");
+                    });
+
+               var eTSE10 = new GMarker(new GLatLng(41.56, -87.26), greenicon);
+               map.addOverlay(eTSE10);
+               GEvent.addListener(eTSE10, "click", function() {
+                    eTSE10.openInfoWindowHtml("<h4>TA #219 - Lake Station</h4><p>1201 N Ripley St</p><p>Lake Station, IN</p><h5>Directions</h5><p>I-80, Exit 15B (Ripley St N)</p>");
+                    });
+
+               var eTSE11 = new GMarker(new GLatLng(37.59, -85.87), greenicon);
+               map.addOverlay(eTSE11);
+               GEvent.addListener(eTSE11, "click", function() {
+                    eTSE11.openInfoWindowHtml("<h4>Petro #30 - Glendale</h4><p>554 W Glendale Hodgenville Rd</p><p>Glendale, KY</p><h5>Directions</h5><p>I-65, Exit 86 (KY 222)</p>");
+                    });
+
+               var eTSE12 = new GMarker(new GLatLng(36.16, -86.76), greenicon);
+               map.addOverlay(eTSE12);
+               GEvent.addListener(eTSE12, "click", function() {
+                    eTSE12.openInfoWindowHtml("<h4>TA #034 - Nashville</h4><p>111 N First Street</p><p>Nashville, TN</p><h5>Directions</h5><p>I-24, Exit 48 (James Robertson Pkwy)</p>");
+                    });
+            
+			
+			//--------------------------------------------------------------------------------- 
+        	
+          }
+        }
+    //]]>
+</script>
+</body>
+</html>

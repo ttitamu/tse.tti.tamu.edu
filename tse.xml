@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tses>
+
+	<corridor name="A">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #65 - Monee"
+			  units="60"
+			  city="Monee"
+			  state="IL"
+			  zip="60449"
+			  lat="41.42"
+			  lng="-87.75"
+			  zone="A0"
+			  highway="I-57, Exit 335 (US 57 E)"
+			  address="5915 Monee Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #010 - Gary"
+			  units="63"
+			  city="Gary"
+			  state="IN"
+			  zip="46406"
+			  lat="41.53"
+			  lng="-87.42"
+			  zone="A0"
+			  highway="I-80, Exit 6"
+			  address="2510 Burr St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #220 - Porter"
+			  units="75"
+			  city="Porter"
+			  state="IN"
+			  zip="46304"
+			  lat="41.60"
+			  lng="-87.05"
+			  zone="A0"
+			  highway="I-94, Exit 22B"
+			  address="1600 W US 20" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #219 - Lake Station"
+			  units="84"
+			  city="Lake Station"
+			  state="IN"
+			  zip="46403"
+			  lat="41.56"
+			  lng="-87.26"
+			  zone="A5"
+			  highway="I-80, Exit 15B (Ripley St N)"
+			  address="1201 N Ripley St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #069 - Monroe"
+			  units="69"
+			  city="Monroe"
+			  state="MI"
+			  zip="48162"
+			  lat="41.93"
+			  lng="-83.44"
+			  zone="A0"
+			  highway="I-75, Exit 15 (MI 50)"
+			  address="1255 N Dixie Hwy" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #006 - Columbia"
+			  units="63"
+			  city="Columbia"
+			  state="NJ"
+			  zip="07832"
+			  lat="40.93"
+			  lng="-75.05"
+			  zone="A0"
+			  highway="I-80, Exit 4"
+			  address="2a Simpson Rd." />
+
+		<tse
+			  installer="IdleAire"
+			  location="Hunts Point Market"
+			  units="28"
+			  city="Bronx"
+			  state="NY"
+			  zip="10474"
+			  lat="40.80"
+			  lng="-73.87"
+			  zone="A1"
+			  highway="C101 - 355 Food Center Drive"
+			  address="355 Food Center Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #015 - Lodi"
+			  units="63"
+			  city="Seville"
+			  state="OH"
+			  zip="44273"
+			  lat="41.02"
+			  lng="-81.85"
+			  zone="A0"
+			  highway="I-71, Exit 209"
+			  address="8834 Lake Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #087 - Toledo"
+			  units="60"
+			  city="Perrysburg"
+			  state="OH"
+			  zip="43551"
+			  lat="41.54"
+			  lng="-83.59"
+			  zone="A0"
+			  highway="I-80, Exit 71"
+			  address="3483 Libby Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #058 - Youngstown"
+			  units="54"
+			  city="Youngstown"
+			  state="OH"
+			  zip="44515"
+			  lat="41.09"
+			  lng="-80.74"
+			  zone="A0"
+			  highway="I-80, Exit 223"
+			  address="5400 76th Drive" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #17 - Stony Ridge, OH"
+			  units="75"
+			  city="Perrysburg"
+			  state="OH"
+			  zip="43447"
+			  lat="41.52"
+			  lng="-83.46"
+			  zone="A4"
+			  highway="I-280, Exit 1B"
+			  address="26398 Baker Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #25 - North Baltimore, OH"
+			  units="72"
+			  city="North Baltimore"
+			  state="OH"
+			  zip="45872"
+			  lat="41.17"
+			  lng="-83.64"
+			  zone="A0"
+			  highway="I-75, Exit 181"
+			  address="12906 Deshler Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #20 - Girard, OH"
+			  units="75"
+			  city="Girard"
+			  state="OH"
+			  zip="44420"
+			  lat="41.14"
+			  lng="-80.71"
+			  zone="A3"
+			  highway="I-80, Exit 226"
+			  address="1 Petro Place" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #003 - Brookville, PA"
+			  units="66"
+			  city="Brookville"
+			  state="PA"
+			  zip="15825"
+			  lat="41.16"
+			  lng="-79.06"
+			  zone="A0"
+			  highway="I-80, Exit 78 (PA 36 N)"
+			  address="245 Allegheny Blvd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #64 - Milton, PA"
+			  units="66"
+			  city="Milton"
+			  state="PA"
+			  zip="17847"
+			  lat="41.01"
+			  lng="-76.84"
+			  zone="A0"
+			  highway="I-80, Exit 215"
+			  address="I-80 &amp; PA Route 254" />
+
+	</corridor>
+
+	<corridor name="B">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #19 - Bucksville, AL"
+			  units="81"
+			  city="Bucksville"
+			  state="AL"
+			  zip="35111"
+			  lat="33.27"
+			  lng="-87.09"
+			  zone="B8"
+			  highway="I-20-59 Exit 100"
+			  address="PO Box 609" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #22 - Atlanta, GA"
+			  units="63"
+			  city="Atlanta"
+			  state="GA"
+			  zip="30318"
+			  lat="33.78"
+			  lng="-84.49"
+			  zone="B10"
+			  highway="I-285 Exit 12 (US 78-278 E)"
+			  address="3181 Bankhead Hwy NW" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #422 - Newnan, GA"
+			  units="51"
+			  city="Newnan"
+			  state="GA"
+			  zip="30263"
+			  lat="33.32"
+			  lng="-84.77"
+			  zone="B0"
+			  highway="I-85 Exit 41 (US 29 N)"
+			  address="1645 Hwy 29 S" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #151 - Baltimore South (Jessup)"
+			  units="129"
+			  city="Jessup"
+			  state="MD"
+			  zip="20794"
+			  lat="39.14"
+			  lng="-76.79"
+			  zone="B0"
+			  highway="I-95, Exit 41A (MD 175 E)"
+			  address="7401 Assateague Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #019 - Elkton"
+			  units="57"
+			  city="Elkton"
+			  state="MD"
+			  zip="21921"
+			  lat="39.62"
+			  lng="-75.84"
+			  zone="B0"
+			  highway="MD 279"
+			  address="1400 Elkton Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #216 - Baltimore, MD"
+			  units="63"
+			  city="Baltimore"
+			  state="MD"
+			  zip="21224"
+			  lat="39.28"
+			  lng="-76.55"
+			  zone="B4"
+			  highway="I-95 Exit 57 (O'Donnell St)/I-895 Ex"
+			  address="5501 O'Donnell St Cutoff" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #29 - Mebane, NC"
+			  units="58"
+			  city="Mebane"
+			  state="NC"
+			  zip="27302"
+			  lat="36.08"
+			  lng="-79.22"
+			  zone="B6"
+			  highway="I-40-85 Exit 157 (Buckhorn Rd N)"
+			  address="505 Buckhorn Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #002 - Greensboro, NC"
+			  units="75"
+			  city="Whitsett"
+			  state="NC"
+			  zip="27377"
+			  lat="36.03"
+			  lng="-79.59"
+			  zone="B0"
+			  highway="I-40, Exit 138"
+			  address="1101 Highway 61" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #218 - Paulsboro, NJ"
+			  units="98"
+			  city="Paulsboro"
+			  state="NJ"
+			  zip="8066"
+			  lat="39.83"
+			  lng="-75.22"
+			  zone="B0"
+			  highway="I-295, Exit 18 A (Mt Royal)"
+			  address="PO Box 420" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Hunts Point Market"
+			  units="28"
+			  city="Bronx"
+			  state="NY"
+			  zip="10474"
+			  lat="40.80"
+			  lng="-73.87"
+			  zone="B2"
+			  highway="C101 - 355 Food Center Drive"
+			  address="355 Food Center Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #025 - Spartanburg"
+			  units="60"
+			  city="Duncan"
+			  state="SC"
+			  zip="29334"
+			  lat="34.91"
+			  lng="-82.12"
+			  zone="B7"
+			  highway="I-85, Exit 63 (SC 290)"
+			  address="1402 E Main St" />
+
+	</corridor>
+
+	<corridor name="C">
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #053 - Wildwood"
+			  units="60"
+			  city="Wildwood"
+			  state="FL"
+			  zip="34785"
+			  lat="28.84"
+			  lng="-82.03"
+			  zone="C0"
+			  highway="I-75, Exit 66"
+			  address="556 E State Road 44" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #23 - Ocala"
+			  units="81"
+			  city="Reddick"
+			  state="FL"
+			  zip="32686"
+			  lat="29.40"
+			  lng="-82.24"
+			  zone="C6"
+			  highway="I-75, Exit 368"
+			  address="7401 W Hwy 318" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #22 - Atlanta, GA"
+			  units="63"
+			  city="Atlanta"
+			  state="GA"
+			  zip="30318"
+			  lat="33.78"
+			  lng="-84.49"
+			  zone="C0"
+			  highway="I-285 Exit 12 (US 78-278 E)"
+			  address="3181 Bankhead Hwy NW" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #100 - Jackson"
+			  units="63"
+			  city="Jackson"
+			  state="GA"
+			  zip="30233"
+			  lat="33.28"
+			  lng="-83.97"
+			  zone="C0"
+			  highway="I-75, Exit 201 (GA 36 E)"
+			  address="122 Truck Stop Way" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #146 - Cartersville, GA"
+			  units="72"
+			  city="Cartersville"
+			  state="GA"
+			  zip="30120"
+			  lat="34.18"
+			  lng="-84.83"
+			  zone="C0"
+			  highway="I-75 Exit 196"
+			  address="981 Cassville-White Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #65 - Monee"
+			  units="60"
+			  city="Monee"
+			  state="IL"
+			  zip="60449"
+			  lat="41.42"
+			  lng="-87.75"
+			  zone="C0"
+			  highway="I-57, Exit 335 (US 57 E)"
+			  address="5915 Monee Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #010 - Gary"
+			  units="63"
+			  city="Gary"
+			  state="IN"
+			  zip="46406"
+			  lat="41.53"
+			  lng="-87.42"
+			  zone="C0"
+			  highway="I-80, Exit 6"
+			  address="2510 Burr St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #065 - Seymour"
+			  units="54"
+			  city="Seymour"
+			  state="IN"
+			  zip="47274"
+			  lat="38.95"
+			  lng="-85.88"
+			  zone="C0"
+			  highway="I-65, Exit 50A"
+			  address="2636 E Tipton St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #220 - Porter"
+			  units="75"
+			  city="Porter"
+			  state="IN"
+			  zip="46304"
+			  lat="41.60"
+			  lng="-87.05"
+			  zone="C0"
+			  highway="I-94, Exit 22B"
+			  address="1600 W US 20" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #219 - Lake Station"
+			  units="84"
+			  city="Lake Station"
+			  state="IN"
+			  zip="46403"
+			  lat="41.56"
+			  lng="-87.26"
+			  zone="C1"
+			  highway="I-80, Exit 15B (Ripley St N)"
+			  address="1201 N Ripley St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #30 - Glendale"
+			  units="78"
+			  city="Glendale"
+			  state="KY"
+			  zip="42740"
+			  lat="37.59"
+			  lng="-85.87"
+			  zone="C2"
+			  highway="I-65, Exit 86 (KY 222)"
+			  address="554 W Glendale Hodgenville Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #034 - Nashville"
+			  units="69"
+			  city="Nashville"
+			  state="TN"
+			  zip="37213"
+			  lat="36.16"
+			  lng="-86.76"
+			  zone="C3"
+			  highway="I-24, Exit 48 (James Robertson Pkwy)"
+			  address="111 N First Street" />
+
+	</corridor>
+
+	<corridor name="D">
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #151 - Baltimore South (Jessup)"
+			  units="129"
+			  city="Jessup"
+			  state="MD"
+			  zip="20794"
+			  lat="39.14"
+			  lng="-76.79"
+			  zone="D0"
+			  highway="I-95, Exit 41A (MD 175 E)"
+			  address="7401 Assateague Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #019 - Elkton"
+			  units="57"
+			  city="Elkton"
+			  state="MD"
+			  zip="21921"
+			  lat="39.62"
+			  lng="-75.84"
+			  zone="D0"
+			  highway="MD 279"
+			  address="1400 Elkton Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #216 - Baltimore, MD"
+			  units="63"
+			  city="Baltimore"
+			  state="MD"
+			  zip="21224"
+			  lat="39.28"
+			  lng="-76.55"
+			  zone="D4"
+			  highway="I-95 Exit 57 (O'Donnell St)/I-895 Ex"
+			  address="5501 O'Donnell St Cutoff" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #218 - Paulsboro, NJ"
+			  units="98"
+			  city="Paulsboro"
+			  state="NJ"
+			  zip="8066"
+			  lat="39.83"
+			  lng="-75.22"
+			  zone="D0"
+			  highway="I-295, Exit 18 A (Mt Royal)"
+			  address="PO Box 420" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Hunts Point Market"
+			  units="28"
+			  city="Bronx"
+			  state="NY"
+			  zip="10474"
+			  lat="40.80"
+			  lng="-73.87"
+			  zone="D2"
+			  highway="C101 - 355 Food Center Drive"
+			  address="355 Food Center Dr" />
+
+	</corridor>
+
+	<corridor name="E">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #10 - Hammond, LA"
+			  units="72"
+			  city="Hammond"
+			  state="LA"
+			  zip="70401"
+			  lat="30.48"
+			  lng="-90.45"
+			  zone="E0"
+			  highway="I-12, Exit 40"
+			  address="2100 SW Rail Road Ave" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #147 - San Antonio, TX"
+			  units="60"
+			  city="San Antonio"
+			  state="TX"
+			  zip="78219"
+			  lat="29.44"
+			  lng="-98.39"
+			  zone="E6"
+			  highway="I-10 Exit 583 (Foster Rd)"
+			  address="6170 Interstate 10 E" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #017 - Baytown, TX"
+			  units="51"
+			  city="Baytown"
+			  state="TX"
+			  zip="77520"
+			  lat="29.79"
+			  lng="-94.96"
+			  zone="E5"
+			  highway="I-10 Exit 789 (Thompson Rd)"
+			  address="6800 Thompson Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #431 - Orange, TX"
+			  units="45"
+			  city="Orange"
+			  state="TX"
+			  zip="77630"
+			  lat="30.11"
+			  lng="-93.82"
+			  zone="E0"
+			  highway="I-10, Exit 873"
+			  address="2205 N Hwy 62" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #4 - Beaumont"
+			  units="60"
+			  city="Beaumont"
+			  state="TX"
+			  zip="77705"
+			  lat="30.03"
+			  lng="-94.15"
+			  zone="E0"
+			  highway="I-10, Exit 848"
+			  address="5405 Walden Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #232 - New Braunfels, TX"
+			  units="72"
+			  city="New Braunfels"
+			  state="TX"
+			  zip="78130"
+			  lat="29.69"
+			  lng="-98.11"
+			  zone="E0"
+			  highway="I-35 Exit 193 (Conrads Rd)"
+			  address="4817 Conrads Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #086 - Baytown"
+			  units="51"
+			  city="Baytown"
+			  state="TX"
+			  zip="77521"
+			  lat="29.79"
+			  lng="-95.03"
+			  zone="E5"
+			  highway="I-10 Exit 789 (Thompson Rd)"
+			  address="1703-D East Fwy" />
+
+	</corridor>
+
+	<corridor name="F">
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #313 - East St. Louis (Gat"
+			  units="81"
+			  city="East St. Louis"
+			  state="IL"
+			  zip="62201"
+			  lat="38.65"
+			  lng="-90.13"
+			  zone="F6"
+			  highway="I-55, Exit 4"
+			  address="730 Madison Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #035 - Effingham, IL"
+			  units="60"
+			  city="Effingham"
+			  state="IL"
+			  zip="62401"
+			  lat="39.12"
+			  lng="-88.56"
+			  zone="F10"
+			  highway="I-57, Exit 160"
+			  address="I-57-70 Exit 160 IL 32-33" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #21 - Effingham"
+			  units="60"
+			  city="Effingham"
+			  state="IL"
+			  zip="62401"
+			  lat="39.12"
+			  lng="-88.56"
+			  zone="F10"
+			  highway="I-57, Exit 159"
+			  address="1805 W Fayette St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #044 - Boonville, MO"
+			  units="51"
+			  city="Boonville"
+			  state="MO"
+			  zip="65233"
+			  lat="38.93"
+			  lng="-92.77"
+			  zone="F0"
+			  highway="I-70, Exit 101"
+			  address="1701 Ashley Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #18 - Kingdom City"
+			  units="84"
+			  city="Kingdom City"
+			  state="MO"
+			  zip="65262"
+			  lat="38.94"
+			  lng="-91.93"
+			  zone="F0"
+			  highway="I-70, Exit 148 (US 54)"
+			  address="3304 Gold Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #018 - Concordia, MO"
+			  units="57"
+			  city="Concordia"
+			  state="MO"
+			  zip="64020"
+			  lat="38.97"
+			  lng="-93.58"
+			  zone="F0"
+			  highway="I-70, Exit 58"
+			  address="I-70 Exit 58 (Hwy 23)" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #006 - Columbia"
+			  units="63"
+			  city="Columbia"
+			  state="NJ"
+			  zip="7832"
+			  lat="40.93"
+			  lng="-75.05"
+			  zone="F0"
+			  highway="I-80, Exit 4"
+			  address="2a Simpson Rd." />
+
+		<tse
+			  installer="IdleAire"
+			  location="Hunts Point Market"
+			  units="28"
+			  city="Bronx"
+			  state="NY"
+			  zip="10474"
+			  lat="40.80"
+			  lng="-73.87"
+			  zone="F0"
+			  highway="C101 - 355 Food Center Drive"
+			  address="355 Food Center Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #011 - Dayton"
+			  units="57"
+			  city="Eaton"
+			  state="OH"
+			  zip="45320"
+			  lat="39.74"
+			  lng="-84.65"
+			  zone="F0"
+			  highway="US 127 N"
+			  address="6762 US 127 N" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #039 - Hebron"
+			  units="51"
+			  city="Hebron"
+			  state="OH"
+			  zip="43025"
+			  lat="39.95"
+			  lng="-82.49"
+			  zone="F0"
+			  highway="I-70, Exit 126"
+			  address="10677 Lancaster Rd SE" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #139 - Jeffersonville East"
+			  units="54"
+			  city="Jeffersonville"
+			  state="OH"
+			  zip="43128"
+			  lat="39.65"
+			  lng="-83.56"
+			  zone="F0"
+			  highway="I-71 Exit 65 (US 35)"
+			  address="12403 US Rt 35 NW" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #57 - New Paris, OH"
+			  units="72"
+			  city="New Paris"
+			  state="OH"
+			  zip="45347"
+			  lat="39.82"
+			  lng="-84.79"
+			  zone="F9"
+			  highway="I-70, Exit 156B"
+			  address="9787 US Rt 40 W" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #84 - Breezewood"
+			  units="78"
+			  city="Breezewood"
+			  state="PA"
+			  zip="15533"
+			  lat="39.98"
+			  lng="-78.26"
+			  zone="F0"
+			  highway="I-76, Exit 12"
+			  address="167 Post House Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #075 - Breezewood, PA"
+			  units="63"
+			  city="Breezewood"
+			  state="PA"
+			  zip="15533"
+			  lat="39.99"
+			  lng="-78.24"
+			  zone="F0"
+			  highway="I-76, Exit 12"
+			  address="16563 Lincoln Hwy" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #36 - Carlisle"
+			  units="72"
+			  city="Carlisle"
+			  state="PA"
+			  zip="17013"
+			  lat="40.22"
+			  lng="-77.14"
+			  zone="F2"
+			  highway="I-76, Exit 226"
+			  address="1201 Harrisburg Ave" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Frystown All American Plaza"
+			  units="72"
+			  city="Myerstown"
+			  state="PA"
+			  zip="17067"
+			  lat="40.38"
+			  lng="-76.31"
+			  zone="F0"
+			  highway="I-78, Exit 10 (PA 645)"
+			  address="2210 Camp Swatara Road" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #012 - Harrisburg"
+			  units="63"
+			  city="Harrisburg"
+			  state="PA"
+			  zip="17112"
+			  lat="40.33"
+			  lng="-76.79"
+			  zone="F2"
+			  highway="I-81, Exit 27"
+			  address="7848 Linglestown Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #215 - Harborcreek"
+			  units="72"
+			  city="Erie"
+			  state="PA"
+			  zip="16421"
+			  lat="39.78"
+			  lng="-77.74"
+			  zone="F0"
+			  highway="I-90, Exit 35"
+			  address="4050 Depot Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #032 - Wheeling"
+			  units="63"
+			  city="Wheeling"
+			  state="WV"
+			  zip="26059"
+			  lat="40.09"
+			  lng="-80.55"
+			  zone="F0"
+			  highway="I-70, Exit 11 (Dallas Pk)"
+			  address="I-70 Exit 11, Dallas Pike" />
+
+	</corridor>
+
+	<corridor name="G">
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #053 - Wildwood"
+			  units="60"
+			  city="Wildwood"
+			  state="FL"
+			  zip="34785"
+			  lat="28.84"
+			  lng="-82.03"
+			  zone="G0"
+			  highway="I-75, Exit 66"
+			  address="556 E State Road 44" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #23 - Ocala"
+			  units="81"
+			  city="Reddick"
+			  state="FL"
+			  zip="32686"
+			  lat="29.40"
+			  lng="-82.24"
+			  zone="G6"
+			  highway="I-75, Exit 368"
+			  address="7401 W Hwy 318" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #22 - Atlanta, GA"
+			  units="63"
+			  city="Atlanta"
+			  state="GA"
+			  zip="30318"
+			  lat="33.78"
+			  lng="-84.49"
+			  zone="G0"
+			  highway="I-285 Exit 12 (US 78-278 E)"
+			  address="3181 Bankhead Hwy NW" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #100 - Jackson"
+			  units="63"
+			  city="Jackson"
+			  state="GA"
+			  zip="30233"
+			  lat="33.28"
+			  lng="-83.97"
+			  zone="G0"
+			  highway="I-75, Exit 201 (GA 36 E)"
+			  address="122 Truck Stop Way" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #146 - Cartersville, GA"
+			  units="72"
+			  city="Cartersville"
+			  state="GA"
+			  zip="30120"
+			  lat="34.18"
+			  lng="-84.83"
+			  zone="G0"
+			  highway="I-75 Exit 196"
+			  address="981 Cassville-White Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #069 - Monroe"
+			  units="69"
+			  city="Monroe"
+			  state="MI"
+			  zip="48162"
+			  lat="41.93"
+			  lng="-83.44"
+			  zone="G0"
+			  highway="I-75, Exit 15 (MI 50)"
+			  address="1255 N Dixie Hwy" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #011 - Dayton"
+			  units="57"
+			  city="Eaton"
+			  state="OH"
+			  zip="45320"
+			  lat="39.74"
+			  lng="-84.65"
+			  zone="G0"
+			  highway="US 127 N"
+			  address="6762 US 127 N" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #087 - Toledo"
+			  units="60"
+			  city="Perrysburg"
+			  state="OH"
+			  zip="43551"
+			  lat="41.54"
+			  lng="-83.59"
+			  zone="G0"
+			  highway="I-80, Exit 71"
+			  address="3483 Libby Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #17 - Stony Ridge, OH"
+			  units="75"
+			  city="Perrysburg"
+			  state="OH"
+			  zip="43447"
+			  lat="41.52"
+			  lng="-83.46"
+			  zone="G0"
+			  highway="I-280, Exit 1B"
+			  address="26398 Baker Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #25 - North Baltimore, OH"
+			  units="72"
+			  city="North Baltimore"
+			  state="OH"
+			  zip="45872"
+			  lat="41.17"
+			  lng="-83.64"
+			  zone="G0"
+			  highway="I-75, Exit 181"
+			  address="12906 Deshler Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #12 - Knoxville, "
+			  units="TN"
+			  city="722 Watt Rd"
+			  state="Knoxville"
+			  zip="TN"
+			  lat="-84.23"
+			  lng="37922"
+			  zone="G0"
+			  highway="114"
+			  address="I-40-75 Exit 369 (S Watt Rd)" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #013 - Knoxville East"
+			  units="51"
+			  city="Knoxville"
+			  state="TN"
+			  zip="37932"
+			  lat="35.87"
+			  lng="-84.12"
+			  zone="G0"
+			  highway="I-40/I-75 Exit 374 (Lovell Rd)"
+			  address="608 Lovell Rd" />
+
+	</corridor>
+
+	<corridor name="H">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #11 - West Memphis, AR"
+			  units="78"
+			  city="West Memphis"
+			  state="AR"
+			  zip="72301"
+			  lat="35.15"
+			  lng="-90.13"
+			  zone="H4"
+			  highway="I-40 Exit 280 (MLK Dr)/I-55 Exit 5"
+			  address="3900 Petro Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="JJ's Truck Stop"
+			  units="72"
+			  city="Benton"
+			  state="AR"
+			  zip="72015"
+			  lat="34.48"
+			  lng="-92.72"
+			  zone="H0"
+			  highway="I-30, Exit 106"
+			  address="6106 Interstate 30" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #033 - West Memphis, AR"
+			  units="54"
+			  city="St Francis"
+			  state="AR"
+			  zip="72331"
+			  lat="35.27"
+			  lng="-90.45"
+			  zone="H0"
+			  highway="I-40, Exit 260"
+			  address="408 State Hwy 149 N" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #26 - N. Little Rock"
+			  units="78"
+			  city="Little Rock"
+			  state="AR"
+			  zip="72117"
+			  lat="34.78"
+			  lng="-92.12"
+			  zone="H5"
+			  highway="I-40 Exit 161 (Galloway Rd)"
+			  address="3205 Valentine Rd North " />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #429 - West Memphis"
+			  units="66"
+			  city="West Memphis"
+			  state="AR"
+			  zip="72301"
+			  lat="35.15"
+			  lng="-90.13"
+			  zone="H4"
+			  highway="I-40, Exit 280 (MLK Dr)"
+			  address="1100 Martin Luther King Blvd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #224 - Prescott, AR"
+			  units="75"
+			  city="Prescott"
+			  state="AR"
+			  zip="71857"
+			  lat="33.80"
+			  lng="-93.37"
+			  zone="H0"
+			  highway="I-30, Exit 44 (AR 371)"
+			  address="1806-A Hwy 371" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #29 - Mebane, NC"
+			  units="58"
+			  city="Mebane"
+			  state="NC"
+			  zip="27302"
+			  lat="36.08"
+			  lng="-79.22"
+			  zone="H1"
+			  highway="I-40-85 Exit 157 (Buckhorn Rd N)"
+			  address="505 Buckhorn Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #002 - Greensboro, NC"
+			  units="75"
+			  city="Whitsett"
+			  state="NC"
+			  zip="27377"
+			  lat="36.03"
+			  lng="-79.59"
+			  zone="H0"
+			  highway="I-40, Exit 138"
+			  address="1101 Highway 61" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #12 - Knoxville, TN"
+			  units="114"
+			  city="Knoxville"
+			  state="TN"
+			  zip="37922"
+			  lat="35.87"
+			  lng="-84.23"
+			  zone="H2"
+			  highway="I-40-75 Exit 369 (S Watt Rd)"
+			  address="722 Watt Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #013 - Knoxville East"
+			  units="51"
+			  city="Knoxville"
+			  state="TN"
+			  zip="37932"
+			  lat="35.87"
+			  lng="-84.12"
+			  zone="H0"
+			  highway="I-40/I-75 Exit 374 (Lovell Rd)"
+			  address="608 Lovell Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #034 - Nashville"
+			  units="69"
+			  city="Nashville"
+			  state="TN"
+			  zip="37213"
+			  lat="36.16"
+			  lng="-86.76"
+			  zone="H3"
+			  highway="I-24, Exit 48 (James Robertson Pkwy)"
+			  address="111 N First Street" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #53 - Hurricane Mills"
+			  units="60"
+			  city="Hurricane Mills"
+			  state="TN"
+			  zip="37078"
+			  lat="35.87"
+			  lng="-87.80"
+			  zone="H0"
+			  highway="I-40, Exit 143"
+			  address="15559 Hwy 13 S" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #150 - Dallas South, TX"
+			  units="73"
+			  city="Dallas"
+			  state="TX"
+			  zip="75241"
+			  lat="32.67"
+			  lng="-96.77"
+			  zone="H6"
+			  highway="I-20 Exit 472 (I-635)"
+			  address="7751 Bonnie View Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #147 - San Antonio, TX"
+			  units="60"
+			  city="San Antonio"
+			  state="TX"
+			  zip="78219"
+			  lat="29.44"
+			  lng="-98.39"
+			  zone="H7"
+			  highway="I-10 Exit 583 (Foster Rd)"
+			  address="6170 Interstate 10 E" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #233 - Terrell"
+			  units="81"
+			  city="Terrell"
+			  state="TX"
+			  zip="75160"
+			  lat="32.71"
+			  lng="-96.25"
+			  zone="H0"
+			  highway="I-20, Exit 503"
+			  address="1702 Wilson Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #377 - Laredo, TX"
+			  units="71"
+			  city="Laredo"
+			  state="TX"
+			  zip="78045"
+			  lat="27.68"
+			  lng="-99.46"
+			  zone="H8"
+			  highway="I-35 Exit 13"
+			  address="1101 Uniroyal Drive" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #232 - New Braunfels, TX"
+			  units="72"
+			  city="New Braunfels"
+			  state="TX"
+			  zip="78130"
+			  lat="29.69"
+			  lng="-98.11"
+			  zone="H7"
+			  highway="I-35 Exit 193 (Conrads Rd)"
+			  address="4817 Conrads Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Calark Truck Terminal - Laredo"
+			  units="28"
+			  city="Laredo"
+			  state="TX"
+			  zip="78045"
+			  lat="27.63"
+			  lng="-99.54"
+			  zone="H0"
+			  highway="I-35 Exit 8"
+			  address="4445 Pan American Blvd" />
+
+	</corridor>
+
+	<corridor name="I">
+
+		<tse
+			  installer="IdleAire"
+			  location="Bruces Truck Stop - Bakersfield, CA"
+			  units="98"
+			  city="Bakersfield"
+			  state="CA"
+			  zip="93307"
+			  lat="35.35"
+			  lng="-118.91"
+			  zone="I0"
+			  highway="CA 58 &amp; CA 184 (Weedpatch Hwy N)"
+			  address="8311 East Brundage Lane" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #46 - Los Banos, CA"
+			  units="108"
+			  city="Santa Nella"
+			  state="CA"
+			  zip="95322"
+			  lat="37.05"
+			  lng="-121.01"
+			  zone="I0"
+			  highway="I-5 Exit 152 West. Jct CA 152 &amp; CA33"
+			  address="28991 West Gonzaga Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Loves #223 - Ripon, CA"
+			  units="72"
+			  city="Ripon"
+			  state="CA"
+			  zip="95366"
+			  lat="37.75"
+			  lng="-121.08"
+			  zone="I0"
+			  highway="CA 99 &amp; Jack Tone Rd"
+			  address="1553 Colony Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #27 - Wheeler Ridge"
+			  units="66"
+			  city="Lebec"
+			  state="CA"
+			  zip="93243"
+			  lat="34.98"
+			  lng="-118.94"
+			  zone="I0"
+			  highway="I-5, Exit 219"
+			  address="5821 Dennis McCarthy Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #040 - Corning"
+			  units="75"
+			  city="Corning"
+			  state="CA"
+			  zip="96021"
+			  lat="39.92"
+			  lng="-122.22"
+			  zone="I0"
+			  highway="I-5E, Exit 15"
+			  address="3524 S Hwy 99 W" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #163 - Santa Nella"
+			  units="51"
+			  city="Santa Nella"
+			  state="CA"
+			  zip="95322"
+			  lat="37.24"
+			  lng="-121.00"
+			  zone="I0"
+			  highway="I-5, Exit 407 (CA 33)"
+			  address="12310 State Hwy 33" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #056 - Portland"
+			  units="54"
+			  city="NE"
+			  state="Portland"
+			  zip="OR"
+			  lat="-122.80"
+			  lng="97002"
+			  zone="I0"
+			  highway="I-5 E, Exit 278"
+			  address="21856 Bents Road " />
+
+		<tse
+			  installer="Shurepower"
+			  location="7 Feathers Truck &amp; Travel Center"
+			  units="50"
+			  city="Canyonville"
+			  state="OR"
+			  zip="97417"
+			  lat="42.94"
+			  lng="-123.29"
+			  zone="I0"
+			  highway="I-5 Exit 99"
+			  address="130 Creekside Drive" />
+
+		<tse
+			  installer="Shurepower"
+			  location="Gee Cee's Truck Stop"
+			  units="36"
+			  city="Toledo"
+			  state="WA"
+			  zip="98591"
+			  lat="46.39"
+			  lng="-122.91"
+			  zone="I0"
+			  highway="I-5 Exit 57"
+			  address="123 Foster Creek Rd." />
+
+		<tse
+			  installer="Shurepower"
+			  location="Jubitz Travel Plaza"
+			  units="32"
+			  city="Portland"
+			  state="OR"
+			  zip="97221"
+			  lat="45.60"
+			  lng="-122.67"
+			  zone="I2"
+			  highway="I-5 Exit 307"
+			  address="Marine Dr. E, 10310 N. Vanco" />
+
+		<tse
+			  installer="Shurepower"
+			  location="Truck N Travel TA"
+			  units="52"
+			  city="Coburg"
+			  state="OR"
+			  zip="97408"
+			  lat="44.14"
+			  lng="-123.06"
+			  zone="I9"
+			  highway="I-5 Exit 199"
+			  address="32910 E. Pearl Street" />
+
+	</corridor>
+
+	<corridor name="J">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #65 - Monee"
+			  units="60"
+			  city="Monee"
+			  state="IL"
+			  zip="60449"
+			  lat="41.42"
+			  lng="-87.75"
+			  zone="J0"
+			  highway="I-57, Exit 335 (US 57 E)"
+			  address="5915 Monee Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #010 - Gary"
+			  units="63"
+			  city="Gary"
+			  state="IN"
+			  zip="46406"
+			  lat="41.53"
+			  lng="-87.42"
+			  zone="J0"
+			  highway="I-80, Exit 6"
+			  address="2510 Burr St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #62 - York, NE"
+			  units="81"
+			  city="York"
+			  state="NE"
+			  zip="68467"
+			  lat="40.81"
+			  lng="-97.59"
+			  zone="J9"
+			  highway="I-80, Exit 353"
+			  address="4700 S Lincoln Ave" />
+
+	</corridor>
+
+	<corridor name="K">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #6 - Eloy"
+			  units="72"
+			  city="Eloy"
+			  state="AZ"
+			  zip="85222"
+			  lat="32.81"
+			  lng="-111.67"
+			  zone="K0"
+			  highway="I-10, Exit 200"
+			  address="5235 N Sunland Gin Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #007 - Eloy"
+			  units="63"
+			  city="Eloy"
+			  state="AZ"
+			  zip="85231"
+			  lat="32.76"
+			  lng="-111.58"
+			  zone="K0"
+			  highway="I-10, Exit 203"
+			  address="2949 S Toltec Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #226 - Willcox"
+			  units="75"
+			  city="Willcox"
+			  state="AZ"
+			  zip="85643"
+			  lat="32.37"
+			  lng="-109.86"
+			  zone="K0"
+			  highway="I-10, Exit 340"
+			  address="1501 N Fort Grant Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #041 - Coachella"
+			  units="72"
+			  city="Coachella"
+			  state="CA"
+			  zip="92236"
+			  lat="33.67"
+			  lng="-116.17"
+			  zone="K0"
+			  highway="I-10, Exit 146 (Dillon Rd)"
+			  address="46155 Dillon Road" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #026 - Ontario East"
+			  units="104"
+			  city="Ontario"
+			  state="CA"
+			  zip="91762"
+			  lat="34.03"
+			  lng="-117.61"
+			  zone="K0"
+			  highway="I-10, Exit 57 (Milliken Ave)"
+			  address="4325 Guasti Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #162 - Ontario West"
+			  units="93"
+			  city="Ontario"
+			  state="CA"
+			  zip="91762"
+			  lat="34.03"
+			  lng="-117.61"
+			  zone="K0"
+			  highway="I-10, Exit 57 (Milliken Ave)"
+			  address="4265 E Guasti Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #014 - Las Cruces"
+			  units="60"
+			  city="Las Cruces"
+			  state="NM"
+			  zip="88005"
+			  lat="32.31"
+			  lng="-106.79"
+			  zone="K0"
+			  highway="I-10, Exit 139"
+			  address="204 N Motel Blvd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Flying J Travel Plaza - El Paso"
+			  units="60"
+			  city="El Paso"
+			  state="TX"
+			  zip="79928"
+			  lat="31.66"
+			  lng="-106.23"
+			  zone="K1"
+			  highway="I-10 Exit 37 (West Horizon Blvd)"
+			  address="1301 N Horizon Blvd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #1 - El Paso, TX"
+			  units="113"
+			  city="El Paso"
+			  state="TX"
+			  zip="79927"
+			  lat="31.66"
+			  lng="-106.23"
+			  zone="K1"
+			  highway="I-10 Exit 37 (Horizon Blvd)"
+			  address="1295 S Horizon Blvd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Loves #214 - El Paso, TX"
+			  units="77"
+			  city="El Paso"
+			  state="TX"
+			  zip="79927"
+			  lat="31.40"
+			  lng="-106.12"
+			  zone="K0"
+			  highway="I-10 Exit 37 (Horizon Blvd)"
+			  address="12800 Horizon Blvd" />
+
+	</corridor>
+
+	<corridor name="L">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #19 - Bucksville, AL"
+			  units="81"
+			  city="Bucksville"
+			  state="AL"
+			  zip="35111"
+			  lat="33.27"
+			  lng="-87.09"
+			  zone="L0"
+			  highway="I-20-59 Exit 100"
+			  address="PO Box 609" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #65 - Monee"
+			  units="60"
+			  city="Monee"
+			  state="IL"
+			  zip="60449"
+			  lat="41.42"
+			  lng="-87.75"
+			  zone="L0"
+			  highway="I-57, Exit 335 (US 57 E)"
+			  address="5915 Monee Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #010 - Gary"
+			  units="63"
+			  city="Gary"
+			  state="IN"
+			  zip="46406"
+			  lat="41.53"
+			  lng="-87.42"
+			  zone="L0"
+			  highway="I-80, Exit 6"
+			  address="2510 Burr St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #065 - Seymour"
+			  units="54"
+			  city="Seymour"
+			  state="IN"
+			  zip="47274"
+			  lat="38.95"
+			  lng="-85.88"
+			  zone="L0"
+			  highway="I-65, Exit 50A"
+			  address="2636 E Tipton St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #220 - Porter"
+			  units="75"
+			  city="Porter"
+			  state="IN"
+			  zip="46304"
+			  lat="41.60"
+			  lng="-87.05"
+			  zone="L0"
+			  highway="I-94, Exit 22B"
+			  address="1600 W US 20" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #219 - Lake Station"
+			  units="84"
+			  city="Lake Station"
+			  state="IN"
+			  zip="46403"
+			  lat="41.56"
+			  lng="-87.26"
+			  zone="L1"
+			  highway="I-80, Exit 15B (Ripley St N)"
+			  address="1201 N Ripley St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #30 - Glendale"
+			  units="78"
+			  city="Glendale"
+			  state="KY"
+			  zip="42740"
+			  lat="37.59"
+			  lng="-85.87"
+			  zone="L2"
+			  highway="I-65, Exit 86 (KY 222)"
+			  address="554 W Glendale Hodgenville Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #034 - Nashville"
+			  units="69"
+			  city="Nashville"
+			  state="TN"
+			  zip="37213"
+			  lat="36.16"
+			  lng="-86.76"
+			  zone="L3"
+			  highway="I-24, Exit 48 (James Robertson Pkwy)"
+			  address="111 N First Street" />
+
+	</corridor>
+
+	<corridor name="M">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #19 - Bucksville, AL"
+			  units="81"
+			  city="Bucksville"
+			  state="AL"
+			  zip="35111"
+			  lat="33.27"
+			  lng="-87.09"
+			  zone="M3"
+			  highway="I-20-59 Exit 100"
+			  address="PO Box 609" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #22 - Atlanta, GA"
+			  units="63"
+			  city="Atlanta"
+			  state="GA"
+			  zip="30318"
+			  lat="33.78"
+			  lng="-84.49"
+			  zone="M7"
+			  highway="I-285 Exit 12 (US 78-278 E)"
+			  address="3181 Bankhead Hwy NW" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #422 - Newnan, GA"
+			  units="51"
+			  city="Newnan"
+			  state="GA"
+			  zip="30263"
+			  lat="33.32"
+			  lng="-84.77"
+			  zone="M0"
+			  highway="I-85 Exit 41 (US 29 N)"
+			  address="1645 Hwy 29 S" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #8 - Shreveport"
+			  units="72"
+			  city="Shreveport"
+			  state="LA"
+			  zip="71149"
+			  lat="32.44"
+			  lng="-93.90"
+			  zone="M5"
+			  highway="I -20, Exit 8 (Industrial Loop)"
+			  address="6910 W Industrial Loop" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #28 - Jackson, MS"
+			  units="60"
+			  city="Jackson"
+			  state="MS"
+			  zip="39218"
+			  lat="32.27"
+			  lng="-90.19"
+			  zone="M4"
+			  highway="I-20, Exit 45"
+			  address="970 N Frontage Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #29 - Mebane, NC"
+			  units="58"
+			  city="Mebane"
+			  state="NC"
+			  zip="27302"
+			  lat="36.08"
+			  lng="-79.22"
+			  zone="M1"
+			  highway="I-40-85 Exit 157 (Buckhorn Rd N)"
+			  address="505 Buckhorn Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #002 - Greensboro, NC"
+			  units="75"
+			  city="Whitsett"
+			  state="NC"
+			  zip="27377"
+			  lat="36.03"
+			  lng="-79.59"
+			  zone="M0"
+			  highway="I-40, Exit 138"
+			  address="1101 Highway 61" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #025 - Spartanburg"
+			  units="60"
+			  city="Duncan"
+			  state="SC"
+			  zip="29334"
+			  lat="34.91"
+			  lng="-82.12"
+			  zone="M2"
+			  highway="I-85, Exit 63 (SC 290)"
+			  address="1402 E Main St" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #150 - Dallas South, TX"
+			  units="73"
+			  city="Dallas"
+			  state="TX"
+			  zip="75241"
+			  lat="32.67"
+			  lng="-96.77"
+			  zone="M6"
+			  highway="I-20 Exit 472 (I-635)"
+			  address="7751 Bonnie View Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #233 - Terrell"
+			  units="81"
+			  city="Terrell"
+			  state="TX"
+			  zip="75160"
+			  lat="32.71"
+			  lng="-96.25"
+			  zone="M6"
+			  highway="I-20, Exit 503"
+			  address="1702 Wilson Rd" />
+
+	</corridor>
+
+	<corridor name="N">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #36 - Carlisle"
+			  units="72"
+			  city="Carlisle"
+			  state="PA"
+			  zip="17013"
+			  lat="40.22"
+			  lng="-77.14"
+			  zone="N1"
+			  highway="I-76, Exit 226"
+			  address="1201 Harrisburg Ave" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #012 - Harrisburg"
+			  units="63"
+			  city="Harrisburg"
+			  state="PA"
+			  zip="17112"
+			  lat="40.33"
+			  lng="-76.79"
+			  zone="N0"
+			  highway="I-81, Exit 27"
+			  address="7848 Linglestown Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #215 - Harborcreek"
+			  units="72"
+			  city="Erie"
+			  state="PA"
+			  zip="16421"
+			  lat="39.78"
+			  lng="-77.74"
+			  zone="N0"
+			  highway="I-90, Exit 35"
+			  address="4050 Depot Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #12 - Knoxville, TN"
+			  units="114"
+			  city="Knoxville"
+			  state="TN"
+			  zip="37922"
+			  lat="35.87"
+			  lng="-84.23"
+			  zone="N3"
+			  highway="I-40-75 Exit 369 (S Watt Rd)"
+			  address="722 Watt Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #013 - Knoxville East"
+			  units="51"
+			  city="Knoxville"
+			  state="TN"
+			  zip="37932"
+			  lat="35.87"
+			  lng="-84.12"
+			  zone="N0"
+			  highway="I-40/I-75 Exit 374 (Lovell Rd)"
+			  address="608 Lovell Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #72 - Glade Spring, VA"
+			  units="90"
+			  city="Glade Spring"
+			  state="VA"
+			  zip="24340"
+			  lat="36.77"
+			  lng="-81.78"
+			  zone="N5"
+			  highway="I-81, Exit 29"
+			  address="12433 Maple St" />
+
+	</corridor>
+
+	<corridor name="O">
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #22 - Atlanta, GA"
+			  units="63"
+			  city="Atlanta"
+			  state="GA"
+			  zip="30318"
+			  lat="33.78"
+			  lng="-84.49"
+			  zone="O0"
+			  highway="I-285 Exit 12 (US 78-278 E)"
+			  address="3181 Bankhead Hwy NW" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Pilot #422 - Newnan, GA"
+			  units="51"
+			  city="Newnan"
+			  state="GA"
+			  zip="30263"
+			  lat="33.32"
+			  lng="-84.77"
+			  zone="O5"
+			  highway="I-85 Exit 41 (US 29 N)"
+			  address="1645 Hwy 29 S" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #151 - Baltimore South (Jessup)"
+			  units="129"
+			  city="Jessup"
+			  state="MD"
+			  zip="20794"
+			  lat="39.14"
+			  lng="-76.79"
+			  zone="O0"
+			  highway="I-95, Exit 41A (MD 175 E)"
+			  address="7401 Assateague Dr" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #216 - Baltimore, MD"
+			  units="63"
+			  city="Baltimore"
+			  state="MD"
+			  zip="21224"
+			  lat="39.28"
+			  lng="-76.55"
+			  zone="O1"
+			  highway="I-95 Exit 57 (O'Donnell St)/I-895 Ex"
+			  address="5501 O'Donnell St Cutoff" />
+
+		<tse
+			  installer="IdleAire"
+			  location="Petro #29 - Mebane, NC"
+			  units="58"
+			  city="Mebane"
+			  state="NC"
+			  zip="27302"
+			  lat="36.08"
+			  lng="-79.22"
+			  zone="O3"
+			  highway="I-40-85 Exit 157 (Buckhorn Rd N)"
+			  address="505 Buckhorn Rd" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #002 - Greensboro, NC"
+			  units="75"
+			  city="Whitsett"
+			  state="NC"
+			  zip="27377"
+			  lat="36.03"
+			  lng="-79.59"
+			  zone="O0"
+			  highway="I-40, Exit 138"
+			  address="1101 Highway 61" />
+
+		<tse
+			  installer="IdleAire"
+			  location="TA #025 - Spartanburg"
+			  units="60"
+			  city="Duncan"
+			  state="SC"
+			  zip="29334"
+			  lat="34.91"
+			  lng="-82.12"
+			  zone="O4"
+			  highway="I-85, Exit 63 (SC 290)"
+			  address="1402 E Main St" />
+
+	</corridor>
+
+</tses>

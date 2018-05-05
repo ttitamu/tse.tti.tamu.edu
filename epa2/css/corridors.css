@@ -1,0 +1,100 @@
+body {
+	background: #FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#mapinfo {
+	width:900px;
+	margin: 5px 10px;
+	}
+#mapinfo h2 {
+	font-size: 1.5em;
+}
+#mapinfo h1, #mapinfo h2, #mapinfo h5 { 
+	font-weight: normal; 
+	margin: 5px 5px 10px 5px;
+	width: 850px;
+}
+
+#mapinfo h1 { 
+	font-size: 1.2em;
+}
+
+#mapinfo p { 
+	font-size: 0.8em;
+	margin: 5px;
+	width:48%;
+	float:left;
+}
+#mapinfo table {
+	font-size: 0.8em;
+	width: 42%;
+	margin: 0 0 0 10px;
+	float:right;
+	border: 1px solid #CDCDCD;
+	background-color: #F4F4F4;
+}
+#mapinfo tr {
+	border: 1px solid #CDCDCD;
+}
+#mapinfo td {
+	padding: 5px;
+}
+
+.googlemap { 
+	width: 900px; 
+	height: 480px; 
+	margin: 0 10px; 
+	border: 1px solid #CDCDCD;
+	clear:both; 
+}
+
+.googlemap h5 { padding-top: 0.5em; }
+
+
+#footer {
+	font-size: 0.8em;
+	text-align: center;
+	margin: 10px;
+	padding-top: 10px;
+	width: 900px;
+	border-top: 1px solid #CDCDCD;
+}
+
+#footer a {
+	color: #900;
+	text-align: center;
+}
+
+#footer img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.hide { display:none; } /* for now...h2s with this class will be redundant */
+
+.disclaimer {
+	font-size: 0.75em;
+	width: 900px;
+	margin: 10px;
+}
+
+.clearfix:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+/* End hide from IE-mac */

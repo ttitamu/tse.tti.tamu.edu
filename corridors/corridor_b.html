@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Existing Electrified Truckstops in Corridor B: Boston to Birmingham</title>
+
+<script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAiSSupeSw4QpDRZUYpf09nhTT7RuaZGDV2KV5JOcQ8FkhyHNjnhTEeXY-3lKNeDoSlhOteehLifHEaQ" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.googlemap { width: 720px; height: 480px; margin: 3px auto; border: 1px solid #CDCDCD; }
+h3,h4,p { margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; }
+.googlemap { width: 900px; height: 480px; margin: 10px; border: 1px solid #CDCDCD; }
+.googlemap#map h3,.googlemap#map h4,.googlemap h5,.googlemap#map p { margin:0; padding:0; }
+.googlemap h5 { padding-top: 0.5em; }
+
+-->
+</style>
+<link href="../css/corridors.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="showMap()" onunload="GUnload()">
+<div id="mapinfo"><h1>National Deployment Strategy for Truck Stop Electrification</h1>
+<h5>project by the <a href="http://tti.tamu.edu">Texas Transportation Institute</a> with funding provided by the <a href="http://www.epa.gov">United States Environmental Protection Agency</a></h5>
+<h2>Existing Electrified Truck Stops in Corridor B: Boston to Birmingham</h2>
+<p><a href="" onclick="window.close()">Close window/return to interactive map</a></p>
+<p>You may scale and drag the embedded Google Map below. The <img src="../images/mm_20_green.png" alt="small green pointer icon" width="12" height="20" /> symbols represent existing electrified truck stops; you may click any of these symbols to see the associated truck stop data. The <img src="../images/default_red_marker.png" alt="large red marker" width="20" height="34" /> symbols represent the beginning and ending points of the corridor.</p>
+
+</div>
+<div class="googlemap" id="map">    <!-- the id is used by the showMap() function to replace the div's contents w/the map -->
+          
+		  <noscript>
+          <p><strong>NOTE</strong>: if you do not see the embedded Google map here, your computer is set to disable Javascript. To view the Google map, consult your browser software's Help file to enable Javascript functionality. <!--Or, you may click the link below to go to the Google Maps page, which has a viewable map option for users with Javascript disabled.--></p>
+          </noscript>
+</div>
+	
+	
+	<script type="text/javascript">
+    //<![CDATA[
+    function showMap() {
+        if (GBrowserIsCompatible()) {
+			var nTerminus1Lat =  40.944639;
+			var nTerminus1Lng = -74.006653;
+			var nTerminus2Lat =  45.032289;
+			var nTerminus2Lng = -93.264999;
+		
+            var map = new GMap2(document.getElementById("map"));
+           	map.addControl(new GLargeMapControl());
+        	map.addControl(new GScaleControl());
+       		map.addControl(new GMapTypeControl());
+            map.setCenter(new GLatLng(42.423457, -81.14502), 6);
+			
+			var keyboard = new GKeyboardHandler(map);  // initiates keyboard controls
+			
+			// Create small red marker icon
+			var redicon = new GIcon();
+			redicon.image = "http://labs.google.com/ridefinder/images/mm_20_red.png";
+			redicon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			redicon.iconSize = new GSize(12, 20);
+			redicon.shadowSize = new GSize(22, 20);
+			redicon.iconAnchor = new GPoint(6, 20);
+			redicon.infoWindowAnchor = new GPoint(5, 1);
+			redicon.infoShadowAnchor = new GPoint(10, 23);
+			
+			
+			// Create small green marker icon
+			var greenicon = new GIcon();
+			greenicon.image = "http://labs.google.com/ridefinder/images/mm_20_green.png";
+			greenicon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			greenicon.iconSize = new GSize(12, 20);
+			greenicon.shadowSize = new GSize(22, 20);
+			greenicon.iconAnchor = new GPoint(6, 20);
+			greenicon.infoWindowAnchor = new GPoint(5, 1);
+			greenicon.infoShadowAnchor = new GPoint(10, 23);
+			
+			
+			// Create small yellow marker icon
+			var yellowicon = new GIcon();
+			yellowicon.image = "http://labs.google.com/ridefinder/images/mm_20_yellow.png";
+			yellowicon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+			yellowicon.iconSize = new GSize(12, 20);
+			yellowicon.shadowSize = new GSize(22, 20);
+			yellowicon.iconAnchor = new GPoint(6, 20);
+			yellowicon.infoWindowAnchor = new GPoint(5, 1);
+			yellowicon.infoShadowAnchor = new GPoint(10, 23);
+			
+			
+			// test static existing TSEs (small green icon)
+			var eTSE01 = new GMarker(new GLatLng(41.42, -87.75), greenicon);
+			map.addOverlay(eTSE01);
+			GEvent.addListener(eTSE01, "click", function() {
+				eTSE01.openInfoWindowHtml("<h3>Existing TSE</h3><h4>Petro #65 - Monee</h4><p>5915 Monee Rd</p><p>Monee, IL</p><h5>Directions:</h5><p>I-57, Exit 335 (US 57 E)</p>");
+			});
+			
+			var eTSE02 = new GMarker(new GLatLng(41.53, -87.42), greenicon);
+			map.addOverlay(eTSE02);
+			GEvent.addListener(eTSE02, "click", function() {
+				eTSE02.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #010 - Gary</h4><p>2510 Burr St</p><p>Gary, IN</p><h5>Directions:</h5><p>I-80, Exit 6</p>");
+			});
+			
+			var eTSE03 = new GMarker(new GLatLng(41.60, -87.05), greenicon);
+			map.addOverlay(eTSE03);
+			GEvent.addListener(eTSE03, "click", function() {
+				eTSE03.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #220 - Porter</h4><p>1600 W US 20</p><p>Porter, IN</p><h5>Directions:</h5><p>I-94, Exit 22B</p>");
+			});
+			
+			var eTSE04 = new GMarker(new GLatLng(41.56, -87.26), greenicon);
+			map.addOverlay(eTSE04);
+			GEvent.addListener(eTSE04, "click", function() {
+				eTSE04.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #219 - Lake Station</h4><p>1201 N Ripley St</p><p>Lake Station, IN</p><h5>Directions:</h5><p>I-80, Exit 15B (Ripley St N)</p>");
+			});
+			
+			var eTSE05 = new GMarker(new GLatLng(41.93, -83.44), greenicon);
+			map.addOverlay(eTSE05);
+			GEvent.addListener(eTSE05, "click", function() {
+				eTSE05.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #069 - Monroe</h4><p>1255 N Dixie Hwy</p><p>Monroe, MI</p><h5>Directions:</h5><p>I-75, Exit 15 (MI 50)</p>");
+			});
+			
+			var eTSE06 = new GMarker(new GLatLng(40.93, -75.05), greenicon);
+			map.addOverlay(eTSE06);
+			GEvent.addListener(eTSE06, "click", function() {
+				eTSE06.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #006 - Columbia</h4><p>2a Simpson Rd.</p><p>Columbia, NJ</p><h5>Directions:</h5><p>I-80, Exit 4</p>");
+			});
+			
+			var eTSE07 = new GMarker(new GLatLng(40.80, -73.87), greenicon);
+			map.addOverlay(eTSE07);
+			GEvent.addListener(eTSE07, "click", function() {
+				eTSE07.openInfoWindowHtml("<h3>Existing TSE</h3><h4>Hunts Point Market3</h4><p>355 Food Center Dr</p><p>Bronx, NY</p><h5>Directions:</h5><p>C101 - 355 Food Center Drive</p>");
+			});
+			
+			var eTSE08 = new GMarker(new GLatLng(41.02, -81.85), greenicon);
+			map.addOverlay(eTSE08);
+			GEvent.addListener(eTSE08, "click", function() {
+				eTSE08.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #015 - Lodi</h4><p>8834 Lake Rd</p><p>Seville, OH</p><h5>Directions:</h5><p>I-71, Exit 209</p>");
+			});
+			
+			var eTSE09 = new GMarker(new GLatLng(41.54, -83.59), greenicon);
+			map.addOverlay(eTSE09);
+			GEvent.addListener(eTSE09, "click", function() {
+				eTSE09.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #087 - Toledo</h4><p>3483 Libby Rd</p><p>Perrysburg, OH</p><h5>Directions:</h5><p>I-80, Exit 71</p>");
+			});
+			
+			var eTSE10 = new GMarker(new GLatLng(41.09, -80.74), greenicon);
+			map.addOverlay(eTSE10);
+			GEvent.addListener(eTSE10, "click", function() {
+				eTSE10.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #058 - Youngstown</h4><p>5400 76th Drive</p><p>Youngstown, OH</p><h5>Directions:</h5><p>I-80, Exit 223</p>");
+			});
+			
+			var eTSE11 = new GMarker(new GLatLng(41.52, -83.46), greenicon);
+			map.addOverlay(eTSE11);
+			GEvent.addListener(eTSE11, "click", function() {
+				eTSE11.openInfoWindowHtml("<h3>Existing TSE</h3><h4>Petro #17 - Stony Ridge, OH</h4><p>26398 Baker Dr</p><p>Perrysburg, OH</p><h5>Directions:</h5><p>I-280, Exit 1B</p>");
+			});
+			
+			var eTSE12 = new GMarker(new GLatLng(41.17, -83.64), greenicon);
+			map.addOverlay(eTSE12);
+			GEvent.addListener(eTSE12, "click", function() {
+				eTSE12.openInfoWindowHtml("<h3>Existing TSE</h3><h4>Petro #25 - North Baltimore, OH</h4><p>12906 Deshler Rd</p><p>North Baltimore, OH</p><h5>Directions:</h5><p>I-75, Exit 181</p>");
+			});
+			
+			var eTSE13 = new GMarker(new GLatLng(41.14, -80.71), greenicon);
+			map.addOverlay(eTSE13);
+			GEvent.addListener(eTSE13, "click", function() {
+				eTSE13.openInfoWindowHtml("<h3>Existing TSE</h3><h4>Petro #20 - Girard, OH</h4><p>1 Petro Place</p><p>Girard, OH</p><h5>Directions:</h5><p>I-80, Exit 226</p>");
+			});
+			
+			var eTSE14 = new GMarker(new GLatLng(41.16, -79.06), greenicon);
+			map.addOverlay(eTSE14);
+			GEvent.addListener(eTSE14, "click", function() {
+				eTSE14.openInfoWindowHtml("<h3>Existing TSE</h3><h4>TA #003</h4><p>245 Allegheny Blvd</p><p>Brookville, PA</p><h5>Directions:</h5><p>I-80, Exit 4</p>");
+			});
+			
+			var eTSE15 = new GMarker(new GLatLng(41.01, -76.84), greenicon);
+			map.addOverlay(eTSE15);
+			GEvent.addListener(eTSE15, "click", function() {
+				eTSE15.openInfoWindowHtml("<h3>Existing TSE</h3><h4>Petro #64 - Milton, PA</h4><p>I-80 &amp; PA Route</p><p>Milton, PA</p><h5>Directions:</h5><p>I-80, Exit 215</p>");
+			});/**/
+			
+			// test static candidate TSEs (small yellow icon)
+		/*	var cTSE01 = new GMarker(new GLatLng(41.01, -76.84), yellowicon);
+			map.addOverlay(cTSE01);
+			GEvent.addListener(cTSE01, "click", function() {
+				eTSE01.openInfoWindowHtml("<h3>Candidate TSE</h3><h4>TA #003</h4><p>I-80, Exit 78 (PA 36N)</p><p>Brookville, PA</p><h5>Directions:</h5><p>I-80, Exit 4</p>");
+			});*/
+			
+			
+			// Create listeners on each 
+			
+			
+			
+					
+			
+			// create info windows
+			
+
+        /*map.openInfoWindowHtml(map.getCenter(), "<strong>TTI Arlington Office</strong><br /><address>110 N. Davis Dr.<br />Arlington, TX 76013<br />512-467-0946<br />512-467-8971 (FAX)</address><p style='margin:0;'><a href='../../images/maps/arlington.jpg'>Simple Map (printable)</a></p>");*/
+        	var term1 = new GMarker(new GLatLng(nTerminus1Lat, nTerminus1Lng));
+			map.addOverlay(term1); 
+			GEvent.addListener(term1, "click", function() {
+				term1.openInfoWindowHtml("<h4>Corridor A Terminus</h4><p><strong>Lat:</strong> " + nTerminus1Lat +"</p><p><strong>Long:</strong> " + nTerminus1Lng +"</p>");
+			});
+			
+			
+			//map.addOverlay(new GMarker(new GLatLng(nTerminus2Lat, nTerminus2Lng))); 
+			var term2 = new GMarker(new GLatLng(nTerminus2Lat, nTerminus2Lng));
+			map.addOverlay(term2); 
+			GEvent.addListener(term2, "click", function() {
+				term2.openInfoWindowHtml("<h4>Corridor A Terminus</h4><p><strong>Lat:</strong> " + nTerminus2Lat +"</p><p><strong>Long:</strong> " + nTerminus2Lng +"</p>");
+			});
+			
+          }
+        }
+    //]]>
+</script>
+</body>
+</html>

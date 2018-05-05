@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<corridor name="A">
+		<zone name="A2">
+			<truckstop name="Hickory Run Truck Plaza" spaces="75" address="I-80 Exit 41 NW, White Haven, PA 18661" directions="I-80 Exit 274 (PA 534)" lat="41.0600" lng="-75.7500"/>
+			<truckstop name="Bandit Truck Stop #2" spaces="80" address="I-80 Exit 41 (Rt 534), White Haven, PA 18661" directions="I-80 Exit 41 (PA 534)" lat="41.0600" lng="-75.7700"/>
+			<truckstop name="Brennan's Auto/Truck Plaza" spaces="75" address="I-80 Exit 37, Mifflinville, PA 18631" directions="I-80 Exit 37 (PA 339)" lat="41.0100" lng="-76.2800"/>
+		</zone>
+
+		<zone name="A3">
+			<truckstop name="TA #058 - Youngstown" spaces="150" address="5400 76th Drive, Youngstown, OH 44515" directions="I-80 Exit 223 A (OH 46 S)" lat="41.1219" lng="-80.7666"/>
+			<truckstop name="Truck World" spaces="150" address="6965 Truck World Blvd, Hubbard, OH 44425" directions="I-80 Exit 234 (OH 7 and US 62)" lat="41.1900" lng="-80.5600"/>
+			<truckstop name="Short Stop Truck Plaza" spaces="120" address="6152 W Market St, Leavittsburg, OH 44430" directions="I-80 Exit 14" lat="41.2100" lng="-80.9500"/>
+			<truckstop name="Speedway #8242 - Youngstown" spaces="300" address="871 N Canfield-Niles Rd, Youngstown, OH 44515" directions="I-80 Exit 223 A (OH 46 N)" lat="41.1200" lng="-80.7600"/>
+			<truckstop name="ALRI Truck and Auto Plaza" spaces="75" address="4322 State Hwy 5, Newton Falls, OH 44444" directions="I-80 (OHTP) Exit 209 (OH 5 W)" lat="41.2100" lng="-80.9400"/>
+			<truckstop name="Pilot #281 -Girard" spaces="75" address="2786 Salt Springs Road, Girard, OH 44420" directions="I-80 Exit 226 (Salt Spring Rd)" lat="41.1400" lng="-80.7100"/>
+			<truckstop name="Petro #20 - Girard" spaces="322" address="1 Petro Place, Girard, H 44420" directions="I-80 Exit 226 (Salt Spring Rd)" lat="41.1400" lng="-80.7100"/>
+			<truckstop name="Mr Fuel #5 - Girard" spaces="100" address="2840 Salt Springs Rd, Girard, OH 44420" directions="I-80 Exit 226 (Salt Spring Rd)" lat="41.1400" lng="-80.7200"/>
+			<truckstop name="Pilot #003 - Austintown" spaces="193" address="1150 North Canfield-Niles Rd, Austintown, OH 44515" directions="I-80 Exit 223 B (US 46 N)" lat="41.1200" lng="-80.7600"/>
+			<truckstop name="Flying J - Hubbard" spaces="150" address="2226 N Main, Hubbard, OH 44425" directions="I-80 Exit 234B (Hwy 62)" lat="41.1900" lng="-80.5600"/>
+		</zone>
+
+		<zone name="A4">
+			<truckstop name="TA #087 - Toledo" spaces="179" address="3483 Libby Rd, Perrysburg, OH 43551" directions="I-80 Exit 71 (Libby Rd)" lat="41.5220" lng="-83.4624"/>
+			<truckstop name="Stony Ridge Travel Center" spaces="200" address="3491 Latcha Rd, Millbury, OH 43447" directions="I-280 Exit 1 B (1 mi N of OHTP Exp)" lat="41.5400" lng="-83.4600"/>
+			<truckstop name="Fuel Mart #641 - Perrysburg" spaces="200" address="3654 Libby Rd, Perrysburg, OH 43551" directions="I-80-90 Exit 71 (OH 420 S)" lat="41.5200" lng="-83.4600"/>
+			<truckstop name="Oak Openings Plaza #7107" spaces="100" address="14105 Shaffer Rd, Swanton, OH 43558" directions="I-80-90 MM 49 W" lat="41.6000" lng="-83.9000"/>
+			<truckstop name="Petro #17 - Stony Ridge" spaces="318" address="26398 Baker Dr, Perrysburg, OH 43551" directions="I-280 Exit 1 B (1 mi N of OHTP Exp)" lat="41.5200" lng="-83.4600"/>
+			<truckstop name="Flying J - Perrysburg" spaces="150" address="26415 Warns Rd, Perrysburg, OH 43551" directions="I-280 Exit 1 B (1 mi N of OHTP Exp)" lat="41.5300" lng="-83.4600"/>
+		</zone>
+
+		<zone name="A5">
+			<truckstop name="TA #010 - Gary" spaces="234" address="2510 Burr St, Griffith, IN 46319" directions="I-80-94 Exit 6 (Burr St)" lat="41.5732" lng="-87.4036"/>
+			<truckstop name="Pilot #271 -Gary" spaces="122" address="2501 Burr Street, Gary, IN 46406" directions="I-80-94 Exit 6 (Burr St)" lat="41.5700" lng="-87.4000"/>
+			<truckstop name="Crazy D's Truck Stop" spaces="100" address="8121 Melton Rd, Gary, IN 46403" directions="US 20 and IN 51" lat="41.5900" lng="-87.2400"/>
+			<truckstop name="Flying J - Lake Station" spaces="350" address="1401 Ripley St, Lake Station, IN 46405" directions="I-80-94 Exit 15 B (IN 51 — Ripley Rd)" lat="41.5800" lng="-87.2400"/>
+			<truckstop name="Toll Road BP #70512" spaces="200" address="5105 Plaza Dr (1 South), Portage, IN 46368" directions="I-80-90 MM 22 EB" lat="41.5800" lng="-87.2100"/>
+			<truckstop name="Steel City Truck Plaza" spaces="344" address="3001 Grant Street, Gary, IN 46408" directions="I-80-94 Exit 9 A (Grant St S)" lat="41.5600" lng="-87.3500"/>
+			<truckstop name="TA #219 - Lake Station" spaces="243" address="1201 N Ripley St, Lake Station, IN 46403" directions="I-80-94 Exit 15 B (IN 51 — Ripley Rd)" lat="41.5937" lng="-87.2403"/>
+			<truckstop name="Flying J - Gary" spaces="165" address="3150 Grant St, Gary, IN 46408" directions="I-80-94 Exit 9 A (Grant St S)" lat="41.5600" lng="-87.3500"/>
+		</zone>
+
+		<zone name="A6">
+			<truckstop name="TA #192 - Hudson" spaces="90" address="713 Hwy 12, Hudson, WI 54016" directions="I-94 Exit 4 (US 12)" lat="44.9659" lng="-92.6801"/>
+			<truckstop name="Ray's Super Stop" spaces="100" address="501 US Hwy 63, Baldwin, WI 54002" directions="I-94 Exit 19 (US 63)" lat="44.9400" lng="-92.3700"/>
+			<truckstop name="Kwik Trip #603 - Wilson" spaces="125" address="Hwy 94 and 128, Wilson, WI 54027" directions="I-94 Exit 28 (WI 128)" lat="44.9300" lng="-92.1900"/>
+		</zone>
+
+		<zone name="A7">
+			<truckstop name="Sapp Bros. - Clearfield" spaces="103" address="15196 Clearfield Shawsville Hwy, Clearfield, PA 16830" directions="1/4 MI E on PA 879" lat="41.0363" lng="-78.3995"/>
+			<truckstop name="Kwik Fill A/T Plaza #226" spaces="100" address="I-80 Exit 21 (PA 53), Kylertown, PA 16847" directions="I-80 Exit 21 (PA 53)" lat="40.9933" lng="-78.1675"/>
+			<truckstop name="TA #068 - Lamar" spaces="100" address="I-80 and Hwy 64, Lamar, PA 16848" directions="I-80 Exit 25 (PA 64)" lat="41.0282" lng="-77.5216"/>
+			<truckstop name="Bestway Travel Center" spaces="100" address="I-80 Exit 23 (US 220), Milesburg, PA 16853" directions="I-80 Exit 23 (PA 150 N)" lat="40.9400" lng="-77.7400"/>
+			<truckstop name="Reese Exit 22 Truck Stop" spaces="200" address="I-80 Exit 22, Snow Shoe, PA 16874" directions="I-80 Exit 22 (Hwy 144)" lat="41.0300" lng="-77.9400"/>
+			<truckstop name="Flying J - Mill Hall" spaces="155" address="5609 Nittany Valley Dr, Mill Hall, PA 17751" directions="I-80 Exit 173" lat="41.0200" lng="-77.5200"/>
+		</zone>
+
+		<zone name="A8">
+			<truckstop name="Vermillion Valley Plaza #7114" spaces="100" address="OHTP Vermillion Valley Pl, Amherst, OH 44001" directions="I-80-90 (OHTP) MM 139.2 EB" lat="41.3788" lng="-82.2104"/>
+			<truckstop name="Middle Ridge Plaza #5 North" spaces="100" address="OHTP Middle Ridge Plaza, Amherst, OH 44001" directions="I-80-90 (OHTP) MM 139 WB" lat="41.3800" lng="-82.2300"/>
+		</zone>
+
+		<zone name="A9">
+			<truckstop name="Toll Road BP #552" spaces="100" address="27969 County Rd 6 W, Elkhart, IN 46514" directions="I-80-90 MM 90 EB" lat="41.7200" lng="-86.0000"/>
+		</zone>
+
+		<zone name="A10">
+			<truckstop name="Arrowhead Shell Oasis" spaces="75" address="19 N 479 US Hwy 20, Hampshire, IL 60140" directions="I-90 Exit 36-1/2 (US 20)" lat="42.1400" lng="-88.5000"/>
+			<truckstop name="I-90/20 Clark #2197" spaces="75" address="19 N 681 Route 20, Hampshire, IL 60140" directions="I-90 Exit 36-1/2 (US 20)" lat="42.1400" lng="-88.5100"/>
+		</zone>
+
+		<zone name="A11">
+			<truckstop name="TA #050 - Madison" spaces="120" address="5901 Hwy 51, DeForest, WI 53532" directions="I-90-94 Exit 132 (US 51)" lat="43.1724" lng="-89.3247"/>
+			<truckstop name="Trucker's Inn" spaces="250" address="6162 US Hwy 51, De Forest, WI 53532" directions="I-90-94 Exit 132 (US 51)" lat="43.1848" lng="-89.3239"/>
+		</zone>
+
+		<zone name="A12">
+			<truckstop name="New Lisbon Travel Center" spaces="75" address="1701 E Bridge, New Lisbon, WI 53950" directions="I-90-94 Exit 61 (WI 80)" lat="43.8800" lng="-90.1400"/>
+			<truckstop name="Kwik Trip #796 - Tomah" spaces="150" address="310 E McCoy, Tomah, WI 54660" directions="I-94 Exit 143 (US 12/WI 21)" lat="44.0100" lng="-90.5000"/>
+			<truckstop name="Road Ranger Travel Center #20" spaces="80" address="102 E Woody Ave, Oakdale, WI 54649" directions="I-90-94 Exit 48" lat="43.9600" lng="-90.3900"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="B">
+		<zone name="B1">
+			<truckstop name="Pilot #222 - Sturbridge" spaces="250" address="400 Rte 15 (Haynes St), Sturbridge, MA 01566" directions="I-84 Exit 1 (MA 15)" lat="42.0600" lng="-72.1000"/>
+			<truckstop name="Flynn's Truck Stop" spaces="230" address="307 Hartford Tpke, Shrewsbury, MA 01545" directions="US 20 and MA 140" lat="42.2499" lng="-71.7143"/>
+			<truckstop name="Westborough Plaza" spaces="100" address="I-90 (MATP) MM 105 WB, Westborough, MA 01581" directions="I-90 (MATP) MM 105 WB" lat="42.2231" lng="-71.7889"/>
+		</zone>
+
+		<zone name="B3">
+			<truckstop name="American Truck Stop - Carney's Point" spaces="100" address="414 Slapes Corner Rd, Carney's Point, NJ 08069" directions="I-295 Exit 2 C (NJTP Exit 1)" lat="39.6700" lng="-75.4900"/>
+			<truckstop name="Flying J - Penns Grove" spaces="182" address="326 Slapes Corner Rd, Carney's Point, NJ 08069" directions="I-295 Exit 2 C (NJ 140 W)" lat="39.6900" lng="-75.4500"/>
+		</zone>
+
+		<zone name="B4">
+			<truckstop name="TA #216 - Baltimore" spaces="210" address="5501 O'Donnell St Cutoff, Baltimore, MD 21224" directions="I-95 Exit 57 (O'Donnell St) /I-895" lat="39.2800" lng="-76.5500"/>
+		</zone>
+
+		<zone name="B5">
+			<truckstop name="TA #142 - Richmond" spaces="142" address="10134 Lewistown Rd, Ashland, VA 23005" directions="I-95 Exit 89 (VA 802 E)" lat="37.7228" lng="-77.4473"/>
+			<truckstop name="TA #001 - Ashland" spaces="183" address="100 N Carter Rd, Ashland, VA 23005" directions="I-95 Exit 92 (VA 54)" lat="37.7589" lng="-77.4632"/>
+			<truckstop name="Doswell All American Travel " spaces="240" address="1022 Kings Dominion Blvd, Doswell, VA 23047" directions="I-95 Exit 98 (VA 30 E)" lat="37.8502" lng="-77.4277"/>
+			<truckstop name="Petro #56 - Ruther Glen" spaces="198" address="I-95 Exit 104 (VA 207), Ruther Glen, VA 22546" directions="I-95 Exit 104 (VA 207)" lat="37.9400" lng="-77.4600"/>
+			<truckstop name="Pilot #291 - Ruther Glen" spaces="80" address="23845 Rogers Clark Boulevard, Ruther Glen, VA 22546" directions="I-95 Exit 104 (VA 207)" lat="37.9300" lng="-77.4600"/>
+			<truckstop name="Flying J - Carmel Church" spaces="239" address="24279 Rogers Clark Blvd, Ruther Glen, VA 22546" directions="I-95 Exit 104" lat="37.9300" lng="-77.4600"/>
+		</zone>
+
+		<zone name="B6">
+			<truckstop name="TA #002 - Greensboro" spaces="177" address="1101 Highway 61, Whitsett, NC 27377" directions="I-40, Exit 138 (NC 61)" lat="36.0647" lng="-79.5645"/>
+			<truckstop name="Petro #29 - Mebane" spaces="275" address="500 Buckhorn Rd, Mebane, NC 27302" directions="I-40-85 Exit 157 (Buckhorn Rd N)" lat="36.0800" lng="-79.2200"/>
+			<truckstop name="Pilot #057 -Mebane" spaces="124" address="1342 Trollingwood Road, Mebane, NC 27302" directions="I-40-85 Exit 152 (Trollingwood Rd)" lat="36.0600" lng="-79.3100"/>
+			<truckstop name="Flying J - Haw River" spaces="251" address="1043 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150" lat="36.0700" lng="-79.3500"/>
+			<truckstop name="Wilco # 165 -Haw River" spaces="135" address="1044 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150 (Jimmie Kerr Rd)" lat="36.0700" lng="-79.3500"/>
+		</zone>
+
+		<zone name="B7">
+			<truckstop name="TA #025 - Spartanburg" spaces="185" address="1402 E Main St, Duncan, SC 29334" directions="I-85 Exit 63 (SC 290)" lat="34.9100" lng="-82.1200"/>
+			<truckstop name="Pilot #063 -Piedmont" spaces="80" address="110 Frontage Road, Piedmont, SC 29673" directions="I-85 Exit 35 (Hwy 86)" lat="34.7000" lng="-82.5000"/>
+		</zone>
+
+		<zone name="B8">
+			<truckstop name="Petro #19 - Bucksville" spaces="255" address="22534 Hwy 216, McCalla, AL 35111" directions="I-20-59 Exit 100" lat="33.2700" lng="-87.0900"/>
+			<truckstop name="Flying J - Bessemer" spaces="150" address="6098 MacAshan Dr, McCalla, AL 35111" directions="I-20-59 Exit 104" lat="33.3183" lng="-87.0398"/>
+			<truckstop name="Wilco #5501 - Cottondale" spaces="75" address="3201 Buttermilk Rd, Cottondale, AL 35453" directions="I-20-59 Exit 77" lat="33.1700" lng="-87.4400"/>
+			<truckstop name="Pilot #076 - Tuscaloosa" spaces="100" address="4416 Skyland Boulevard East, Tuscaloosa, AL 35405" directions="I-20-59 Exit 76 (US 11 Bypass)" lat="33.1700" lng="-87.4700"/>
+		</zone>
+
+		<zone name="B9">
+			<truckstop name="Chex Truck Stop" spaces="300" address="250 Fleming Rd, Henderson, NC 27536" directions="I-85 Exit 220 (Fleming Rd)" lat="36.3900" lng="-78.3300"/>
+		</zone>
+
+		<zone name="B10">
+			<truckstop name="Petro #22 - Atlanta" spaces="397" address="3181 Bankhead Hwy NW, Atlanta, GA 30318" directions="I-285 Exit 12 (US 78-278 E)" lat="33.7858" lng="-84.4900"/>
+			<truckstop name="Wilco #3010 -Villa Rica" spaces="88" address="95 Liberty Rd, Villa Rica, GA 30180" directions="I-20 Exit 26 (Liberty Rd)" lat="33.7200" lng="-84.9000"/>
+			<truckstop name="Pilot #417 - Temple" spaces="103" address="625 Carrollton Street, Temple, GA 30179" directions="I-20 Exit 19 (GA 113)" lat="33.7200" lng="-84.9300"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="C">
+		<zone name="C1">
+			<truckstop name="TA #010 - Gary" spaces="234" address="2510 Burr St, Griffith, IN 46319" directions="I-80-94 Exit 6 (Burr St)" lat="41.5732" lng="-87.4036"/>
+			<truckstop name="Pilot #271 - Gary" spaces="122" address="2501 Burr Street, Gary, IN 46406" directions="I-80-94 Exit 6 (Burr St)" lat="41.5700" lng="-87.4000"/>
+			<truckstop name="Crazy D's Truck Stop" spaces="100" address="8121 Melton Rd, Gary, IN 46403" directions="US 20 and IN 51" lat="41.5900" lng="-87.2400"/>
+			<truckstop name="Flying J - Lake Station" spaces="350" address="1401 Ripley St, Lake Station, IN 46405" directions="I-80-94 Exit 15 B (IN 51- Ripley Rd)" lat="41.5800" lng="-87.2400"/>
+			<truckstop name="Toll Road BP #70512" spaces="200" address="5105 Plaza Dr (1 South), Portage, IN 46368" directions="I-80-90 MM 22 EB" lat="41.5800" lng="-87.2100"/>
+			<truckstop name="Steel City Truck Plaza" spaces="344" address="3001 Grant Street, Gary, IN 46408" directions="I-80-94 Exit 9 A (Grant St S)" lat="41.5600" lng="-87.3500"/>
+			<truckstop name="TA #219 - Lake Station" spaces="243" address="1201 N Ripley St, Lake Station, IN 46403" directions="I-80-94 Exit 15 B (IN 51 — Ripley Rd)" lat="41.5937" lng="-87.2403"/>
+			<truckstop name="Flying J - Gary" spaces="165" address="3150 Grant St, Gary, IN 46408" directions="I-80-94 Exit 9 A (Grant St S)" lat="41.5600" lng="-87.3500"/>
+		</zone>
+
+		<zone name="C2">
+			<truckstop name="Pilot #392 - Sonora" spaces="137" address="450 E Western Ave, Sonora, KY 42776" directions="I-65 Exit 81(KY 84 E)" lat="37.5200" lng="-85.8800"/>
+			<truckstop name="Country Style Plaza - Glendale" spaces="75" address="465 Glendale/Hodgenville, Glendale, KY 42740" directions="I-65 Exit 86 (KY 222 W)" lat="37.5900" lng="-85.8700"/>
+			<truckstop name="Pilot #048 - Glendale" spaces="110" address="58 Glendale-Hodgenville Road, Glendale, KY 42740" directions="I-65 Exit 86 (KY 222 E)" lat="37.5900" lng="-85.8600"/>
+			<truckstop name="Petro #30 - Glendale" spaces="256" address="554 W Glendale Hodgenville Rd, Glendale, KY 42740" directions="I-65 Exit 86 (KY 222)" lat="37.5900" lng="-85.8700"/>
+		</zone>
+
+		<zone name="C3">
+			<truckstop name="TA #117 - Antioch" spaces="148" address="13011 Old Hickory Blvd, Antioch, TN 37013" directions="I-24 Exit 62 (TN 171)" lat="36.0500" lng="-86.6500"/>
+			<truckstop name="TA #034 - Nashville" spaces="197" address="111 N First Street, Nashville, TN 37213" directions="I-24 Exit 48(James Robertson Pkw)" lat="36.1600" lng="-86.7600"/>
+			<truckstop name="Pilot #292 -Nashville" spaces="97" address="130 W Trinity Lane, Nashville, TN 37207" directions="I-65 Exit 87 A (Trinity Lane)" lat="36.2000" lng="-86.7700"/>
+		</zone>
+
+		<zone name="C4">
+			<truckstop name="Patty's Truck Stop" spaces="91" address="950 Hwy 140, Adairsville, GA 30103" directions="I-75 Exit 306 (GA 140 E)" lat="34.3775" lng="-84.9092"/>
+			<truckstop name="TA #146 - Cartersville" spaces="193" address="981 Cassville-White Dr, Cartersville, GA 30120" directions="I-75 Exit 296" lat="34.2731" lng="-84.8073"/>
+			<truckstop name="Pilot #067 — Cartersville" spaces="75" address="968 Cassville-White Rd, Cartersville, GA 30120" directions="I-75 Exit 296" lat="34.2700" lng="-84.8000"/>
+			<truckstop name="QuikTrip #757 - Adairsville" spaces="80" address="961 Hwy 140 NW, Adairsville, GA 30103" directions="I-75 Exit 306 (GA 140)" lat="34.3700" lng="-84.9000"/>
+		</zone>
+
+		<zone name="C5">
+			<truckstop name="TA #100 - Jackson" spaces="107" address="122 Truck Stop Way, Jackson, GA 30233" directions="I-75 Exit 201 (GA 36 E)" lat="33.2070" lng="-84.0567"/>
+			<truckstop name="Flying J - Jackson" spaces="200" address="1125 Bucksnort Rd, Jackson, GA 30233" directions="I-75 Exit 201 (GA 36 W)" lat="33.2000" lng="-84.0600"/>
+			<truckstop name="Wilco #3030 -Jackson" spaces="100" address="2995 Hwy 36 West, Jackson, GA 30233" directions="I-75 Exit 201 (GA 36)" lat="33.2000" lng="-84.0500"/>
+		</zone>
+
+		<zone name="C6">
+			<truckstop name="Pilot #092 - Ocala" spaces="80" address="4255 NW Hwy 326, Ocala, FL 34482" directions="I-75 Exit 359 (FL 326)" lat="29.2600" lng="-82.1900"/>
+			<truckstop name="Petro #23 - Ocala" spaces="241" address="7401 W Hwy 318, Reddick, FL 32686" directions="I-75 Exit 368 (FL 318 E)" lat="29.4000" lng="-82.2400"/>
+			<truckstop name="Pilot #424 - Ocala" spaces="140" address="4032 Hwy 326 W, Ocala, FL 34482" directions="I-75 Exit 358 (FL 326)" lat="29.2660" lng="-82.1897"/>
+		</zone>
+
+		<zone name="C7">
+			<truckstop name="Seminole Truck Stop" spaces="75" address="4690 US Hwy 27, Weston, FL 33332" directions="US 27 (5 mi S of FL 84)" lat="26.0500" lng="-80.4300"/>
+		</zone>
+
+		<zone name="C8">
+			<truckstop name="Kiel Bros. Stop 95" spaces="75" address="3542 E 500 N, Whiteland, IN 46184" directions="I-65 Exit 95 (Whiteland Rd)" lat="39.5508" lng="-86.0434"/>
+			<truckstop name="Flying J - Whiteland" spaces="173" address="4982 N 350 East, Whiteland, IN 46184" directions="I-65 Exit 95 (Whiteland Rd)" lat="39.5500" lng="-86.0357"/>
+			<truckstop name="Pilot #037 - Whiteland" spaces="129" address="2962 County Road 500 North, Whiteland, IN 46184" directions="I-65 Exit 95 (CR 500 N)" lat="39.5500" lng="-86.0400"/>
+			<truckstop name="Road Ranger #226" spaces="100" address="1601 E Main, Greenwood, IN 46143" directions="I-65 Exit 99" lat="39.6100" lng="-86.0700"/>
+			<truckstop name="Pilot #397 -Whiteland" spaces="110" address="5115 North 300 East, Whiteland, IN 46184" directions="I-65 Exit 95 (IN 500)" lat="39.5500" lng="-86.0400"/>
+		</zone>
+
+		<zone name="C9">
+			<truckstop name="TA #128 - Lake Park" spaces="80" address="6901 Belleville Rd, Lake Park, GA 31636" directions="I-75 Exit 2 (Bellville Rd E)" lat="30.6453" lng="-83.1869"/>
+			<truckstop name="Sav-A-Ton #05" spaces="75" address="1311 Hwy 122 W, Hahira, GA 31632" directions="I-75 Exit 29 (GA 122)" lat="30.9913" lng="-83.3887"/>
+			<truckstop name="Adel Truck Plaza" spaces="150" address="1503 W 4th St, Adel, GA 31620" directions="I-75 Exit 39 (GA 37)" lat="31.1300" lng="-83.4400"/>
+			<truckstop name="Flying J - Lake Park" spaces="200" address="7001 Lake Park-Bellville, Lake Park, GA 31636" directions="I-75 Exit 2 (Bellville Rd W)" lat="30.6400" lng="-83.1900"/>
+		</zone>
+
+		<zone name="C10">
+			<truckstop name="Commercial Truck Terminal" spaces="130" address="1025 N US 27, Haines City, FL 33845" directions="US 27 N (8 mi S of I-4 Exit 23)" lat="28.0800" lng="-81.6400"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="D">
+		<zone name="D1">
+			<truckstop name="Pilot #222 - Sturbridge" spaces="250" address="400 Rte 15 (Haynes St), Sturbridge, MA 01566" directions="I-84 Exit 1 (MA 15)" lat="42.0600" lng="-72.1000"/>
+			<truckstop name="Flynn's Truck Stop" spaces="230" address="307 Hartford Tpke, Shrewsbury, MA 01545" directions="US 20 and MA 140" lat="42.2499" lng="-71.7143"/>
+			<truckstop name="Westborough Plaza" spaces="100" address="I-90 (MATP) MM 105 WB, Westborough, MA 01581" directions="I-90 (MATP) MM 105 WB" lat="42.2231" lng="-71.7889"/>
+		</zone>
+
+		<zone name="D3">
+			<truckstop name="American Truck Stop - Carney's Point" spaces="100" address="414 Slapes Corner Rd, Carney's Point, NJ 08069" directions="I-295 Exit 2 C (NJTP Exit 1)" lat="39.6700" lng="-75.4900"/>
+			<truckstop name="Flying J - Penns Grove" spaces="182" address="326 Slapes Corner Rd, Carney's Point, NJ 08069" directions="I-295 Exit 2 C (NJ 140 W)" lat="39.6900" lng="-75.4500"/>
+		</zone>
+
+		<zone name="D4">
+			<truckstop name="TA #216 - Baltimore" spaces="210" address="5501 O'Donnell St Cutoff, Baltimore, MD 21224" directions="I-95 Exit 57 (O'Donnell St)/I-895" lat="39.2800" lng="-76.5500"/>
+		</zone>
+
+		<zone name="D5">
+			<truckstop name="TA #142 - Richmond" spaces="142" address="10134 Lewistown Rd, Ashland, VA 23005" directions="I-95 Exit 89 (VA 802 E)" lat="37.7228" lng="-77.4473"/>
+			<truckstop name="TA #001 - Ashland" spaces="183" address="100 N Carter Rd, Ashland, VA 23005" directions="I-95 Exit 92 (VA 54)" lat="37.7589" lng="-77.4632"/>
+			<truckstop name="Doswell All American Travel P" spaces="240" address="1022 Kings Dominion Blvd, Doswell, VA 23047" directions="I-95 Exit 98 (VA 30 E)" lat="37.8502" lng="-77.4277"/>
+			<truckstop name="Petro #56 - Ruther Glen" spaces="198" address="I-95 Exit 104 (VA 207), Ruther Glen, VA 22546" directions="I-95 Exit 104 (VA 207)" lat="37.9400" lng="-77.4600"/>
+			<truckstop name="Pilot #291 -Ruther Glen" spaces="80" address="23845 Rogers Clark Boulevard, Ruther Glen, VA 22546" directions="I-95 Exit 104 (VA 207)" lat="37.9300" lng="-77.4600"/>
+			<truckstop name="Flying J - Carmel Church" spaces="239" address="24279 Rogers Clark Blvd, Ruther Glen, VA 22546" directions="I-95 Exit 104" lat="37.9300" lng="-77.4600"/>
+		</zone>
+
+		<zone name="D6">
+			<truckstop name="TA #195 - Florence" spaces="76" address="2301 W Lucas St, Florence, SC 29501" directions="I-95 Exit 164 (Hwy 52)" lat="34.2313" lng="-79.8014"/>
+			<truckstop name="Pilot #337 -Florence" spaces="90" address="2015 W Lucas Street, Florence, SC 29501" directions="I-95 Exit 164 (US 52 - Lucas St)" lat="34.2300" lng="-79.8000"/>
+			<truckstop name="Petro #58 - Florence" spaces="235" address="3001 TV Rd, Florence, SC 29501" directions="I-95 Exit 169 (TV Rd)" lat="34.2600" lng="-79.7300"/>
+		</zone>
+
+		<zone name="D7">
+			<truckstop name="Petro:2 - Kingsland" spaces="140" address="1105 East King Avenue, Kingsland, GA 31548" directions="I-95 Exit 3 (GA 40)" lat="30.7900" lng="-81.6600"/>
+			<truckstop name="Wilco #3060 - Kingsland" spaces="160" address="1376 Scrubby Bluff Rd, Kingsland, GA 31548" directions="I-95 Exit 1 (Scrubby Bluff Rd)" lat="30.7500" lng="-81.6500"/>
+			<truckstop name="Cisco Travel Plaza #2" spaces="200" address="491 W St Mary's Rd, Kingsland, GA 31548" directions="I-95 Exit 1 (St Mary's Rd)" lat="30.7600" lng="-81.6600"/>
+		</zone>
+
+		<zone name="D8">
+			<truckstop name="Seminole Truck Stop" spaces="75" address="4690 US Hwy 27, Weston, FL 33332" directions="US 27 (5 mi S of FL 84)" lat="26.0500" lng="-80.4300"/>
+		</zone>
+
+		<zone name="D9">
+			<truckstop name="Chex Truck Stop" spaces="300" address="250 Fleming Rd, Henderson, NC 27536" directions="I-85 Exit 220 (Fleming Rd)" lat="36.3900" lng="-78.3300"/>
+		</zone>
+
+		<zone name="D10">
+			<truckstop name="Robin Hood Travel Plaza" spaces="150" address="I-95 Exit 77, Benson, NC 27501" directions="I-95 Exit 77 (Hodges Chapel Rd)" lat="35.2985" lng="-78.5988"/>
+			<truckstop name="Sadler Travel Plaza" spaces="110" address="Jonesboro Rd, Exit 75, Dunn, NC 28335" directions="I-95 Exit 75 (Jonesboro Rd)" lat="35.3171" lng="-78.5761"/>
+		</zone>
+
+		<zone name="D11">
+			<truckstop name="Pilot #071 -Port Wentworth" spaces="79" address="7001 Hwy 21, Port Wentworth, GA 31407" directions="I-95 Exit 109 (GA 21)" lat="32.1900" lng="-81.1900"/>
+			<truckstop name="Joker Joe's" spaces="100" address="Rd 88 Exit 8 I-95, Hardeeville, SC 29927" directions="I-95 Exit 8 (SC 27-88)" lat="32.2900" lng="-81.0700"/>
+		</zone>
+
+		<zone name="D12">
+			<truckstop name="Space Shuttle Fuel" spaces="150" address="4880 Windover Way, Titusville, FL 32780" directions="I-95 Exit 79 (FL 50)" lat="28.5523" lng="-80.8498"/>
+		</zone>
+
+		<zone name="D13">
+			<truckstop name="TA #197 - Vero Beach" spaces="159" address="8909 20th St, Vero Beach, FL 32966" directions="I-95 Exit 147 (FL 60 E)" lat="27.6390" lng="-80.5107"/>
+			<truckstop name="Falcon Truck Stop" spaces="150" address="7045 Okeechobee Rd, Fort Pierce, FL 34945" directions="FLTP Exit 152 (FL 70), I-95 Exit" lat="27.4100" lng="-80.3900"/>
+			<truckstop name="Pilot #327 - Fort Pierce" spaces="77" address="7150 Okeechobee Road, Fort Pierce, FL 34945" directions="FL 70W Okeechobee Rd" lat="27.4100" lng="-80.3900"/>
+			<truckstop name="Flying J - St Lucie" spaces="150" address="100 N Kings Hwy, Ft Pierce, FL 34945" directions="I-95 Exit 66 B (FL 68 W)" lat="27.4400" lng="-80.3900"/>
+			<truckstop name="Pilot #090 - Fort Pierce" spaces="87" address="7300 W Okeechobee, Fort Pierce, FL 34945" directions="FL 70 W" lat="27.4100" lng="-80.3900"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="E">
+		<zone name="E1">
+			<truckstop name="Pilot #087 - Baldwin" spaces="80" address="1050 US 301 South, Baldwin, FL 32234" directions="I-10 Exit 50 (US 301 S)" lat="30.2800" lng="-81.9800"/>
+		</zone>
+
+		<zone name="E2">
+			<truckstop name="Flying J - Quincy/Midway" spaces="150" address="32670 Blue Star Hwy, Midway, FL 32343" directions="I-10 Exit 27 (US 90)" lat="30.4928" lng="-84.4293"/>
+			<truckstop name="Pilot #425 - Midway" spaces="90" address="33333 Blue Star Highway, Midway, FL 32343" directions="I-10 Exit 192 (US 90 SE)" lat="30.4800" lng="-84.4200"/>
+		</zone>
+
+		<zone name="E3">
+			<truckstop name="Pilot #302 - Theodore" spaces="100" address="6955 Theodore Dawes Rd, Theodore, AL 36582" directions="I-10, Exit 13" lat="30.5600" lng="-88.2000"/>
+			<truckstop name="TA #054 - Mobile" spaces="90" address="9201 Grand Bay-Wilmer Rd, Grand Bay, AL 36541" directions="I-10 Exit 4 (CR 11)" lat="30.4900" lng="-88.3200"/>
+		</zone>
+
+		<zone name="E4">
+			<truckstop name="HandR Truck Stop" spaces="80" address="347 Lobdell Hwy, Port Allen, LA 70767" directions="I-10 Exit 151 (LA 415 - Lobdell H)" lat="30.4500" lng="-91.2400"/>
+			<truckstop name="Cash's Truck Plaza" spaces="95" address="420 Lobdell Hwy, Port Allen, LA 70767" directions="I-10 Exit 151 (LA 415)" lat="30.4500" lng="-91.2400"/>
+		</zone>
+
+		<zone name="E5">
+			<truckstop name="TA #017 - Baytown" spaces="202" address="6800 Thompson Rd, Baytown, TX 77520" directions="I-10 Exit 789 (Thompson Rd)" lat="29.7960" lng="-95.0318"/>
+			<truckstop name="Conoco Travel Center - Baytown" spaces="120" address="10403 I-10 E, Baytown, TX 77520" directions="I-10 Exit 797 (TX 146)" lat="29.8200" lng="-94.8900"/>
+			<truckstop name="Citgo Travel Center" spaces="80" address="6110 Interstate 10 E, Baytown, TX 77521" directions="I-10 Exit 793 (Main St)" lat="29.8000" lng="-94.9600"/>
+			<truckstop name="Pilot #086 - Baytown" spaces="139" address="1703-D East Fwy, Baytown, TX 77521" directions="I-10, Exit 789 (Thompson Rd)" lat="29.7900" lng="-95.0300"/>
+		</zone>
+
+		<zone name="E6">
+			<truckstop name="Jud's Food and Fuel #5" spaces="80" address="2999 Hwy 123 Bypass, Seguin, TX 78155" directions="I-10 Exit 610 (TX 123 Bypass)" lat="29.6017" lng="-97.9514"/>
+			<truckstop name="TA #147 - San Antonio" spaces="280" address="6170 Intestate 10 E, San Antonio, TX 78219" directions="I-10 Exit 583 (Foster Rd)" lat="29.4400" lng="-98.3900"/>
+			<truckstop name="Petro # 5 - San Antonio" spaces="224" address="1112 Ackerman Road, San Antonio, TX 78219" directions="I-10 Exit 582 (Ackerman Rd)" lat="29.4300" lng="-98.3800"/>
+			<truckstop name="Farmer's Truck Center" spaces="150" address="13183 IH 10 E, Converse, TX 78109" directions="I-10 Exit 591 (FM 1518)" lat="29.4800" lng="-98.2200"/>
+			<truckstop name="Flying J - San Antonio" spaces="196" address="1815 N Foster Rd, San Antonio, TX 78244" directions="I-10 Exit 583 (Foster Rd)" lat="29.4400" lng="-98.3600"/>
+		</zone>
+
+		<zone name="E7">
+			<truckstop name="Lucky 13 Truck and Auto Plaza" spaces="100" address="328 Green Acres Rd, Mossy Head, FL 32433" directions="I-10 Exit 13 (FL 285)" lat="30.7200" lng="-86.3500"/>
+		</zone>
+
+		<zone name="E8">
+			<truckstop name="TA #180 - Slidell" spaces="153" address="1682 Gause Blvd, Slidell, LA 70459" directions="I-10 Exit 266 (US 190 - Gause Blv)" lat="30.2700" lng="-89.7700"/>
+			<truckstop name="Mardi Gras Truck Stop" spaces="75" address="2401 Elysian Fields Ave, New Orleans, LA 70182" directions="I-10 Exit 236 B (EB)/237 (WB)" lat="29.9800" lng="-90.0500"/>
+			<truckstop name="Big Easy Travel Plaza" spaces="100" address="5000 Old Gentilly Rd, New Orleans, LA 70182" directions="I-10 Exit 239" lat="30.0000" lng="-90.0300"/>
+		</zone>
+
+		<zone name="E9">
+			<truckstop name="Frog City Travel Plaza" spaces="109" address="1418 N Polk St, Rayne, LA 70578" directions="I-10 Exit 87 (LA 35 S)" lat="30.2500" lng="-92.2600"/>
+			<truckstop name="TA #161 - Lafayette" spaces="221" address="1701 N University Ave, Lafayette, LA 70507" directions="I-10 Exit 101 (LA 182)" lat="30.2530" lng="-92.0376"/>
+			<truckstop name="Studebaker Texaco Travel Plaza" spaces="100" address="129 Frontage Rd, Rayne, LA 70578" directions="I-10 Exit 92 (LA 95)" lat="30.2400" lng="-92.1900"/>
+		</zone>
+
+		<zone name="E10">
+			<truckstop name="Houston West Travel Center" spaces="92" address="204 Waller Ave, Brookshire, TX 77423" directions="I-10 Exit 732 (FM 359)" lat="29.7700" lng="-95.9500"/>
+			<truckstop name="Sealy Truck Stop" spaces="100" address="1703 Hwy 90 W, Sealy, TX 77474" directions="I-10 Exit 716 (Pyka Rd)" lat="29.7700" lng="-96.1300"/>
+			<truckstop name="Love's #234 - Katy" spaces="100" address="612 Pederson Rd, Katy, TX 77494" directions="I-10 Exit 737 (US Hwy 90 and 99)" lat="29.7700" lng="-95.8600"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="F">
+		<zone name="F2">
+			<truckstop name="Madison Truck Stop" spaces="100" address="I-70 Exit 25 A, Ruffs Dale, PA 15679" directions="I-70 Exit 25A" lat="40.1709" lng="-79.7309"/>
+			<truckstop name="Pilot #348 - Bentleyville" spaces="92" address="205 Wilson Road, Bentleyville, PA 15314" directions="I-70 Exit 32 B (PA 917)" lat="40.1300" lng="-80.0000"/>
+			<truckstop name="Penn Station Travel Plaza" spaces="125" address="I-70 Exit 23 Smithton Rd, Smithton, PA 15479" directions="I-70 Exit 23 (Smithton Rd)" lat="40.1600" lng="-79.7300"/>
+			<truckstop name="Smithton Truck Stop" spaces="79" address="138 Motordrom Rd, Smithton, PA 15479" directions="I-70 Exit 23" lat="40.1700" lng="-79.7300"/>
+			<truckstop name="PA Tpke WB- North Somerset Pl" spaces="85" address="I-70-76 (US 219), Somerset, PA 15501" directions="I-76 (US 219)" lat="39.9900" lng="-79.0400"/>
+		</zone>
+
+		<zone name="F3">
+			<truckstop name="TA #024 - London (Columbus West)" spaces="184" address="940 US 42 NE, London, OH 43140" directions="I-70, Exit 79 (US 42)" lat="39.9528" lng="-83.3798"/>
+			<truckstop name="Pilot #454 - London" spaces="100" address="1365 SR 42 NE, London, OH 43140" directions="I-70 Exit 79 (US 42)" lat="39.9500" lng="-83.3700"/>
+			<truckstop name="Pilot #213 -Columbus" spaces="100" address="3600 Interchange Road, Columbus, OH 43204" directions="I-70 Exit 94 (Wilson Rd)" lat="39.9700" lng="-83.1000"/>
+		</zone>
+
+		<zone name="F4">
+			<truckstop name="Brazil 70 Ambest Truck Stop" spaces="180" address="1035 W State Rd 42, Brazil, IN 47834" directions="I-70 Exit 23 (IN 59)" lat="39.4400" lng="-87.1200"/>
+			<truckstop name="Pilot #444 -Brazil" spaces="115" address="4376 N State Hwy 59, Brazil, IN 47834" directions="I-70 Exit 23 (IN 59)" lat="39.4400" lng="-87.1200"/>
+		</zone>
+
+		<zone name="F5">
+			<truckstop name="TA #175 - Foristell" spaces="99" address="3265 N Service Rd E, Foristell, MO 63348" directions="I-70 Exit 203 (CR W)" lat="38.8165" lng="-90.9509"/>
+			<truckstop name="Pilot #313 - East St. Louis (Gate)" spaces="179" address="730 Madison Rd, East St Louis, IL 62201" directions="I-55 Exiot 4 (IL 203 N)" lat="38.6500" lng="-90.1300"/>
+			<truckstop name="Pilot #249 - Troy" spaces="150" address="820 Edwardsville Road, Troy, IL 62294" directions="I-55-70 Exit 18 (IL 162 SE)" lat="38.7300" lng="-89.9100"/>
+			<truckstop name="St Louis East Truck Plaza" spaces="100" address="819 Edwardsville Rd, Troy, IL 62294" directions="I-55-70 Exit 18 (IL 162)" lat="38.7300" lng="-89.9100"/>
+			<truckstop name="St Louis Truck Port" spaces="100" address="205 N Highway Drive, Fenton, MO 63026" directions="I-44 Exit 275 (1/2 mi W of I-270)" lat="38.5400" lng="-90.4300"/>
+		</zone>
+
+		<zone name="F6">
+			<truckstop name="TA #052 - Oak Grove" spaces="130" address="100 N Broadway, Oak Grove, MO 64075" directions="I-70 Exit 28 (CR H)" lat="39.0177" lng="-94.1287"/>
+			<truckstop name="Petro #70 - Oak Grove" spaces="330" address="301 SW 1st St, Oak Grove, MO 64075" directions="I-70 Exit 28" lat="39.0100" lng="-94.1200"/>
+			<truckstop name="Pilot #443 - Higginsville" spaces="125" address="6676 Hwy 13, Higginsville, MO 64037" directions="I-70 Exit 49" lat="39.0000" lng="-93.7300"/>
+			<truckstop name="Power 66" spaces="90" address="1509 W 12th St, Kansas City, MO 64101" directions="I-670 Exit 1 (12th and Wyoming)" lat="39.1000" lng="-94.6000"/>
+			<truckstop name="Apple Trail Travel Center" spaces="150" address="1103 N Buckner-Tarsney Rd, Grain Valley, MO 64029" directions="I-70 Exit 24" lat="39.0200" lng="-94.1900"/>
+		</zone>
+
+		<zone name="F7">
+			<truckstop name="Petro #36 - Carlisle" spaces="322" address="1201 Harrisburg Ave, RT 11, Carlisle, PA 17013" directions="I-76 (PATP) Exit 226 N (I-81 Exit)" lat="40.2200" lng="-77.1400"/>
+			<truckstop name="Gables of Harrisburg" spaces="75" address="7800 Linglestown Rd, Harrisburg, PA 17112" directions="I-81 Exit 27 (PA 39)" lat="40.3500" lng="-76.7200"/>
+			<truckstop name="Wilco #7001 - Harrisburg" spaces="100" address="7833 Linglestown Rd, Harrisburg, PA 17112" directions="I-81 Exit 27 (PA 39)" lat="40.3500" lng="-76.7100"/>
+			<truckstop name="TA #012 - Harrisburg" spaces="178" address="7848 Linglestown Rd, Harrisburg, PA 17112" directions="I-81 Exit 27 (PA 39)" lat="40.3300" lng="-76.7900"/>
+			<truckstop name="Carlisle All American Texaco" spaces="180" address="7029 Carlisle Pike, Carlisle, PA 17013" directions="I-81 Exit 17 A (1 mi NE on US 11)" lat="40.2300" lng="-77.0900"/>
+			<truckstop name="Flying J - Carlisle" spaces="278" address="1501 Harrisburg Pike, Carlisle, PA 17013" directions="I-81 Exit 52 (US 11 NE)" lat="40.2200" lng="-77.1600"/>
+			<truckstop name="Pilot #342 - Carlisle" spaces="102" address="1165 Harrisburg Pike, Carlisle, PA 17013" directions="I-781 Exit 52B (US 11 S)" lat="40.2200" lng="-77.1400"/>
+		</zone>
+
+		<zone name="F8">
+			<truckstop name="Shenandoah Truck Plaza" spaces="150" address="64216 Wintergreen Rd, Old Washington, OH 43768" directions="I-70 Exit 186 (OH 285)" lat="40.0248" lng="-81.4520"/>
+			<truckstop name="Go-Mart #57 - Lore City" spaces="100" address="64233 Wintergreen Rd, Lore City, OH 43755" directions="I-70 Exit 186 (OH 285)" lat="40.0200" lng="-81.4500"/>
+		</zone>
+
+		<zone name="F9">
+			<truckstop name="Stop One Truck Plaza" spaces="90" address="1534 N State Rd 1, Cambridge City, IN 47327" directions="I-70 Exit 137 (IN 1 S)" lat="39.8400" lng="-85.1400"/>
+			<truckstop name="Hoosier Heartland Travel Center" spaces="100" address="5884 S Wilbur Wright Rd, New Lisbon, IN 47366" directions="I-70 Exit 131 (Wilbur Wright Rd)" lat="39.8500" lng="-85.2600"/>
+			<truckstop name="Kiel Bros. Stop 3 Truck Plaza" spaces="100" address="5809 S State Rd 3, Spiceland, IN 47385" directions="I-70 Exit 123 (IN 3)" lat="39.8400" lng="-85.4100"/>
+			<truckstop name="Love's #222 - Richmond" spaces="75" address="2698 US 35 N, Richmond, IN 47374" directions="I-70 Exit 149 B (US 35)" lat="39.8700" lng="-84.9300"/>
+			<truckstop name="Flying J - Spiceland" spaces="193" address="5300 S State Rd 3, Spiceland, IN 47385" directions="I-70 Exit 123 (IN 3)" lat="39.8512" lng="-85.4139"/>
+			<truckstop name="Petro #57 - New Paris" spaces="196" address="9787 B US Rt 40 W, New Paris, OH 45347" directions="I-70 Exit 156B (US 40)" lat="39.8200" lng="-84.7900"/>
+		</zone>
+
+		<zone name="F10">
+			<truckstop name="Flying J - Effingham" spaces="150" address="1701 Weaver Green, Effingham, IL 62401" directions="I-57-70 Exit 160 (IL 32-33)" lat="39.1342" lng="-88.5693"/>
+			<truckstop name="Five Star Convenience Store" spaces="250" address="1703 W Fayette Rd, Effingham, IL 62401" directions="I-57-70 Exit 159 (E on Fayette)" lat="39.1100" lng="-88.5600"/>
+			<truckstop name="TA #035 - Effingham" spaces="175" address="I-57-70 Exit 160 IL 32-33, Effingham, IL 62401" directions="I-57 Exit 160 (IL 32-33)" lat="39.1200" lng="-88.5600"/>
+			<truckstop name="Petro #21 - Effingham" spaces="286" address="1805 W Fayette St, Effingham, IL 62401" directions="I-57 Exit 159" lat="39.1200" lng="-88.5600"/>
+			<truckstop name="Pilot #165 - Effingham" spaces="115" address="2500 North 3rd Street, Effingham, IL 62401" directions="I-57-70 Exit 162 (US 45)" lat="39.1400" lng="-88.5300"/>
+		</zone>
+
+		<zone name="F11">
+			<truckstop name="Midway Auto/Truck Plaza" spaces="100" address="6401 W Hwy 40, Columbia, MO 65202" directions="I-70 Exit 121 (US 40)" lat="38.9700" lng="-92.4300"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="G">
+		<zone name="G1">
+			<truckstop name="TA #069 - Monroe" spaces="154" address="1255 N Dixie Hwy, Monroe, MI 48162" directions="I-75 Exit 15 (MI 50)" lat="41.9260" lng="-83.3634"/>
+			<truckstop name="Detroiter Truck Stop" spaces="300" address="21055 West Rd, Woodhaven, MI 48183" directions="I-75 Exit 32 (West Rd)" lat="42.1300" lng="-83.2300"/>
+		</zone>
+
+		<zone name="G2">
+			<truckstop name="TA #093 - Florence" spaces="141" address="7777 Burlington Pike, Florence, KY 41042" directions="I-71-75 Exit 181 (KY 18)" lat="38.9900" lng="-84.6400"/>
+			<truckstop name="TA #028 - Walton" spaces="84" address="145 Richwood Rd, Walton, KY 41094" directions="I-71-75 Exit 175 (KY 338)" lat="38.8800" lng="-84.6300"/>
+			<truckstop name="Flying J - Walton" spaces="200" address="13019 Walton Verona Rd, Walton, KY 41094" directions="I-75 Exit 171" lat="38.8500" lng="-84.6200"/>
+		</zone>
+
+		<zone name="G3">
+			<truckstop name="TA #107 - Knoxville West" spaces="176" address="615 Watt Rd, Knoxville, TN 37922" directions="I-40-75 Exit 369 (S Watt Rd)" lat="35.8737" lng="-84.2364"/>
+			<truckstop name="TA #013 - Knoxville East" spaces="145" address="608 Lovell Rd, Knoxville, TN 37932" directions="I-40-75 Exit 374 (N Lovell Rd)" lat="35.9091" lng="-84.1487"/>
+			<truckstop name="Petro #12 - Knoxville West" spaces="221" address="722 Watt Rd, Knoxville, TN 37922" directions="I-40-75 Exit 369 (S Watt Rd)" lat="35.8700" lng="-84.2300"/>
+			<truckstop name="Flying J - Knoxville" spaces="187" address="800 Watt Rd, Knoxville, TN 37932" directions="I-40-75 Exit 369 (N Watt Rd)" lat="35.8800" lng="-84.2300"/>
+		</zone>
+
+		<zone name="G4">
+			<truckstop name="Patty's Truck Stop" spaces="91" address="950 Hwy 140, Adairsville, GA 30103" directions="I-75 Exit 306 (GA 140 E)" lat="34.3775" lng="-84.9092"/>
+			<truckstop name="TA #146 - Cartersville" spaces="193" address="981 Cassville-White Dr, Cartersville, GA 30120" directions="I-75 Exit 296" lat="34.2731" lng="-84.8073"/>
+			<truckstop name="Pilot #067 - Cartersville" spaces="75" address="968 Cassville-White Rd, Cartersville, GA 30120" directions="I-75 Exit 296" lat="34.2700" lng="-84.8000"/>
+			<truckstop name="QuikTrip #757 - Adairsville" spaces="80" address="961 Hwy 140 NW, Adairsville, GA 30103" directions="I-75 Exit 306 (GA 140)" lat="34.3700" lng="-84.9000"/>
+		</zone>
+
+		<zone name="G5">
+			<truckstop name="TA #100 - Jackson" spaces="107" address="122 Truck Stop Way, Jackson, GA 30233" directions="I-75 Exit 201 (GA 36 E)" lat="33.2070" lng="-84.0567"/>
+			<truckstop name="Flying J - Jackson" spaces="200" address="1125 Bucksnort Rd, Jackson, GA 30233" directions="I-75 Exit 201 (GA 36 W)" lat="33.2000" lng="-84.0600"/>
+			<truckstop name="Wilco #3030 - Jackson" spaces="100" address="2995 Hwy 36 West, Jackson, GA 30233" directions="I-75 Exit 201 (GA 36)" lat="33.2000" lng="-84.0500"/>
+		</zone>
+
+		<zone name="G6">
+			<truckstop name="Pilot #092 - Ocala" spaces="80" address="4255 NW Hwy 326, Ocala, FL 34482" directions="I-75 Exit 359 (FL 326)" lat="29.2600" lng="-82.1900"/>
+			<truckstop name="Petro #23 - Ocala" spaces="241" address="7401 W Hwy 318, Reddick, FL 32686" directions="I-75 Exit 368 (FL 318 E)" lat="29.4000" lng="-82.2400"/>
+			<truckstop name="Pilot #424 - Ocala" spaces="140" address="4032 Hwy 326 W, Ocala, FL 34482" directions="I-75 Exit 358 (FL 326)" lat="29.2660" lng="-82.1897"/>
+		</zone>
+
+		<zone name="G7">
+			<truckstop name="Seminole Truck Stop" spaces="75" address="4690 US Hwy 27, Weston, FL 33332" directions="US 27 (5 mi S of FL 84)" lat="26.0500" lng="-80.4300"/>
+		</zone>
+
+		<zone name="G8">
+			<truckstop name="Beaverdam Truck Plaza" spaces="100" address="7700 Lincoln Hwy, Beaverdam, OH 45808" directions="I-75 Exit 135 (US 30 N)" lat="40.8300" lng="-83.9700"/>
+			<truckstop name="Lima Truck Plaza" spaces="75" address="1415 Bellefontaine Ave, Lima, OH 45804" directions="I-75 Exit 125 A (OH 117-309)" lat="40.7300" lng="-84.0700"/>
+			<truckstop name="Highway Travel Center" spaces="200" address="325 Emma St, Findlay, OH 45840" directions="I-75 Exit 157 (OH 12)" lat="41.0400" lng="-83.6700"/>
+			<truckstop name="Pilot #457 - Beaver Dam" spaces="105" address="427 E Main Street, Beaverdam, OH 45808" directions="I-75 Exit 135" lat="40.8300" lng="-83.9600"/>
+			<truckstop name="Flying J - Beaverdam" spaces="150" address="420 E Main St, Beaverdam, OH 45808" directions="I-75 Exit 135" lat="40.6500" lng="-84.1300"/>
+		</zone>
+
+		<zone name="G9">
+			<truckstop name="Clays Ferry Travel Center" spaces="100" address="120 Carr Lane, Richmond, KY 40475" directions="I-75 Exit 97 (E to Service Rd)" lat="37.8200" lng="-84.3200"/>
+			<truckstop name="Derby City South Truck Plaza" spaces="125" address="1990 Richmond St, Mount Vernon, KY 40456" directions="I-75 Exit 62 (US 25 N)" lat="37.3606" lng="-84.3368"/>
+		</zone>
+
+		<zone name="G10">
+			<truckstop name="TA #128 - Lake Park" spaces="80" address="6901 Belleville Rd, Lake Park, GA 31636" directions="I-75 Exit 2 (Bellville Rd E)" lat="30.6453" lng="-83.1869"/>
+			<truckstop name="Sav-A-Ton #05" spaces="75" address="1311 Hwy 122 W, Hahira, GA 31632" directions="I-75 Exit 29 (GA 122)" lat="30.9913" lng="-83.3887"/>
+			<truckstop name="Adel Truck Plaza" spaces="150" address="1503 W 4th St, Adel, GA 31620" directions="I-75 Exit 39 (GA 37)" lat="31.1300" lng="-83.4400"/>
+			<truckstop name="Flying J - Lake Park" spaces="200" address="7001 Lake Park-Bellville, Lake Park, GA 31636" directions="I-75 Exit 2 (Bellville Rd W)" lat="30.6400" lng="-83.1900"/>
+		</zone>
+
+		<zone name="G11">
+			<truckstop name="Commercial Truck Terminal" spaces="130" address="1025 N US 27, Haines City, FL 33845" directions="US 27 N (8 mi S of I-4 Exit 23)" lat="28.0800" lng="-81.6400"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="H">
+		<zone name="H1">
+			<truckstop name="TA #002 - Greensboro" spaces="177" address="1101 Highway 61, Whitsett, NC 27377" directions="I-40, Exit 138 (NC 61)" lat="36.0647" lng="-79.5645"/>
+			<truckstop name="Petro #29 - Mebane" spaces="275" address="500 Buckhorn Rd, Mebane, NC 27302" directions="I-40-85 Exit 157 (Buckhorn Rd N)" lat="36.0800" lng="-79.2200"/>
+			<truckstop name="Pilot #057 - Mebane" spaces="124" address="1342 Trollingwood Road, Mebane, NC 27302" directions="I-40-85 Exit 152 (Trollingwood Rd)" lat="36.0600" lng="-79.3100"/>
+			<truckstop name="Flying J - Haw River" spaces="251" address="1043 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150" lat="36.0700" lng="-79.3500"/>
+			<truckstop name="Wilco # 165 - Haw River" spaces="135" address="1044 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150 (Jimmie Kerr Rd)" lat="36.0700" lng="-79.3500"/>
+		</zone>
+
+		<zone name="H2">
+			<truckstop name="TA #107 - Knoxville West" spaces="176" address="615 Watt Rd, Knoxville, TN 37922" directions="I-40-75 Exit 369 (S Watt Rd)" lat="35.8737" lng="-84.2364"/>
+			<truckstop name="TA #013 - Knoxville East" spaces="145" address="608 Lovell Rd, Knoxville, TN 37932" directions="I-40-75 Exit 374 (N Lovell Rd)" lat="35.9091" lng="-84.1487"/>
+			<truckstop name="Petro #12 - Knoxville West" spaces="221" address="722 Watt Rd, Knoxville, TN 37922" directions="I-40-75 Exit 369 (S Watt Rd)" lat="35.8700" lng="-84.2300"/>
+			<truckstop name="Flying J - Knoxville" spaces="187" address="800 Watt Rd, Knoxville, TN 37932" directions="I-40-75 Exit 369 (N Watt Rd)" lat="35.8800" lng="-84.2300"/>
+		</zone>
+
+		<zone name="H3">
+			<truckstop name="TA #034 - Nashville" spaces="197" address="111 N First Street, Nashville, TN 37213" directions="I-24 Exit 48 (James Robertson Pkwy)" lat="36.1600" lng="-86.7600"/>
+		</zone>
+
+		<zone name="H4">
+			<truckstop name="Petro #11 - West Memphis" spaces="260" address="3900 Petro Rd, West Memphis, AR 72301" directions="I-40 Exit 280 (MLK Dr)/I-55 Exit" lat="35.1500" lng="-90.1300"/>
+			<truckstop name="Pilot #429 - West Memphis" spaces="121" address="1100 Martin Luther King Blvd, West Memphis, AR 72301" directions="I-40 Exit 280 (MLK Dr)/I-55 Exit" lat="35.1500" lng="-90.1300"/>
+			<truckstop name="Voss Truck Port #3" spaces="240" address="I-40-55, 7th St Exit, West Memphis, AR 72303" directions="I-40-55 Exit 278 (7th St)" lat="35.1624" lng="-90.1756"/>
+			<truckstop name="Pilot #272 -West Memphis" spaces="137" address="800 Martin Luther King Drive, West Memphis, AR 72301" directions="I-40 Exit 280 (MLK Dr)/I-55 Exit" lat="35.1500" lng="-90.1300"/>
+			<truckstop name="Flying J - West Memphis" spaces="225" address="3400 Service Loop Rd, West Memphis, AR 72301" directions="I-40 Exit 280 (MLK Dr)/I-55 Exit" lat="35.1532" lng="-90.1436"/>
+		</zone>
+
+		<zone name="H5">
+			<truckstop name="Petro #26 - N. Little Rock" spaces="271" address="3205 Valentine Rd, N Little Rock, AR 72117" directions="I-40 Exit 161 (Galloway Rd)" lat="34.7800" lng="-92.1200"/>
+			<truckstop name="Pilot #332 - North Little Rock" spaces="89" address="3300 Hwy 391 N, North Little R, AR 72117" directions="I-40 Exit 161 (Galloway Rd)" lat="34.7800" lng="-92.1200"/>
+			<truckstop name="Pilot #118 - Benton" spaces="100" address="7801 Alcoa Road, Benton, AR 72015" directions="I-30 Exit 44 (AR 371)" lat="34.6000" lng="-92.5300"/>
+		</zone>
+
+		<zone name="H6">
+			<truckstop name="TA #150 - Dallas South" spaces="146" address="7751 Bonnie View Rd, Dallas, TX 75241" directions="I-20 Exit 472 (I-635)" lat="32.6700" lng="-96.7700"/>
+			<truckstop name="TA #049 - Rockwall" spaces="133" address="I-30 and TX 205 MM 68, Rockwall, TX 75087" directions="I-30 Exit 68 (TX 205)" lat="32.9000" lng="-96.4500"/>
+			<truckstop name="Flying J - Dallas" spaces="198" address="34100 LBJ Freeway, Dallas, TX 75241" directions="I-20 Exit 472" lat="32.6500" lng="-96.7400"/>
+			<truckstop name="HK USA Travel Center" spaces="113" address="8181 S Lancaster Rd, Dallas, TX 75241" directions="I-20 Exit 470 (TX 342 — Lancaster)" lat="32.6400" lng="-96.7800"/>
+			<truckstop name="Pilot #433 - Dallas" spaces="134" address="8787 S Lancaster Rd, Dallas, TX 75241" directions="I-20 Exit 470 (TX 342 — Lancaster)" lat="32.6400" lng="-96.7800"/>
+		</zone>
+
+		<zone name="H7">
+			<truckstop name="TA #147 - San Antonio" spaces="280" address="6170 Intestate 10 E, San Antonio, TX 78219" directions="I-10 Exit 583 (Foster Rd)" lat="29.4400" lng="-98.3900"/>
+			<truckstop name="Petro # 5 - San Antonio" spaces="224" address="1112 Ackerman Road, San Antonio, TX 78219" directions="I-10 Exit 582 (Ackerman Rd)" lat="29.4300" lng="-98.3800"/>
+			<truckstop name="Flying J - San Antonio" spaces="196" address="1815 N Foster Rd, San Antonio, TX 78244" directions="I-10 Exit 583 (Foster Rd)" lat="29.4400" lng="-98.3600"/>
+			<truckstop name="TA #232 - New Braunfels" spaces="303" address="4817 Conrads Rd, New Braunfels, TX 78130" directions="I-35 Exit 193 (Conrads Rd)" lat="29.6900" lng="-98.1100"/>
+		</zone>
+
+		<zone name="H8">
+			<truckstop name="Gateway Truck Terminal" spaces="100" address="5301 Santa Maria, Laredo, TX 78041" directions="I-35 Exit 3 B (W to 5301 Santa Maria)" lat="27.5500" lng="-99.5000"/>
+			<truckstop name="Pilot #377 - Laredo" spaces="287" address="1101 Uniroyal Drive, Laredo, TX 78045" directions="I-35 Exit 13" lat="27.6800" lng="-99.4600"/>
+			<truckstop name="TA - Laredo" spaces="200" address="1010 Beltway Pk, Laredo, TX 78045" directions="US1472" lat="27.6400" lng="-99.4800"/>
+		</zone>
+
+		<zone name="H9">
+			<truckstop name="TA #221 - Candler" spaces="103" address="153 Wiggins Rd, Candler, NC 28715" directions="I-40 Exit 37" lat="35.5444" lng="-82.7552"/>
+		</zone>
+
+		<zone name="H10">
+			<truckstop name="Simons' Travel Plaza" spaces="97" address="4500 N State Line Ave, Texarkana, AR 75504" directions="I-30 TX Exit 223 A (US 59-71 N)" lat="33.4600" lng="-94.0400"/>
+			<truckstop name="Flying J - Texarcana" spaces="110" address="Rt 12 Box 254-B, Texarkana, AR 71854" directions="I-30 Exit 7 (AR 108)" lat="33.4700" lng="-94.0100"/>
+		</zone>
+
+		<zone name="H11">
+			<truckstop name="W-Wheels #3" spaces="80" address="6278 N General Bruce Rd, Temple, TX 76501" directions="I-35 Exit 305 (Berger Rd)" lat="31.1700" lng="-97.3100"/>
+			<truckstop name="Pilot #432 - Robinson" spaces="150" address="8055 S I-35, Robinson, TX 76706" directions="I-35 Exit 328 (Sun Valley Rd W)" lat="31.4500" lng="-97.1700"/>
+			<truckstop name="Flying J - Waco" spaces="198" address="2409 S New Rd, Waco, TX 76711" directions="I-35 Exit 331 (New Rd)" lat="31.5000" lng="-97.1400"/>
+			<truckstop name="Willie's 305 Truck Stop" spaces="100" address="6278 N. General Bruce Drive, Temple, TX 76501" directions="I-35 Exit 305 (Berger Rd)" lat="31.1400" lng="-97.3200"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="I">
+		<zone name="I1">
+			<truckstop name="Flying J Fuel Stop - Federal" spaces="75" address="1511 - 348th St S, Federal Way, WA 98003" directions="I-5 Exit 142 B (WA 18)" lat="47.2800" lng="-122.3100"/>
+		</zone>
+
+		<zone name="I2">
+			<truckstop name="Jubitz Travel Center" spaces="350" address="10210 North Vancouver Way, Portland, OR 97211" directions="I-5 Exit 307 (E to N Vancouver Way)" lat="45.5965" lng="-122.6692"/>
+		</zone>
+
+		<zone name="I3">
+			<truckstop name="Petro #24 - Medford" spaces="103" address="3730 Fern Valley Road, Medford, OR 97504" directions="I-5 Exit 24" lat="42.2800" lng="-122.8100"/>
+			<truckstop name="Witham Truck Stop" spaces="75" address="2341 Biddle Road, Medford, OR 97504" directions="I-5E Exit 30" lat="42.3500" lng="-122.8700"/>
+			<truckstop name="Pilot #391 - Central Point" spaces="88" address="1600 E Pine Street, Central Point, OR 97502" directions="I-5 Exit 33 (Pine St)" lat="42.3700" lng="-122.8900"/>
+		</zone>
+
+		<zone name="I4">
+			<truckstop name="Sacramento 49er Travel Plaza" spaces="206" address="2828 El Centro Rd, Sacramento, CA 95833" directions="I-80 and W El Camino (1 mi W of I-5)" lat="38.6166" lng="-121.5389"/>
+		</zone>
+
+		<zone name="I7">
+			<truckstop name="Port of Long Beach / Los Angeles" spaces="1000" address="Port of Long Beach, Long Beach, CA 90801" directions="I-710 and I-405" lat="33.8200" lng="-118.2200"/>
+		</zone>
+
+		<zone name="I8">
+			<truckstop name="Port of San Diego" spaces="200" address="Harbor Drive, San Diego, CA 92101" directions="CA 75 and Harbor Drive" lat="32.7000" lng="-117.1500"/>
+		</zone>
+
+		<zone name="I9">
+			<truckstop name="TA #078 - Eugene" spaces="83" address="32910 E Pearl St, Eugene, OR 97408" directions="I-5E Exit 199" lat="44.1300" lng="-123.0600"/>
+		</zone>
+
+		<zone name="I10">
+			<truckstop name="TA #057 - Redding" spaces="208" address="19483 Knighton Rd, Redding, CA 96002" directions="I-5 E" lat="40.5055" lng="-122.3356"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="J">
+		<zone name="J1">
+			<truckstop name="Joliet I-55 Truck Stop" spaces="200" address="22800 W Lincoln Hwy, Plainfield, IL 60544" directions="I-55 Exit 257 (US 30)" lat="41.5800" lng="-88.1700"/>
+			<truckstop name="Greater Chicago I-55 Auto Truck" spaces="175" address="510 S Bolingbrook Dr, Bolingbrook, IL 60440" directions="I-55 Exit 267 (IL 53)" lat="41.6800" lng="-88.0600"/>
+			<truckstop name="Romines Travel Center" spaces="200" address="21 Romines Dr, Morris, IL 60450" directions="I-80 Exit 112 (IL 47)" lat="41.3900" lng="-88.4200"/>
+			<truckstop name="Pilot #236 - Minooka" spaces="85" address="301 Ridge Road, Minooka, IL 60447" directions="I-80 Exit 122" lat="41.4600" lng="-88.2700"/>
+		</zone>
+
+		<zone name="J2">
+			<truckstop name="Deck Oil Truck Stop" spaces="150" address="I-80 and IL 82, Geneseo, IL 61254" directions="I-80 Exit 19 (IL 82)" lat="41.4330" lng="-90.1570"/>
+			<truckstop name="Flying J - Davenport" spaces="146" address="8200 NW Blvd, Davenport, IA 52806" directions="I-80 Exit 292" lat="41.6000" lng="-90.6200"/>
+			<truckstop name="Sapp Bros. - Oasis" spaces="140" address="2608 S 24th St, Council Bluffs, IA 51501" directions="I-29-80 Exit 1 B (S 24th St)" lat="41.2300" lng="-95.8700"/>
+			<truckstop name="Pilot #329 - Council Bluffs" spaces="100" address="2647 South 24th Street, Council Bluffs, IA 51501" directions="I-29-80 Exit 1 B (24th St)" lat="41.2300" lng="-95.8700"/>
+		</zone>
+
+		<zone name="J4">
+			<truckstop name="Tomahawk Auto/Truck Plaza - Hershey" spaces="75" address="I-80 Exit 164, Hershey, NE 69143" directions="I-80 Exit 164" lat="41.1405" lng="-101.0034"/>
+			<truckstop name="Flying J - North Platte" spaces="120" address="3400 Newberry Rd, North Platte, NE 69101" directions="I-80 Exit 179" lat="41.1005" lng="-100.7276"/>
+		</zone>
+
+		<zone name="J5">
+			<truckstop name="Flying J - Cheyenne" spaces="180" address="2250 Etchepare Dr, Cheyenne, WY 82007" directions="I-25 Exit 7 (College Dr)" lat="41.0980" lng="-104.8529"/>
+			<truckstop name="Big D Truck Stop" spaces="100" address="2310 W Lincoln Way, Cheyenne, WY 82001" directions="I-25 Exit 9 / I-80 Exit 358/359" lat="41.1200" lng="-104.8300"/>
+			<truckstop name="Love's #220 - Cheyenne" spaces="75" address="3305 W. College Dr, Cheyenne, WY 82007" directions="I-25 and College Drive" lat="41.0993" lng="-104.8484"/>
+		</zone>
+
+		<zone name="J6">
+			<truckstop name="Cruel Jack's Travel Plaza" spaces="75" address="9 Purple Sage Rd, Rock Springs, WY 82901" directions="I-80 Exit 99 (US 191 - Flaming Go)" lat="41.5557" lng="-109.3102"/>
+			<truckstop name="Outlaw - Sinclair" spaces="80" address="1620 Elk St, Rock Springs, WY 82901" directions="I-80 Exit 104 (US 191 N)" lat="41.6100" lng="-109.2200"/>
+			<truckstop name="Flying J - Rock Springs" spaces="125" address="650 Stagecoach Dr, Rock Springs, WY 82901" directions="I-80 Exit 104" lat="41.6100" lng="-109.2300"/>
+		</zone>
+
+		<zone name="J7">
+			<truckstop name="Flying J - Salt Lake City" spaces="100" address="850 West 2100 South, Salt Lake City, UT 84119" directions="I-15-80 Exit 308 NB / 308 A SB (UT)" lat="40.7200" lng="-111.9100"/>
+		</zone>
+
+		<zone name="J8">
+			<truckstop name="Bosselman Travel Center - Altoona" spaces="275" address="3231 Adventure Land Dr, Altoona, IA 50009" directions="I-80 Exit 142 A (US 65-69)" lat="41.6500" lng="-93.4900"/>
+			<truckstop name="Pilot #373 - Des Moines" spaces="217" address="11957 Douglas Avenue, Des Moines, IA 50322" directions="I-35-80 Exit 126 (Douglas Ave)" lat="41.6200" lng="-93.7700"/>
+		</zone>
+
+		<zone name="J9">
+			<truckstop name="Crossroads Texaco" spaces="100" address="5018 S Lincoln Ave, York, NE 68467" directions="I-80 Exit 353 (US 81)" lat="40.8100" lng="-97.5900"/>
+			<truckstop name="Petro #62 - York" spaces="259" address="4700 S Lincoln Ave, York, NE 68467" directions="I-80 Exit 353 (US Hwy 81)" lat="40.8100" lng="-97.5900"/>
+		</zone>
+
+		<zone name="J10">
+			<truckstop name="Flying J - Rawlins" spaces="200" address="PO Box 845, Rawlins, WY 82301" directions="I-80 Exit 209 (Johnson Rd)" lat="41.7900" lng="-107.2300"/>
+			<truckstop name="I-80 Travel Plaza" spaces="125" address="I-80 Exit 221, Sinclair, WY 82334" directions="I-80 Exit 221 (East Sinclair)" lat="41.7800" lng="-107.0500"/>
+			<truckstop name="TA #234 - Rawlins" spaces="172" address="1400 Higley Blvd, Rawlins, WY 82301" directions="I-80 Exit 214 (Higley Blvd)" lat="41.7900" lng="-107.2300"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="K">
+		<zone name="K1">
+			<truckstop name="Flying J - El Paso" spaces="112" address="1301 Horizon Blvd., El Paso, TX 79928" directions="I-10 Exit 37 (West Horizon Blvd)" lat="31.6600" lng="-106.2300"/>
+			<truckstop name="Petro # 1 - El Paso" spaces="247" address="1295 Horizon Blvd, El Paso, TX 79927" directions="I-10 Exit 37 (Horizon Blvd)" lat="31.6600" lng="-106.2300"/>
+			<truckstop name="El Paso Truck Terminal" spaces="88" address="6666 Gateway E, El Paso, TX 79915" directions="I-10 Exit 25 (Airway Blvd)" lat="31.7800" lng="-106.3900"/>
+		</zone>
+
+		<zone name="K2">
+			<truckstop name="USA Petroleum #802" spaces="375" address="Exit 5 I-10, Lordsburg, NM 88045" directions="I-10 Exit 5 (US 80)" lat="32.2300" lng="-108.9500"/>
+			<truckstop name="Pilot #163 - Lordsburg" spaces="75" address="1050 East Motel Drive, Lordsburg, NM 88045" directions="I-10 Exit 24" lat="32.3400" lng="-108.6900"/>
+		</zone>
+
+		<zone name="K3">
+			<truckstop name="Circle K Truxtop - Phoenix" spaces="100" address="3618 W Buckeye Rd, Phoenix, AZ 85009" directions="US 85 and 35th Ave" lat="33.4370" lng="-112.1363"/>
+			<truckstop name="Liberty Fuel" spaces="156" address="1201 North 59th Avenue, Phoenix, AZ 85043" directions="I-10 Exit 138 (59th Ave)" lat="33.4600" lng="-112.1800"/>
+			<truckstop name="Flying J - Phoenix" spaces="185" address="6700 W Latham, Phoenix, AZ 85043" directions="I-10 Exit 137 (67th Ave)" lat="33.4600" lng="-112.2000"/>
+			<truckstop name="Pilot #459 - Avondale" spaces="140" address="900 North 99th Avenue, Avondale, AZ 85323" directions="I-10 Exit 133" lat="33.4500" lng="-112.2700"/>
+		</zone>
+
+		<zone name="K4">
+			<truckstop name="TA #041 - Coachella" spaces="164" address="46155 Dillon Road, Coachella, CA 92236" directions="I-10 Exit 146 (Dillon Rd)" lat="33.7142" lng="-116.1740"/>
+		</zone>
+
+		<zone name="K5">
+			<truckstop name="TA #162 - Ontario West" spaces="509" address="4265 E Guasti Rd, Ontario, CA 91761" directions="I-10 and Milliken Ave" lat="34.0642" lng="-117.5592"/>
+			<truckstop name="TA #026 - Ontario East" spaces="533" address="4325 Guasti Rd, Ontario, CA 91761" directions="I-10 and Milliken Ave" lat="34.0644" lng="-117.5535"/>
+		</zone>
+
+		<zone name="K6">
+			<truckstop name="Mr T's Self Serve" spaces="120" address="5383 E Benson Hwy, Tucson, AZ 85706" directions="I-10 Exit 268 (Craycroft)" lat="32.1200" lng="-110.8700"/>
+			<truckstop name="Tucson Truck Terminal (Triple" spaces="150" address="5451 Benson Hwy, Tucson, AZ 85706" directions="I-10 Exit 268 (Craycroft)" lat="32.1200" lng="-110.8700"/>
+		</zone>
+
+		<zone name="K7">
+			<truckstop name="Ted's Truck Stop" spaces="150" address="Business Loop 10, Quartzsite, AZ 85346" directions="I-10 Exit 17 (Business Loop)" lat="33.6600" lng="-114.2100"/>
+			<truckstop name="Pilot #328 - Quartzsite" spaces="95" address="1201 West Main Street, Quartzsite, AZ 85359" directions="I-10 Exit 17 (Business Loop)" lat="33.6600" lng="-114.2400"/>
+			<truckstop name="Tomahawk Auto/Truck Plaza - S" spaces="150" address="48710 Vicksburg Rd, Salome, AZ 85348" directions="I-10 Exit 45 (Vicksburg Rd)" lat="33.6200" lng="-113.7600"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="L">
+		<zone name="L1">
+			<truckstop name="TA #010 - Gary" spaces="234" address="2510 Burr St, Griffith, IN 46319" directions="I-80-94 Exit 6 (Burr St)" lat="41.5732" lng="-87.4036"/>
+			<truckstop name="Pilot #271 - Gary" spaces="122" address="2501 Burr Street, Gary, IN 46406" directions="I-80-94 Exit 6 (Burr St)" lat="41.5700" lng="-87.4000"/>
+			<truckstop name="Crazy D's Truck Stop" spaces="100" address="8121 Melton Rd, Gary, IN 46403" directions="US 20 and IN 51" lat="41.5900" lng="-87.2400"/>
+			<truckstop name="Flying J - Lake Station" spaces="350" address="1401 Ripley St, Lake Station, IN 46405" directions="I-80-94 Exit 15 B (IN 51 — Ripley Rd)" lat="41.5800" lng="-87.2400"/>
+			<truckstop name="Toll Road BP #70512" spaces="200" address="5105 Plaza Dr (1 South), Portage, IN 46368" directions="I-80-90 MM 22 EB" lat="41.5800" lng="-87.2100"/>
+			<truckstop name="Steel City Truck Plaza" spaces="344" address="3001 Grant Street, Gary, IN 46408" directions="I-80-94 Exit 9 A (Grant St S)" lat="41.5600" lng="-87.3500"/>
+			<truckstop name="TA #219 - Lake Station" spaces="243" address="1201 N Ripley St, Lake Station, IN 46403" directions="I-80-94 Exit 15 B (IN 51 - Ripley" lat="41.5937" lng="-87.2403"/>
+			<truckstop name="Flying J - Gary" spaces="165" address="3150 Grant St, Gary, IN 46408" directions="I-80-94 Exit 9 A (Grant St S)" lat="41.5600" lng="-87.3500"/>
+		</zone>
+
+		<zone name="L2">
+			<truckstop name="Pilot #392 - Sonora" spaces="137" address="450 E Western Ave, Sonora, KY 42776" directions="I-65 Exit 81 (KY 84 E)" lat="37.5200" lng="-85.8800"/>
+			<truckstop name="Country Style Plaza - Glendale" spaces="75" address="465 Glendale/Hodgenville, Glendale, KY 42740" directions="I-65 Exit 86 (KY 222 W)" lat="37.5900" lng="-85.8700"/>
+			<truckstop name="Pilot #048 - Glendale" spaces="110" address="58 Glendale-Hodgenville Road, Glendale, KY 42740" directions="I-65 Exit 86 (KY 222 E)" lat="37.5900" lng="-85.8600"/>
+			<truckstop name="Petro #30 - Glendale" spaces="256" address="554 W Glendale Hodgenville Rd, Glendale, KY 42740" directions="I-65 Exit 86 (KY 222)" lat="37.5900" lng="-85.8700"/>
+		</zone>
+
+		<zone name="L3">
+			<truckstop name="TA #034 - Nashville" spaces="197" address="111 N First Street, Nashville, TN 37213" directions="I-24 Exit 48 (James Robertson Pkwy)" lat="36.1600" lng="-86.7600"/>
+			<truckstop name="Pilot #292 - Nashville" spaces="97" address="130 W Trinity Lane, Nashville, TN 37207" directions="I-65 Exit 87 A (Trinity Lane)" lat="36.2000" lng="-86.7700"/>
+		</zone>
+
+		<zone name="L4">
+			<truckstop name="Pilot #369 - Birmingham" spaces="100" address="901 Bankhead Hwy W, Birmingham, AL 35204" directions="I-20-59 Exit 123 (US 78 W - 3/4 m" lat="33.5298" lng="-86.8510"/>
+			<truckstop name="Flying J - Birmingham" spaces="158" address="224 Daniel Payne Dr N, Birmingham, AL 35207" directions="I-65 Exit 264 (AL 94)" lat="33.5393" lng="-86.8280"/>
+			<truckstop name="South Star Fuel Center" spaces="200" address="1901 Finley Blvd, Birmingham, AL 35234" directions="I-65 Exit 262 B (Finley Blvd E)" lat="33.5400" lng="-86.8200"/>
+		</zone>
+
+		<zone name="L5">
+			<truckstop name="Pilot #302 - Theodore" spaces="100" address="6955 Theodore Dawes Rd, Theodore, AL 36582" directions="I-10, Exit 13" lat="30.5600" lng="-88.2000"/>
+			<truckstop name="Pilot #075 - Satsuma" spaces="100" address="6109 US 43 South, Satsuma, AL 36572" directions="I-65 Exit 19 (US 43)" lat="30.8800" lng="-88.0400"/>
+			<truckstop name="TA #054 - Mobile" spaces="90" address="9201 Grand Bay-Wilmer Rd, Grand Bay, AL 36541" directions="I-10 Exit 4 (CR 11)" lat="30.4900" lng="-88.3200"/>
+		</zone>
+
+		<zone name="L6">
+			<truckstop name="Kiel Bros. Stop 95" spaces="75" address="3542 E 500 N, Whiteland, IN 46184" directions="I-65 Exit 95 (Whiteland Rd)" lat="39.5508" lng="-86.0434"/>
+			<truckstop name="Flying J - Whiteland" spaces="173" address="4982 N 350 East, Whiteland, OH 46184" directions="I-65 Exit 95 (Whiteland Rd)" lat="39.5500" lng="-86.0357"/>
+			<truckstop name="Pilot #037 - Whiteland" spaces="129" address="2962 County Road 500 North, Whiteland, IN 46184" directions="I-65 Exit 95 (CR 500 N)" lat="39.5500" lng="-86.0400"/>
+			<truckstop name="Road Ranger #226" spaces="100" address="1601 E Main, Greenwood, IN 46143" directions="I-65 Exit 99" lat="39.6100" lng="-86.0700"/>
+			<truckstop name="Pilot #397 - Whiteland" spaces="110" address="5115 North 300 East, Whiteland, IN 46184" directions="I-65 Exit 95 (IN 500)" lat="39.5500" lng="-86.0400"/>
+		</zone>
+
+		<zone name="L7">
+			<truckstop name="TA #111 - Montgomery" spaces="126" address="980 W South Blvd, Montgomery, AL 36105" directions="I-65 Exit 168 (US 80-82 E)" lat="32.3272" lng="-86.3327"/>
+			<truckstop name="Saveway Truck Plaza" spaces="125" address="7735 Mobile Hwy, Hope Hull, AL 36043" directions="I-65 Exit 164 (US 31 S)" lat="32.2600" lng="-86.3500"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="M">
+		<zone name="M1">
+			<truckstop name="TA #002 - Greensboro" spaces="177" address="1101 Highway 61, Whitsett, NC 27377" directions="I-40, Exit 138 (NC 61)" lat="36.0647" lng="-79.5645"/>
+			<truckstop name="Petro #29 - Mebane" spaces="275" address="500 Buckhorn Rd, Mebane, NC 27302" directions="I-40-85 Exit 157 (Buckhorn Rd N)" lat="36.0800" lng="-79.2200"/>
+			<truckstop name="Pilot #057 - Mebane" spaces="124" address="1342 Trollingwood Road, Mebane, NC 27302" directions="I-40-85 Exit 152 (Trollingwood Rd)" lat="36.0600" lng="-79.3100"/>
+			<truckstop name="Flying J - Haw River" spaces="251" address="1043 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150" lat="36.0700" lng="-79.3500"/>
+			<truckstop name="Wilco # 165 - Haw River" spaces="135" address="1044 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150 (Jimmie Kerr Rd)" lat="36.0700" lng="-79.3500"/>
+		</zone>
+
+		<zone name="M2">
+			<truckstop name="TA #025 - Spartanburg" spaces="185" address="1402 E Main St, Duncan, SC 29334" directions="I-85, Exit 63 (SC 290)" lat="34.9100" lng="-82.1200"/>
+			<truckstop name="Pilot #063 - Piedmont" spaces="80" address="110 Frontage Road, Piedmont, SC 29673" directions="I-85 Exit 35 (Hwy 86)" lat="34.7000" lng="-82.5000"/>
+		</zone>
+
+		<zone name="M3">
+			<truckstop name="Petro #19 - Bucksville" spaces="255" address="22534 Hwy 216, McCalla, AL 35111" directions="I-20-59 Exit 100" lat="33.2700" lng="-87.0900"/>
+			<truckstop name="Flying J - Bessemer" spaces="150" address="6098 MacAshan Dr, McCalla, AL 35111" directions="I-20-59 Exit 104" lat="33.3183" lng="-87.0398"/>
+			<truckstop name="Wilco #5501 - Cottondale" spaces="75" address="3201 Buttermilk Rd, Cottondale, AL 35453" directions="I-20-59 Exit 77" lat="33.1700" lng="-87.4400"/>
+			<truckstop name="Pilot #076 - Tuscaloosa" spaces="100" address="4416 Skyland Boulevard East, Tuscaloosa, AL 35405" directions="I-20-59 Exit 76 (US 11 Bypass)" lat="33.1700" lng="-87.4700"/>
+		</zone>
+
+		<zone name="M4">
+			<truckstop name="Delta Travel Center" spaces="100" address="415 Hwy 49 S, Richland, MS 39218" directions="I-20 Exit 47 A (US 49 S)" lat="32.2767" lng="-90.1601"/>
+			<truckstop name="SOS Truck Stop" spaces="80" address="1200 Clinton-Raymond Rd, Clinton, MS 39060" directions="I-20 Exit 35" lat="32.3200" lng="-90.3400"/>
+			<truckstop name="Flying J - Pearl" spaces="175" address="685 Hwy 80 E, Pearl, MS 39208" directions="I-20 Exit 47 B (US 49 N)" lat="32.2700" lng="-90.1500"/>
+			<truckstop name="Pilot #077 - Jackson" spaces="75" address="2520 S Gallatin Rd, Jackson, MS 39204" directions="I-20-55 Exit 45 A (Gallatin Rd)" lat="32.2700" lng="-90.1900"/>
+			<truckstop name="Petro #28 - Jackson" spaces="205" address="970 I-20 at W Frontage Rd, Jackson, MS 39201" directions="I-20-55 Exit 45 A (Gallatin Rd)" lat="32.2700" lng="-90.1900"/>
+		</zone>
+
+		<zone name="M5">
+			<truckstop name="Kelly's Truck Terminal" spaces="150" address="8560 Greenwood Rd, Greenwood, LA 71033" directions="I-20 Exit 5 (US 79-80)" lat="32.4400" lng="-93.9400"/>
+			<truckstop name="Flying J - Greenwood" spaces="190" address="9510 Greenwood Rd, Greenwood, LA 71033" directions="I-20 Exit 3" lat="32.4400" lng="-93.9800"/>
+			<truckstop name="Petro # 8 - Shreveport" spaces="221" address="6910 W Industrial Loop, Shreveport, LA 71129" directions="I-20 Exit 8 (Industrial Loop)" lat="32.4400" lng="-93.9000"/>
+			<truckstop name="Pilot #199 - Haughton" spaces="92" address="490 North Elm Street, Haughton, LA 71037" directions="I-20 Exit 33" lat="32.5455" lng="-93.5154"/>
+		</zone>
+
+		<zone name="M6">
+			<truckstop name="TA #150 - Dallas South" spaces="146" address="7751 Bonnie View Rd, Dallas, TX 75241" directions="I-20 Exit 472 (I-635)" lat="32.6543" lng="-96.7513"/>
+			<truckstop name="Flying J - Dallas" spaces="198" address="34100 LBJ Freeway, Dallas, TX 75241" directions="I-20 Exit 472" lat="32.6500" lng="-96.7400"/>
+			<truckstop name="HK USA Travel Center" spaces="113" address="8181 S Lancaster Rd, Dallas, TX 75241" directions="I-20 Exit 470 (TX 342 — Lancaster)" lat="32.6400" lng="-96.7800"/>
+			<truckstop name="Pilot #433 - Dallas" spaces="134" address="8787 S Lancaster Rd, Dallas, TX 75241" directions="I-20 Exit 470 (TX 342 — Lancaster)" lat="32.6400" lng="-96.7800"/>
+		</zone>
+
+		<zone name="M7">
+			<truckstop name="Petro #22 - Atlanta" spaces="397" address="3181 Bankhead Hwy NW, Atlanta, GA 30318" directions="I-285 Exit 12 (US 78-278 E)" lat="33.7858" lng="-84.4900"/>
+			<truckstop name="Wilco #3010 - Villa Rica" spaces="88" address="95 Liberty Rd, Villa Rica, GA 30180" directions="I-20 Exit 26 (Liberty Rd)" lat="33.7200" lng="-84.9000"/>
+			<truckstop name="Pilot #417 - Temple" spaces="103" address="625 Carrollton Street, Temple, GA 30179" directions="I-20 Exit 19 (GA 113)" lat="33.7200" lng="-84.9300"/>
+		</zone>
+
+		<zone name="M8">
+			<truckstop name="York Truck Plaza" spaces="85" address="17702 Alabama Hwy 17 N, Aliceville, AL 35442" directions="I-20-59 Exit 8 (AL 17)" lat="32.5182" lng="-88.2920"/>
+			<truckstop name="Noble Truck Stop #3" spaces="150" address="I-20-59 Exit 17 (AL 28), Livingston, AL 35470" directions="I-20-59 Exit 17 (AL 28)" lat="32.6228" lng="-88.2070"/>
+			<truckstop name="TA #047 - Meridian" spaces="95" address="2150 Russell-Mt Gilead Rd, Meridian, MS 39301" directions="I-20 Exit 160" lat="32.3965" lng="-88.5813"/>
+			<truckstop name="Spaceway Truck Stop" spaces="150" address="10580 Hwy 80 W, Meridian, MS 39307" directions="I-20 Exit 129 (US 80)" lat="32.3500" lng="-88.7400"/>
+		</zone>
+
+		<zone name="M9">
+			<truckstop name="USA Auto/Truck Stop" spaces="125" address="985 Hwy 80 E, Calhoun, LA 71225" directions="I-20 Exit 103 (US 80)" lat="32.5100" lng="-92.3200"/>
+			<truckstop name="Pilot #428 - West Monroe" spaces="75" address="300 Well Road, West Monroe, LA 71292" directions="I-20 Exit 112" lat="32.5000" lng="-92.1900"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="N">
+		<zone name="N1">
+			<truckstop name="Petro #36 - Carlisle" spaces="322" address="1201 Harrisburg Ave, RT 11, Carlisle, PA 17013" directions="I-76 (PATP) Exit 226 N (I-81 Exit)" lat="40.2200" lng="-77.1400"/>
+			<truckstop name="Carlisle All American Texaco" spaces="180" address="7029 Carlisle Pike, Carlisle, PA 17013" directions="I-81 Exit 17 A (1 mi NE on US 11)" lat="40.2300" lng="-77.0900"/>
+			<truckstop name="Flying J - Carlisle" spaces="278" address="1501 Harrisburg Pike, Carlisle, PA 17013" directions="I-81 Exit 52 (US 11 NE)" lat="40.2342" lng="-77.1227"/>
+			<truckstop name="Pilot #342 - Carlisle" spaces="102" address="1165 Harrisburg Pike, Carlisle, PA 17013" directions="I-781 Exit 52B (US 11 S)" lat="40.2200" lng="-77.1400"/>
+		</zone>
+
+		<zone name="N2">
+			<truckstop name="Lancer Truck Stop" spaces="150" address="5151 N Fork Rd, Elliston, VA 24087" directions="I-81 Exit 128 (VA 603)" lat="37.2326" lng="-80.2412"/>
+			<truckstop name="TA #021 - Roanoke" spaces="117" address="I-81 Exit 150 (US 220), Troutville, VA 24175" directions="I-81 Exit 150 (US 11-220)" lat="37.4000" lng="-79.8700"/>
+		</zone>
+
+		<zone name="N3">
+			<truckstop name="TA #107 - Knoxville West" spaces="176" address="615 Watt Rd, Knoxville, TN 37922" directions="I-40-75 Exit 369 (S Watt Rd)" lat="35.8737" lng="-84.2364"/>
+			<truckstop name="TA #013 - Knoxville East" spaces="145" address="608 Lovell Rd, Knoxville, TN 37932" directions="I-40-75 Exit 374 (N Lovell Rd)" lat="35.9091" lng="-84.1487"/>
+			<truckstop name="Petro #12 - Knoxville West" spaces="221" address="722 Watt Rd, Knoxville, TN 37922" directions="I-40-75 Exit 369 (S Watt Rd)" lat="35.8700" lng="-84.2300"/>
+			<truckstop name="Flying J - Knoxville" spaces="187" address="800 Watt Rd, Knoxville, TN 37932" directions="I-40-75 Exit 369 (N Watt Rd)" lat="35.8800" lng="-84.2300"/>
+		</zone>
+
+		<zone name="N4">
+			<truckstop name="Shenandoah Truck Center" spaces="185" address="218 Conicville Blvd, Mt Jackson, VA 22842" directions="I-81 Exit 273 (VA 703)" lat="38.7600" lng="-78.6300"/>
+			<truckstop name="The Virginian Truck Center" spaces="100" address="1015 Mt Olive Rd, Toms Brook, VA 22660" directions="I-81 Exit 291 (VA 651)" lat="38.9600" lng="-78.4500"/>
+			<truckstop name="Wilco # 705 - Toms Brook" spaces="138" address="1014 Mt Olive Rd, Toms Brook, VA 22660" directions="I-81 Exit 291" lat="38.9600" lng="-78.4300"/>
+			<truckstop name="Sheetz Travel Center #701" spaces="85" address="227 Conicville Rd, Mount Jackson, VA 22842" directions="I-81 Exit 273" lat="38.7400" lng="-78.6400"/>
+			<truckstop name="Love's #305 - Toms Brook" spaces="75" address="1015 Mt Olive Rd, Toms Brook, VA 22660" directions="I-81 Exit 291" lat="38.9700" lng="-78.4600"/>
+		</zone>
+
+		<zone name="N5">
+			<truckstop name="Petro #72 - Glade Spring" spaces="270" address="12433 Maple St, Glade Spring, VA 24340" directions="I-81, Exit 29" lat="36.7700" lng="-81.7800"/>
+			<truckstop name="Davey Crocket Travel Plaza" spaces="120" address="I-81 Exit 36, Chilhowie, VA 24319" directions="I-81 Exit 36" lat="36.8000" lng="-81.6700"/>
+		</zone>
+
+	</corridor>
+
+	<corridor name="O">
+		<zone name="O1">
+			<truckstop name="TA #216 - Baltimore" spaces="210" address="5501 O'Donnell St Cutoff, Baltimore, MD 21224" directions="I-95 Exit 57 (O'Donnell St)/I-895" lat="39.2800" lng="-76.5500"/>
+		</zone>
+
+		<zone name="O2">
+			<truckstop name="TA #142 - Richmond" spaces="142" address="10134 Lewistown Rd, Ashland, VA 23005" directions="I-95 Exit 89 (VA 802 E)" lat="37.7228" lng="-77.4473"/>
+			<truckstop name="TA #001 - Ashland" spaces="183" address="100 N Carter Rd, Ashland, VA 23005" directions="I-95 Exit 92 (VA 54)" lat="37.7589" lng="-77.4632"/>
+			<truckstop name="Doswell All American Travel " spaces="240" address="1022 Kings Dominion Blvd, Doswell, VA 23047" directions="I-95 Exit 98 (VA 30 E)" lat="37.8502" lng="-77.4277"/>
+			<truckstop name="Petro #56 - Ruther Glen" spaces="198" address="I-95 Exit 104 (VA 207), Ruther Glen, VA 22546" directions="I-95 Exit 104 (VA 207)" lat="37.9400" lng="-77.4600"/>
+			<truckstop name="Pilot #291 - Ruther Glen" spaces="80" address="23845 Rogers Clark Boulevard, Ruther Glen, VA 22546" directions="I-95 Exit 104 (VA 207)" lat="37.9300" lng="-77.4600"/>
+			<truckstop name="Flying J - Carmel Church" spaces="239" address="24279 Rogers Clark Blvd, Ruther Glen, VA 22546" directions="I-95 Exit 104" lat="37.9300" lng="-77.4600"/>
+		</zone>
+
+		<zone name="O3">
+			<truckstop name="TA #002 - Greensboro" spaces="177" address="1101 Highway 61, Whitsett, NC 27377" directions="I-40, Exit 138 (NC 61)" lat="36.0647" lng="-79.5645"/>
+			<truckstop name="Petro #29 - Mebane" spaces="275" address="500 Buckhorn Rd, Mebane, NC 27302" directions="I-40-85 Exit 157 (Buckhorn Rd N)" lat="36.0800" lng="-79.2200"/>
+			<truckstop name="Pilot #057 - Mebane" spaces="124" address="1342 Trollingwood Road, Mebane, NC 27302" directions="I-40-85 Exit 152 (Trollingwood Rd)" lat="36.0600" lng="-79.3100"/>
+			<truckstop name="Flying J - Haw River" spaces="251" address="1043 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150" lat="36.0700" lng="-79.3500"/>
+			<truckstop name="Wilco # 165 - Haw River" spaces="135" address="1044 Jimmie Kerr Rd, Haw River, NC 27258" directions="I-40-85 Exit 150 (Jimmie Kerr Rd)" lat="36.0700" lng="-79.3500"/>
+		</zone>
+
+		<zone name="O4">
+			<truckstop name="TA #025 - Spartanburg" spaces="185" address="1402 E Main St, Duncan, SC 29334" directions="I-85, Exit 63 (SC 290)" lat="34.9100" lng="-82.1200"/>
+			<truckstop name="Pilot #063 - Piedmont" spaces="80" address="110 Frontage Road, Piedmont, SC 29673" directions="I-85 Exit 35 (Hwy 86)" lat="34.7000" lng="-82.5000"/>
+		</zone>
+
+		<zone name="O5">
+			<truckstop name="Pilot #422 - Newnan" spaces="110" address="1645 Hwy 29 S, Newnan, GA 30263" directions="I-85 Exit 41 (US 29 N)" lat="33.3200" lng="-84.7700"/>
+			<truckstop name="Greenway Stores #612" spaces="130" address="1389 Hwy 29 S, Newnan, GA 30263" directions="I-85 Exit 41 (US 29)" lat="33.3200" lng="-84.7700"/>
+		</zone>
+
+		<zone name="O6">
+			<truckstop name="Pilot #302 - Theodore" spaces="100" address="6955 Theodore Dawes Rd, Theodore, AL 36582" directions="I-10, Exit 13" lat="30.5600" lng="-88.2000"/>
+			<truckstop name="Pilot #075 - Satsuma" spaces="100" address="6109 US 43 South, Satsuma, AL 36572" directions="I-65 Exit 19 (US 43)" lat="30.8800" lng="-88.0400"/>
+			<truckstop name="TA #054 - Mobile" spaces="90" address="9201 Grand Bay-Wilmer Rd, Grand Bay, AL 36541" directions="I-10 Exit 4 (CR 11)" lat="30.4900" lng="-88.3200"/>
+		</zone>
+
+		<zone name="O7">
+			<truckstop name="Chex Truck Stop" spaces="300" address="250 Fleming Rd, Henderson, NC 27536" directions="I-85 Exit 220 (Fleming Rd)" lat="36.3900" lng="-78.3300"/>
+		</zone>
+
+		<zone name="O8">
+			<truckstop name="TA #111 - Montgomery" spaces="126" address="980 W South Blvd, Montgomery, AL 36105" directions="I-65 Exit 168 (US 80-82 E)" lat="32.3200" lng="-86.3100"/>
+			<truckstop name="Saveway Truck Plaza" spaces="125" address="7735 Mobile Hwy, Hope Hull, AL 36043" directions="I-65 Exit 164 (US 31 S)" lat="32.2600" lng="-86.3500"/>
+		</zone>
+
+		<zone name="O9">
+			<truckstop name="TA #180 - Slidell" spaces="153" address="1682 Gause Blvd, Slidell, LA 70459" directions="I-10 Exit 266 (US 190 - Gause Blv)" lat="30.2700" lng="-89.7700"/>
+			<truckstop name="Mardi Gras Truck Stop" spaces="75" address="2401 Elysian Fields Ave, New Orleans, LA 70182" directions="I-10 Exit 236 B (EB) / 237 (WB)" lat="29.9800" lng="-90.0500"/>
+			<truckstop name="Big Easy Travel Plaza" spaces="100" address="5000 Old Gentilly Rd, New Orleans, LA 70182" directions="I-10 Exit 239" lat="30.0000" lng="-90.0300"/>
+		</zone>
+	</corridor>
+
+</list>
